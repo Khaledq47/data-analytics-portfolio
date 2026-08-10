@@ -40,15 +40,15 @@ total revenue by the total number of orders.
 5. Average Pizzas Per Order: The average number of pizzas sold per order, calculated by
 dividing the total number of pizzas sold by the total number of orders.
 
-6.Daily Trend for Total Orders:
+6. Daily Trend for Total Orders:
 Create a bar chart that displays the daily trend of total orders over a specific time period. This chart will
 help us identify any patterns or fluctuations in order volumes on a daily basis.
 
-7.Hourly Trend for Total Orders:
+7. Hourly Trend for Total Orders:
 Create a line chart that illustrates the hourly trend of total orders throughout the day. This chart will allow
 us to identify peak hours or periods of high order activity.
 
-8.Percentage of Sales by Pizza Category:
+8. Percentage of Sales by Pizza Category:
 Create a pie chart that shows the distribution of sales across different pizza categories. This chart will
 provide insights into the popularity of various pizza categories and their contribution to overall sales.
 ---
