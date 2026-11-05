@@ -1,0 +1,2501 @@
+customer_id,registration_date,region,customer_segment,acquisition_channel
+10001,2024-03-06 03:40:36,Riyadh,Consumer,Paid Search
+10002,2025-07-18 23:42:35,Dammam,Small Business,Paid Search
+10003,2025-04-22 20:05:34,Riyadh,Consumer,Direct
+10004,2024-11-16 09:09:00,Abha,Consumer,Direct
+10005,2024-11-12 02:25:36,Madinah,Consumer,Referral
+10006,2025-09-18 18:38:07,Abha,Consumer,Organic Search
+10007,2024-03-03 17:46:03,Dammam,Corporate,Social Media
+10008,2025-05-24 01:53:16,Other,Consumer,Organic Search
+10009,2024-05-27 01:44:46,Riyadh,Corporate,Direct
+10010,2024-03-09 17:59:13,Jeddah,Consumer,Organic Search
+10011,2025-01-19 07:54:42,Jeddah,Consumer,Organic Search
+10012,2025-12-13 04:54:12,Other,Consumer,Referral
+10013,2025-06-21 02:22:53,Dammam,Consumer,Paid Search
+10014,2025-07-09 15:10:03,Abha,Small Business,Email
+10015,2025-06-07 18:12:06,Riyadh,Consumer,Organic Search
+10016,2025-07-27 19:50:47,Other,Consumer,Email
+10017,2025-01-09 15:43:46,Jeddah,Small Business,Organic Search
+10018,2024-04-03 12:33:03,Jeddah,Small Business,Organic Search
+10019,2025-09-05 00:23:20,Other,Corporate,Paid Search
+10020,2024-11-24 18:45:41,Jeddah,Corporate,Organic Search
+10021,2024-12-31 06:09:56,Jeddah,Small Business,Social Media
+10022,2024-09-27 16:22:52,Dammam,Small Business,Organic Search
+10023,2024-05-13 06:16:10,Riyadh,Small Business,Organic Search
+10024,2025-11-07 12:55:21,Jeddah,Consumer,Referral
+10025,2025-07-24 13:03:42,Riyadh,Small Business,Organic Search
+10026,2025-04-15 00:31:00,Riyadh,Consumer,Referral
+10027,2024-10-20 18:17:58,Abha,Small Business,Referral
+10028,2025-08-23 14:47:00,Dammam,Corporate,Organic Search
+10029,2025-02-02 03:55:05,Jeddah,Consumer,Referral
+10030,2024-11-19 16:37:00,Jeddah,Small Business,Paid Search
+10031,2024-11-24 20:03:04,Jeddah,Corporate,Paid Search
+10032,2024-06-14 21:13:20,Makkah,Consumer,Organic Search
+10033,2024-03-08 06:13:16,Other,Consumer,Email
+10034,2025-02-08 20:19:31,Other,Corporate,Social Media
+10035,2025-10-10 03:49:48,Jeddah,Corporate,Social Media
+10036,2024-02-16 14:04:41,Jeddah,Consumer,Direct
+10037,2025-09-18 13:15:48,Jeddah,Consumer,Paid Search
+10038,2025-08-27 04:05:53,Dammam,Small Business,Direct
+10039,2024-07-21 00:49:47,Jeddah,Consumer,Referral
+10040,2025-04-06 02:45:36,Makkah,Consumer,Direct
+10041,2024-04-30 14:48:48,Dammam,Consumer,Direct
+10042,2025-07-07 09:41:49,Jeddah,Consumer,Direct
+10043,2025-05-26 09:09:44,Jeddah,Consumer,Organic Search
+10044,2024-09-15 19:17:41,Jeddah,Small Business,Email
+10045,2024-02-19 13:57:30,Riyadh,Small Business,Email
+10046,2025-12-09 14:37:45,Riyadh,Small Business,Social Media
+10047,2024-11-21 08:26:41,Madinah,Consumer,Paid Search
+10048,2025-10-13 23:28:55,Jeddah,Consumer,Direct
+10049,2025-05-09 21:08:27,Riyadh,Consumer,Organic Search
+10050,2025-07-22 05:16:43,Dammam,Consumer,Social Media
+10051,2025-07-08 17:26:17,Madinah,Consumer,Social Media
+10052,2024-05-22 02:04:12,Riyadh,Consumer,Organic Search
+10053,2024-09-22 15:38:01,Abha,Consumer,Referral
+10054,2024-12-06 16:57:07,Other,Consumer,Organic Search
+10055,2024-12-29 09:18:28,Dammam,Small Business,Referral
+10056,2024-02-01 23:26:31,Makkah,Small Business,Email
+10057,2025-02-02 23:53:51,Riyadh,Corporate,Paid Search
+10058,2024-04-22 15:09:06,Other,Small Business,Referral
+10059,2025-06-26 15:56:45,Jeddah,Consumer,Organic Search
+10060,2025-05-13 15:01:03,Other,Consumer,Email
+10061,2025-11-04 10:41:15,Dammam,Consumer,Direct
+10062,2025-06-27 16:13:58,Riyadh,Consumer,Organic Search
+10063,2024-09-24 15:34:45,Riyadh,Consumer,Referral
+10064,2025-12-07 06:46:13,Makkah,Consumer,Social Media
+10065,2024-10-26 22:05:53,Dammam,Consumer,Social Media
+10066,2024-08-25 20:27:36,Riyadh,Consumer,Referral
+10067,2025-10-23 00:59:11,Madinah,Small Business,Social Media
+10068,2024-09-27 10:27:14,Abha,Small Business,Social Media
+10069,2024-02-25 17:31:57,Jeddah,Small Business,Organic Search
+10070,2024-12-08 18:37:04,Jeddah,Small Business,Paid Search
+10071,2025-08-03 20:18:47,Riyadh,Consumer,Email
+10072,2024-05-18 07:32:17,Madinah,Consumer,Organic Search
+10073,2024-12-03 22:43:07,Jeddah,Small Business,Social Media
+10074,2024-04-04 20:13:29,Tabuk,Consumer,Organic Search
+10075,2025-05-16 03:05:53,Jeddah,Consumer,Email
+10076,2024-12-13 06:21:01,Dammam,Consumer,Social Media
+10077,2024-08-29 01:02:23,Riyadh,Corporate,Paid Search
+10078,2024-06-14 15:27:06,Riyadh,Small Business,Organic Search
+10079,2025-02-16 02:02:17,Madinah,Consumer,Paid Search
+10080,2025-05-03 23:08:28,Jeddah,Small Business,Direct
+10081,2025-11-17 10:09:46,Dammam,Consumer,Social Media
+10082,2024-11-15 02:54:05,Other,Consumer,Paid Search
+10083,2024-04-27 07:15:23,Other,Consumer,Referral
+10084,2025-08-30 20:31:19,Abha,Consumer,Paid Search
+10085,2025-04-04 17:28:14,Riyadh,Small Business,Paid Search
+10086,2025-05-26 04:38:40,Dammam,Consumer,Paid Search
+10087,2024-03-11 23:24:38,Tabuk,Small Business,Organic Search
+10088,2024-08-16 00:39:48,Jeddah,Consumer,Referral
+10089,2025-07-14 12:37:31,Riyadh,Small Business,Direct
+10090,2025-08-30 13:11:30,Abha,Small Business,Direct
+10091,2024-11-13 16:59:45,Jeddah,Small Business,Direct
+10092,2025-08-10 11:28:17,Dammam,Consumer,Paid Search
+10093,2025-09-06 10:26:29,Other,Corporate,Paid Search
+10094,2024-10-09 20:37:16,Dammam,Consumer,Social Media
+10095,2025-10-17 14:29:42,Jeddah,Small Business,Direct
+10096,2024-07-29 11:30:30,Jeddah,Small Business,Referral
+10097,2024-06-23 21:03:08,Jeddah,Consumer,Social Media
+10098,2025-05-13 05:19:16,Riyadh,Consumer,Referral
+10099,2025-04-09 20:04:01,Madinah,Consumer,Email
+10100,2024-04-12 00:27:48,Abha,Consumer,Direct
+10101,2025-08-30 21:32:52,Riyadh,Consumer,Referral
+10102,2024-05-25 22:23:30,Jeddah,Consumer,Paid Search
+10103,2025-08-10 13:49:56,Tabuk,Consumer,Paid Search
+10104,2024-01-06 08:59:13,Riyadh,Consumer,Social Media
+10105,2025-08-04 16:40:55,Dammam,Small Business,Paid Search
+10106,2025-07-28 10:54:54,Jeddah,Consumer,Direct
+10107,2025-07-23 15:58:58,Makkah,Small Business,Social Media
+10108,2025-04-30 08:11:13,Riyadh,Consumer,Social Media
+10109,2024-12-10 05:51:22,Makkah,Consumer,Paid Search
+10110,2025-05-29 18:29:50,Jeddah,Consumer,Social Media
+10111,2024-07-21 07:10:15,Dammam,Small Business,Social Media
+10112,2025-07-23 22:22:21,Riyadh,Consumer,Organic Search
+10113,2025-02-09 14:56:05,Jeddah,Corporate,Email
+10114,2024-12-01 00:12:15,Dammam,Consumer,Paid Search
+10115,2025-01-04 02:13:17,Riyadh,Consumer,Paid Search
+10116,2025-02-19 04:20:44,Riyadh,Consumer,Organic Search
+10117,2024-01-28 04:50:08,Riyadh,Small Business,Social Media
+10118,2024-04-12 01:14:36,Jeddah,Consumer,Referral
+10119,2024-06-28 04:49:48,Riyadh,Consumer,Direct
+10120,2024-03-24 14:34:00,Other,Consumer,Organic Search
+10121,2024-11-16 22:01:47,Jeddah,Consumer,Direct
+10122,2025-05-02 22:25:11,Abha,Consumer,Referral
+10123,2025-04-22 17:35:37,Other,Corporate,Paid Search
+10124,2024-12-09 21:36:19,Riyadh,Consumer,Organic Search
+10125,2025-09-16 05:00:06,Makkah,Consumer,Paid Search
+10126,2025-02-16 14:56:11,Tabuk,Corporate,Direct
+10127,2024-02-27 19:32:18,Makkah,Consumer,Paid Search
+10128,2025-07-12 10:46:47,Jeddah,Consumer,Paid Search
+10129,2025-02-23 11:00:10,Jeddah,Small Business,Referral
+10130,2025-04-08 08:15:53,Riyadh,Corporate,Direct
+10131,2025-02-16 17:20:26,Dammam,Small Business,Referral
+10132,2025-02-08 02:42:39,Other,Consumer,Referral
+10133,2024-03-07 02:43:25,Other,Corporate,Organic Search
+10134,2025-02-12 05:18:34,Riyadh,Consumer,Direct
+10135,2025-08-03 06:52:08,Makkah,Corporate,Paid Search
+10136,2024-08-09 21:12:20,Jeddah,Small Business,Organic Search
+10137,2025-03-16 01:43:33,Tabuk,Corporate,Direct
+10138,2024-01-23 11:55:42,Riyadh,Consumer,Organic Search
+10139,2024-09-10 16:11:09,Other,Consumer,Organic Search
+10140,2024-11-14 19:17:19,Abha,Small Business,Social Media
+10141,2025-12-18 09:34:35,Riyadh,Consumer,Paid Search
+10142,2024-06-05 15:31:24,Riyadh,Consumer,Organic Search
+10143,2024-07-20 21:07:36,Abha,Corporate,Social Media
+10144,2024-10-25 05:25:18,Riyadh,Small Business,Referral
+10145,2025-12-25 15:30:05,Dammam,Consumer,Email
+10146,2025-09-14 23:37:18,Tabuk,Consumer,Organic Search
+10147,2024-01-26 07:49:14,Dammam,Consumer,Social Media
+10148,2024-06-19 18:37:11,Jeddah,Consumer,Email
+10149,2025-08-22 19:44:10,Jeddah,Consumer,Organic Search
+10150,2024-02-12 13:27:50,Riyadh,Small Business,Organic Search
+10151,2025-09-16 15:21:12,Other,Small Business,Organic Search
+10152,2024-07-24 09:50:44,Jeddah,Consumer,Social Media
+10153,2025-10-31 21:15:55,Riyadh,Consumer,Organic Search
+10154,2024-08-02 07:45:45,Riyadh,Small Business,Referral
+10155,2024-11-13 01:13:49,Other,Small Business,Direct
+10156,2025-04-28 04:46:38,Riyadh,Small Business,Organic Search
+10157,2024-04-02 04:26:18,Abha,Consumer,Social Media
+10158,2025-02-10 15:12:11,Makkah,Small Business,Organic Search
+10159,2025-01-03 15:52:17,Abha,Consumer,Organic Search
+10160,2025-07-26 05:53:47,Other,Consumer,Referral
+10161,2025-12-28 03:47:34,Abha,Small Business,Paid Search
+10162,2025-04-29 22:46:23,Other,Consumer,Direct
+10163,2024-10-25 16:56:47,Riyadh,Consumer,Social Media
+10164,2024-10-23 15:53:52,Madinah,Consumer,Organic Search
+10165,2024-11-01 02:38:13,Dammam,Consumer,Paid Search
+10166,2025-08-17 05:38:13,Dammam,Consumer,Organic Search
+10167,2024-08-22 11:41:58,Tabuk,Small Business,Direct
+10168,2024-05-01 21:21:55,Other,Consumer,Referral
+10169,2024-09-01 00:47:09,Makkah,Consumer,Paid Search
+10170,2024-01-17 13:54:55,Jeddah,Small Business,Social Media
+10171,2024-03-18 11:37:04,Jeddah,Consumer,Referral
+10172,2024-03-06 17:38:18,Jeddah,Corporate,Email
+10173,2025-07-17 05:35:53,Jeddah,Consumer,Organic Search
+10174,2025-06-11 07:44:08,Jeddah,Consumer,Organic Search
+10175,2025-05-23 15:25:27,Riyadh,Consumer,Organic Search
+10176,2024-12-03 04:05:20,Riyadh,Small Business,Paid Search
+10177,2025-06-07 10:51:54,Madinah,Consumer,Paid Search
+10178,2024-04-27 17:28:53,Jeddah,Corporate,Organic Search
+10179,2025-10-19 10:53:30,Other,Consumer,Paid Search
+10180,2024-12-31 18:18:16,Dammam,Consumer,Paid Search
+10181,2025-11-15 18:39:37,Riyadh,Consumer,Organic Search
+10182,2024-04-21 04:30:28,Riyadh,Consumer,Direct
+10183,2024-12-29 01:13:22,Riyadh,Consumer,Social Media
+10184,2025-05-23 07:31:58,Other,Consumer,Paid Search
+10185,2024-12-27 19:21:54,Riyadh,Consumer,Social Media
+10186,2024-11-21 16:39:28,Dammam,Small Business,Paid Search
+10187,2024-05-01 08:04:15,Other,Consumer,Email
+10188,2024-10-05 03:29:30,Other,Consumer,Social Media
+10189,2024-06-23 07:11:05,Riyadh,Consumer,Social Media
+10190,2024-08-08 02:29:30,Riyadh,Consumer,Direct
+10191,2025-05-14 02:26:08,Riyadh,Consumer,Email
+10192,2025-04-05 02:33:03,Riyadh,Consumer,Email
+10193,2025-03-19 06:04:53,Riyadh,Consumer,Organic Search
+10194,2024-09-21 02:57:24,Dammam,Small Business,Organic Search
+10195,2025-12-01 13:48:50,Tabuk,Consumer,Referral
+10196,2024-03-04 23:37:35,Dammam,Consumer,Paid Search
+10197,2024-09-07 02:11:25,Makkah,Small Business,Referral
+10198,2024-03-27 03:27:48,Riyadh,Consumer,Referral
+10199,2024-09-04 10:17:43,Abha,Consumer,Paid Search
+10200,2025-12-03 04:26:49,Dammam,Corporate,Paid Search
+10201,2024-09-24 08:56:13,Abha,Corporate,Social Media
+10202,2025-10-25 06:20:01,Other,Small Business,Paid Search
+10203,2024-12-27 09:33:01,Jeddah,Consumer,Referral
+10204,2025-05-25 18:52:08,Riyadh,Consumer,Referral
+10205,2024-11-29 21:57:15,Riyadh,Corporate,Social Media
+10206,2024-07-13 02:02:30,Jeddah,Corporate,Referral
+10207,2025-07-11 21:18:00,Other,Consumer,Social Media
+10208,2025-12-08 11:58:12,Jeddah,Consumer,Referral
+10209,2024-07-11 08:57:20,Madinah,Consumer,Organic Search
+10210,2025-07-22 11:42:57,Dammam,Consumer,Referral
+10211,2024-07-09 15:10:22,Riyadh,Small Business,Referral
+10212,2025-06-07 07:54:58,Jeddah,Consumer,Paid Search
+10213,2025-07-29 23:23:41,Makkah,Consumer,Social Media
+10214,2024-11-24 00:48:48,Makkah,Consumer,Email
+10215,2025-06-21 22:49:52,Jeddah,Consumer,Organic Search
+10216,2024-07-17 17:40:19,Riyadh,Consumer,Referral
+10217,2024-02-27 20:31:17,Madinah,Consumer,Direct
+10218,2024-03-11 08:46:10,Riyadh,Consumer,Email
+10219,2024-11-22 07:51:20,Other,Corporate,Paid Search
+10220,2025-10-20 21:35:38,Riyadh,Consumer,Social Media
+10221,2024-04-03 03:08:47,Riyadh,Consumer,Direct
+10222,2024-11-28 17:12:02,Jeddah,Consumer,Social Media
+10223,2025-05-28 22:38:30,Dammam,Consumer,Organic Search
+10224,2024-05-27 17:24:22,Dammam,Consumer,Organic Search
+10225,2025-06-10 18:43:09,Jeddah,Consumer,Email
+10226,2024-08-11 08:21:36,Other,Consumer,Paid Search
+10227,2025-08-13 07:44:10,Jeddah,Consumer,Organic Search
+10228,2025-02-26 19:55:36,Jeddah,Small Business,Paid Search
+10229,2025-02-03 05:48:55,Jeddah,Consumer,Referral
+10230,2024-05-09 01:03:32,Riyadh,Consumer,Paid Search
+10231,2024-12-04 03:22:03,Dammam,Consumer,Email
+10232,2025-09-17 07:52:56,Riyadh,Consumer,Referral
+10233,2024-01-15 06:03:37,Makkah,Consumer,Direct
+10234,2025-07-07 17:15:43,Riyadh,Consumer,Direct
+10235,2024-12-25 17:11:49,Other,Consumer,Paid Search
+10236,2025-06-09 04:59:27,Jeddah,Consumer,Referral
+10237,2025-04-29 04:58:52,Tabuk,Corporate,Organic Search
+10238,2024-11-11 10:16:12,Jeddah,Corporate,Direct
+10239,2024-08-13 07:50:57,Riyadh,Corporate,Paid Search
+10240,2025-04-02 22:27:03,Abha,Consumer,Referral
+10241,2024-04-12 08:43:45,Makkah,Consumer,Email
+10242,2025-03-02 09:23:47,Madinah,Consumer,Organic Search
+10243,2024-03-10 03:03:03,Jeddah,Consumer,Email
+10244,2025-04-19 09:18:44,Makkah,Consumer,Organic Search
+10245,2025-04-03 23:37:02,Abha,Consumer,Paid Search
+10246,2024-03-02 15:27:52,Makkah,Consumer,Social Media
+10247,2025-07-06 23:11:16,Jeddah,Consumer,Paid Search
+10248,2024-10-30 12:56:44,Makkah,Consumer,Social Media
+10249,2025-07-28 10:15:02,Makkah,Small Business,Direct
+10250,2024-01-31 09:04:49,Other,Consumer,Paid Search
+10251,2024-05-11 00:04:40,Jeddah,Small Business,Social Media
+10252,2024-12-26 14:43:08,Jeddah,Consumer,Direct
+10253,2024-05-17 09:42:18,Abha,Consumer,Email
+10254,2024-08-28 19:10:06,Dammam,Consumer,Organic Search
+10255,2025-04-27 05:41:42,Madinah,Consumer,Direct
+10256,2024-04-15 12:03:49,Jeddah,Consumer,Organic Search
+10257,2025-05-09 17:21:19,Riyadh,Consumer,Social Media
+10258,2024-03-16 11:37:11,Madinah,Consumer,Social Media
+10259,2024-05-07 21:14:39,Riyadh,Consumer,Email
+10260,2025-03-04 23:31:58,Riyadh,Consumer,Organic Search
+10261,2025-08-02 05:49:34,Makkah,Corporate,Organic Search
+10262,2024-05-04 12:47:19,Madinah,Consumer,Referral
+10263,2024-08-06 23:52:25,Tabuk,Consumer,Organic Search
+10264,2025-11-06 08:06:16,Riyadh,Consumer,Paid Search
+10265,2025-12-23 11:15:29,Riyadh,Consumer,Referral
+10266,2025-02-28 04:11:28,Other,Consumer,Referral
+10267,2024-11-22 08:06:30,Riyadh,Consumer,Organic Search
+10268,2024-09-10 05:09:32,Riyadh,Small Business,Paid Search
+10269,2025-03-23 02:09:27,Riyadh,Consumer,Direct
+10270,2025-03-07 08:50:21,Dammam,Consumer,Paid Search
+10271,2024-08-03 04:04:23,Tabuk,Consumer,Organic Search
+10272,2024-01-17 15:31:25,Madinah,Corporate,Organic Search
+10273,2024-04-20 14:15:01,Makkah,Small Business,Paid Search
+10274,2025-11-30 17:57:26,Riyadh,Corporate,Direct
+10275,2024-11-01 06:04:26,Jeddah,Small Business,Paid Search
+10276,2024-12-18 01:57:22,Jeddah,Small Business,Organic Search
+10277,2024-12-06 23:43:27,Riyadh,Consumer,Social Media
+10278,2025-07-25 09:31:16,Riyadh,Corporate,Organic Search
+10279,2024-02-17 10:02:20,Jeddah,Consumer,Paid Search
+10280,2024-03-01 09:25:46,Riyadh,Consumer,Direct
+10281,2024-07-20 08:50:37,Dammam,Small Business,Referral
+10282,2024-12-21 06:15:14,Makkah,Consumer,Organic Search
+10283,2025-05-04 22:05:35,Riyadh,Consumer,Paid Search
+10284,2024-12-24 05:11:11,Jeddah,Consumer,Organic Search
+10285,2024-11-18 01:15:52,Madinah,Consumer,Organic Search
+10286,2025-11-15 14:43:10,Madinah,Small Business,Social Media
+10287,2024-04-27 13:03:06,Abha,Consumer,Social Media
+10288,2025-02-21 08:40:31,Jeddah,Small Business,Referral
+10289,2025-01-30 20:07:35,Abha,Consumer,Direct
+10290,2024-12-11 15:32:03,Riyadh,Small Business,Organic Search
+10291,2025-08-12 13:06:25,Jeddah,Consumer,Direct
+10292,2024-07-13 21:24:49,Riyadh,Corporate,Social Media
+10293,2025-11-27 06:06:01,Jeddah,Consumer,Paid Search
+10294,2024-08-30 01:05:19,Jeddah,Consumer,Email
+10295,2025-02-01 20:28:42,Riyadh,Consumer,Organic Search
+10296,2025-01-15 02:10:49,Madinah,Consumer,Social Media
+10297,2025-09-12 08:06:31,Jeddah,Consumer,Referral
+10298,2024-11-16 09:43:43,Riyadh,Small Business,Paid Search
+10299,2024-07-26 17:28:22,Riyadh,Corporate,Email
+10300,2024-01-16 18:38:37,Jeddah,Small Business,Organic Search
+10301,2024-09-22 11:38:34,Jeddah,Consumer,Email
+10302,2025-08-26 04:38:04,Jeddah,Consumer,Organic Search
+10303,2024-01-08 05:43:54,Riyadh,Small Business,Organic Search
+10304,2025-10-16 04:44:12,Madinah,Small Business,Paid Search
+10305,2025-01-31 06:19:50,Other,Consumer,Email
+10306,2024-04-12 09:09:50,Jeddah,Corporate,Organic Search
+10307,2024-08-08 14:10:54,Makkah,Consumer,Direct
+10308,2025-02-08 10:42:47,Abha,Small Business,Organic Search
+10309,2024-08-18 10:55:36,Other,Corporate,Paid Search
+10310,2024-03-20 06:14:49,Dammam,Small Business,Paid Search
+10311,2025-05-01 04:07:30,Tabuk,Consumer,Organic Search
+10312,2025-05-05 17:38:47,Tabuk,Consumer,Direct
+10313,2024-03-27 18:40:36,Madinah,Consumer,Paid Search
+10314,2024-07-24 07:12:57,Jeddah,Small Business,Referral
+10315,2024-06-27 00:39:33,Riyadh,Consumer,Social Media
+10316,2025-04-26 09:05:04,Riyadh,Small Business,Social Media
+10317,2025-06-17 02:46:43,Jeddah,Corporate,Social Media
+10318,2025-06-14 16:56:44,Jeddah,Consumer,Direct
+10319,2025-11-16 07:05:49,Jeddah,Consumer,Referral
+10320,2025-07-15 02:42:14,Dammam,Small Business,Social Media
+10321,2024-08-22 02:18:13,Dammam,Consumer,Social Media
+10322,2024-03-19 15:37:16,Abha,Consumer,Social Media
+10323,2025-03-24 16:32:32,Riyadh,Consumer,Paid Search
+10324,2025-10-30 16:31:39,Riyadh,Consumer,Social Media
+10325,2025-12-12 20:43:16,Madinah,Small Business,Paid Search
+10326,2024-06-17 01:20:56,Abha,Consumer,Referral
+10327,2024-06-21 14:41:57,Other,Consumer,Direct
+10328,2024-01-28 07:28:04,Tabuk,Consumer,Direct
+10329,2024-04-13 02:54:46,Tabuk,Consumer,Email
+10330,2025-02-09 01:00:54,Jeddah,Consumer,Social Media
+10331,2025-02-03 03:59:36,Jeddah,Small Business,Referral
+10332,2024-09-27 18:33:30,Riyadh,Consumer,Organic Search
+10333,2024-08-14 06:25:09,Dammam,Consumer,Social Media
+10334,2025-08-28 17:54:58,Other,Corporate,Paid Search
+10335,2024-12-01 19:47:40,Jeddah,Consumer,Organic Search
+10336,2025-08-13 00:33:56,Dammam,Consumer,Direct
+10337,2025-12-04 03:28:19,Riyadh,Consumer,Email
+10338,2024-08-19 12:16:24,Riyadh,Consumer,Social Media
+10339,2024-05-27 23:58:30,Riyadh,Consumer,Paid Search
+10340,2025-11-26 14:47:50,Riyadh,Small Business,Referral
+10341,2025-04-08 10:14:26,Other,Small Business,Paid Search
+10342,2024-07-31 08:52:49,Jeddah,Consumer,Email
+10343,2025-03-29 22:59:13,Abha,Consumer,Direct
+10344,2025-01-10 23:48:03,Makkah,Consumer,Paid Search
+10345,2025-10-23 00:55:26,Riyadh,Consumer,Organic Search
+10346,2024-07-05 20:30:30,Riyadh,Small Business,Paid Search
+10347,2025-12-24 17:01:36,Abha,Small Business,Organic Search
+10348,2025-11-14 07:29:00,Riyadh,Corporate,Paid Search
+10349,2024-05-11 21:53:56,Tabuk,Consumer,Organic Search
+10350,2024-04-30 03:55:44,Riyadh,Small Business,Organic Search
+10351,2025-01-24 04:54:27,Makkah,Consumer,Paid Search
+10352,2024-02-02 18:50:02,Abha,Consumer,Organic Search
+10353,2024-08-06 02:56:24,Riyadh,Corporate,Referral
+10354,2024-11-13 14:54:01,Riyadh,Consumer,Organic Search
+10355,2025-12-08 15:25:13,Other,Small Business,Email
+10356,2025-12-25 10:25:11,Riyadh,Small Business,Organic Search
+10357,2024-04-20 14:58:47,Jeddah,Corporate,Organic Search
+10358,2025-10-12 22:11:08,Jeddah,Consumer,Organic Search
+10359,2024-03-07 09:04:22,Riyadh,Consumer,Referral
+10360,2025-06-30 11:36:45,Madinah,Small Business,Paid Search
+10361,2025-09-09 07:39:36,Madinah,Small Business,Social Media
+10362,2025-10-12 06:41:03,Jeddah,Consumer,Organic Search
+10363,2024-06-12 02:16:56,Abha,Small Business,Direct
+10364,2025-10-14 05:11:06,Riyadh,Consumer,Organic Search
+10365,2024-03-25 15:59:07,Riyadh,Consumer,Paid Search
+10366,2025-01-13 18:23:54,Dammam,Small Business,Email
+10367,2024-12-08 18:26:01,Other,Consumer,Organic Search
+10368,2024-08-18 15:04:37,Riyadh,Consumer,Paid Search
+10369,2024-01-17 03:26:25,Riyadh,Corporate,Email
+10370,2025-07-17 13:39:28,Dammam,Small Business,Paid Search
+10371,2024-09-01 23:25:32,Abha,Small Business,Organic Search
+10372,2025-04-28 00:18:19,Riyadh,Consumer,Paid Search
+10373,2024-10-26 11:03:11,Jeddah,Corporate,Organic Search
+10374,2024-09-29 18:29:00,Madinah,Consumer,Direct
+10375,2025-10-08 23:54:16,Jeddah,Consumer,Social Media
+10376,2024-03-09 23:03:21,Riyadh,Consumer,Social Media
+10377,2025-06-21 17:32:09,Riyadh,Small Business,Organic Search
+10378,2025-06-29 03:45:14,Jeddah,Corporate,Referral
+10379,2024-10-04 09:27:00,Jeddah,Small Business,Referral
+10380,2024-07-10 14:18:29,Abha,Small Business,Organic Search
+10381,2024-01-04 20:58:47,Makkah,Consumer,Direct
+10382,2025-11-14 20:57:59,Makkah,Consumer,Social Media
+10383,2025-11-22 20:15:18,Other,Consumer,Email
+10384,2024-06-24 21:48:16,Jeddah,Consumer,Paid Search
+10385,2024-01-24 07:04:53,Jeddah,Consumer,Organic Search
+10386,2024-03-30 14:43:08,Other,Small Business,Referral
+10387,2024-02-19 09:06:10,Riyadh,Small Business,Email
+10388,2025-08-29 17:05:38,Madinah,Small Business,Paid Search
+10389,2025-10-13 02:17:19,Madinah,Consumer,Organic Search
+10390,2024-04-21 21:32:28,Riyadh,Consumer,Email
+10391,2025-06-29 02:52:30,Jeddah,Consumer,Organic Search
+10392,2024-05-10 20:46:50,Riyadh,Consumer,Paid Search
+10393,2024-09-25 01:30:05,Riyadh,Consumer,Social Media
+10394,2025-03-13 13:11:11,Jeddah,Consumer,Organic Search
+10395,2025-06-09 13:07:02,Riyadh,Consumer,Organic Search
+10396,2025-09-30 10:19:37,Madinah,Small Business,Organic Search
+10397,2024-02-02 16:37:49,Tabuk,Consumer,Direct
+10398,2024-05-23 09:32:07,Abha,Consumer,Paid Search
+10399,2024-07-23 18:30:39,Riyadh,Consumer,Referral
+10400,2024-08-14 12:52:14,Riyadh,Consumer,Direct
+10401,2025-12-29 13:26:53,Riyadh,Consumer,Referral
+10402,2025-07-21 12:07:57,Riyadh,Consumer,Social Media
+10403,2024-08-21 21:42:35,Other,Consumer,Social Media
+10404,2025-12-10 10:23:56,Jeddah,Consumer,Paid Search
+10405,2024-12-30 11:51:30,Riyadh,Corporate,Social Media
+10406,2024-12-31 12:59:08,Abha,Consumer,Direct
+10407,2024-11-12 14:24:13,Jeddah,Consumer,Email
+10408,2024-04-15 01:05:03,Riyadh,Consumer,Paid Search
+10409,2025-11-13 02:12:21,Riyadh,Consumer,Paid Search
+10410,2024-01-11 04:09:49,Makkah,Consumer,Direct
+10411,2024-05-07 05:21:35,Madinah,Small Business,Organic Search
+10412,2024-06-16 15:34:25,Riyadh,Consumer,Email
+10413,2024-07-22 21:17:32,Tabuk,Small Business,Paid Search
+10414,2024-04-06 05:31:30,Abha,Consumer,Referral
+10415,2024-01-14 02:41:02,Abha,Consumer,Email
+10416,2025-05-09 16:34:47,Riyadh,Consumer,Social Media
+10417,2025-12-08 14:18:34,Riyadh,Consumer,Organic Search
+10418,2024-03-29 22:30:19,Abha,Consumer,Email
+10419,2024-08-04 11:17:48,Jeddah,Corporate,Paid Search
+10420,2025-01-04 14:54:01,Dammam,Small Business,Paid Search
+10421,2025-11-08 01:50:29,Madinah,Corporate,Social Media
+10422,2025-05-21 19:28:40,Riyadh,Consumer,Paid Search
+10423,2025-07-13 07:36:57,Madinah,Small Business,Referral
+10424,2025-02-28 05:09:46,Other,Consumer,Organic Search
+10425,2024-10-31 10:28:01,Madinah,Consumer,Paid Search
+10426,2024-05-25 20:04:09,Jeddah,Corporate,Direct
+10427,2025-09-22 22:47:16,Tabuk,Small Business,Organic Search
+10428,2025-08-10 00:15:42,Dammam,Corporate,Paid Search
+10429,2024-01-19 07:46:30,Madinah,Small Business,Referral
+10430,2025-06-06 05:55:58,Abha,Consumer,Direct
+10431,2024-03-02 14:28:46,Madinah,Small Business,Social Media
+10432,2025-06-23 10:59:59,Riyadh,Consumer,Email
+10433,2025-08-25 22:42:40,Riyadh,Corporate,Organic Search
+10434,2024-04-05 16:07:54,Riyadh,Small Business,Paid Search
+10435,2024-11-12 16:48:15,Dammam,Consumer,Direct
+10436,2024-03-31 08:09:59,Dammam,Consumer,Direct
+10437,2025-02-18 02:47:03,Dammam,Consumer,Social Media
+10438,2025-11-08 02:53:45,Jeddah,Consumer,Social Media
+10439,2024-02-29 00:50:04,Madinah,Consumer,Paid Search
+10440,2024-10-17 05:34:11,Tabuk,Small Business,Organic Search
+10441,2025-12-11 09:04:17,Riyadh,Consumer,Direct
+10442,2024-08-07 16:37:15,Madinah,Small Business,Email
+10443,2024-04-06 12:26:12,Makkah,Consumer,Paid Search
+10444,2024-12-22 15:59:32,Dammam,Consumer,Paid Search
+10445,2025-01-06 02:41:15,Riyadh,Consumer,Paid Search
+10446,2025-04-28 21:22:51,Madinah,Small Business,Organic Search
+10447,2024-08-17 00:40:55,Other,Consumer,Referral
+10448,2025-11-28 14:31:10,Madinah,Consumer,Social Media
+10449,2025-01-15 08:19:06,Tabuk,Consumer,Organic Search
+10450,2024-07-28 02:32:16,Other,Small Business,Social Media
+10451,2025-12-02 00:11:00,Jeddah,Consumer,Direct
+10452,2025-11-06 02:38:37,Makkah,Consumer,Organic Search
+10453,2024-12-30 09:22:00,Jeddah,Small Business,Paid Search
+10454,2024-01-19 03:32:17,Other,Small Business,Social Media
+10455,2025-03-11 18:19:14,Riyadh,Consumer,Organic Search
+10456,2025-02-09 07:04:10,Jeddah,Consumer,Social Media
+10457,2024-04-18 04:36:42,Tabuk,Consumer,Social Media
+10458,2025-04-07 19:14:38,Riyadh,Consumer,Organic Search
+10459,2025-09-05 18:42:12,Madinah,Small Business,Organic Search
+10460,2024-03-18 07:19:21,Jeddah,Consumer,Email
+10461,2025-06-12 00:36:45,Other,Consumer,Paid Search
+10462,2024-04-12 10:44:59,Tabuk,Consumer,Social Media
+10463,2025-06-30 15:26:10,Jeddah,Consumer,Social Media
+10464,2024-11-01 22:52:58,Madinah,Consumer,Email
+10465,2024-01-05 18:04:23,Jeddah,Small Business,Referral
+10466,2025-12-06 08:22:59,Dammam,Consumer,Email
+10467,2024-05-01 03:48:03,Makkah,Corporate,Social Media
+10468,2025-03-11 02:39:55,Abha,Small Business,Paid Search
+10469,2024-05-12 11:19:24,Riyadh,Consumer,Paid Search
+10470,2025-11-12 02:34:00,Riyadh,Consumer,Paid Search
+10471,2025-06-22 23:27:48,Makkah,Consumer,Paid Search
+10472,2025-08-10 04:24:11,Dammam,Consumer,Organic Search
+10473,2024-11-11 10:02:23,Jeddah,Consumer,Paid Search
+10474,2024-12-07 04:31:32,Riyadh,Small Business,Paid Search
+10475,2025-04-08 00:57:23,Jeddah,Consumer,Organic Search
+10476,2025-07-26 21:03:20,Abha,Consumer,Paid Search
+10477,2025-09-10 07:04:54,Riyadh,Consumer,Referral
+10478,2024-01-14 00:30:01,Jeddah,Consumer,Social Media
+10479,2025-04-29 09:35:42,Other,Corporate,Email
+10480,2024-03-20 16:12:10,Riyadh,Consumer,Social Media
+10481,2024-07-29 04:33:51,Madinah,Small Business,Email
+10482,2025-08-28 11:35:21,Riyadh,Small Business,Email
+10483,2024-07-01 20:59:26,Abha,Consumer,Organic Search
+10484,2025-08-04 16:14:07,Madinah,Consumer,Direct
+10485,2024-12-03 23:53:48,Tabuk,Consumer,Organic Search
+10486,2024-06-18 19:51:56,Riyadh,Small Business,Social Media
+10487,2024-08-31 23:57:29,Dammam,Consumer,Email
+10488,2025-01-22 11:04:59,Madinah,Small Business,Paid Search
+10489,2025-07-12 13:22:42,Riyadh,Small Business,Social Media
+10490,2025-03-18 09:23:49,Riyadh,Small Business,Paid Search
+10491,2025-11-12 06:04:54,Riyadh,Consumer,Organic Search
+10492,2025-09-25 10:47:11,Other,Consumer,Organic Search
+10493,2025-07-03 22:45:13,Makkah,Small Business,Organic Search
+10494,2025-03-16 06:26:14,Makkah,Consumer,Organic Search
+10495,2024-07-30 14:16:25,Madinah,Small Business,Social Media
+10496,2024-10-28 04:15:14,Dammam,Consumer,Social Media
+10497,2024-03-27 19:01:40,Jeddah,Consumer,Paid Search
+10498,2024-09-30 03:42:15,Jeddah,Small Business,Referral
+10499,2025-11-07 07:47:37,Makkah,Consumer,Organic Search
+10500,2024-11-06 21:27:14,Riyadh,Consumer,Paid Search
+10501,2024-03-24 00:31:44,Tabuk,Consumer,Email
+10502,2025-04-20 21:49:53,Abha,Consumer,Direct
+10503,2025-12-03 17:00:45,Jeddah,Small Business,Paid Search
+10504,2025-09-25 06:26:09,Dammam,Consumer,Organic Search
+10505,2024-07-19 01:49:10,Riyadh,Consumer,Email
+10506,2024-11-27 08:16:24,Other,Consumer,Direct
+10507,2025-01-22 15:24:33,Tabuk,Corporate,Paid Search
+10508,2024-06-29 22:08:56,Other,Consumer,Organic Search
+10509,2024-07-15 03:29:00,Jeddah,Corporate,Organic Search
+10510,2024-06-21 18:19:28,Riyadh,Small Business,Social Media
+10511,2025-12-27 01:03:51,Riyadh,Consumer,Direct
+10512,2025-06-28 14:10:12,Riyadh,Small Business,Referral
+10513,2025-09-05 19:48:13,Riyadh,Small Business,Paid Search
+10514,2025-08-19 02:17:05,Riyadh,Consumer,Social Media
+10515,2025-12-01 04:11:36,Other,Consumer,Email
+10516,2024-03-17 20:28:19,Riyadh,Small Business,Social Media
+10517,2025-10-05 14:12:01,Riyadh,Small Business,Email
+10518,2024-02-18 14:06:40,Abha,Small Business,Paid Search
+10519,2024-12-13 01:22:34,Dammam,Corporate,Paid Search
+10520,2025-03-09 22:28:40,Madinah,Consumer,Social Media
+10521,2024-09-18 05:43:34,Makkah,Small Business,Paid Search
+10522,2024-04-16 16:57:18,Tabuk,Small Business,Direct
+10523,2024-05-20 09:07:09,Makkah,Consumer,Social Media
+10524,2025-08-25 00:06:59,Dammam,Consumer,Paid Search
+10525,2024-08-20 16:02:33,Makkah,Consumer,Paid Search
+10526,2024-08-14 13:03:48,Jeddah,Small Business,Social Media
+10527,2025-11-05 01:17:59,Jeddah,Consumer,Paid Search
+10528,2024-04-15 00:38:10,Jeddah,Small Business,Referral
+10529,2025-10-30 03:28:35,Riyadh,Consumer,Paid Search
+10530,2025-11-03 07:24:09,Madinah,Consumer,Paid Search
+10531,2025-03-12 22:45:53,Riyadh,Consumer,Social Media
+10532,2024-04-30 20:06:56,Riyadh,Consumer,Organic Search
+10533,2024-04-23 18:40:56,Riyadh,Corporate,Referral
+10534,2024-07-26 20:17:45,Abha,Consumer,Social Media
+10535,2025-02-25 12:19:19,Jeddah,Corporate,Paid Search
+10536,2024-04-22 03:18:24,Makkah,Consumer,Referral
+10537,2024-11-28 15:07:36,Abha,Corporate,Referral
+10538,2024-03-25 07:23:09,Riyadh,Consumer,Email
+10539,2025-01-29 09:46:40,Madinah,Consumer,Paid Search
+10540,2024-01-16 10:30:47,Jeddah,Consumer,Paid Search
+10541,2025-06-01 14:18:49,Riyadh,Consumer,Referral
+10542,2024-02-10 10:31:39,Makkah,Consumer,Social Media
+10543,2024-05-22 05:16:42,Tabuk,Small Business,Social Media
+10544,2024-05-07 11:43:06,Riyadh,Consumer,Social Media
+10545,2025-08-29 15:00:59,Dammam,Consumer,Email
+10546,2024-02-08 23:15:05,Riyadh,Consumer,Organic Search
+10547,2024-11-09 08:37:45,Dammam,Consumer,Social Media
+10548,2025-03-07 12:50:22,Makkah,Small Business,Organic Search
+10549,2025-01-11 16:14:31,Dammam,Consumer,Paid Search
+10550,2025-05-11 22:07:06,Makkah,Small Business,Referral
+10551,2025-08-09 06:20:06,Riyadh,Corporate,Social Media
+10552,2024-10-14 08:24:20,Makkah,Consumer,Paid Search
+10553,2025-08-27 14:22:37,Makkah,Consumer,Direct
+10554,2024-08-20 03:12:14,Makkah,Consumer,Email
+10555,2025-12-19 15:05:09,Riyadh,Consumer,Social Media
+10556,2025-01-03 07:17:58,Jeddah,Consumer,Direct
+10557,2025-06-21 06:57:13,Jeddah,Corporate,Paid Search
+10558,2025-09-30 18:05:11,Riyadh,Small Business,Email
+10559,2025-08-01 15:14:59,Riyadh,Consumer,Organic Search
+10560,2025-09-13 07:49:33,Jeddah,Small Business,Paid Search
+10561,2025-01-26 15:43:04,Madinah,Consumer,Paid Search
+10562,2024-02-01 17:40:59,Riyadh,Small Business,Organic Search
+10563,2024-12-25 22:49:24,Abha,Consumer,Social Media
+10564,2024-05-12 11:51:07,Dammam,Consumer,Organic Search
+10565,2025-10-11 01:19:21,Madinah,Corporate,Social Media
+10566,2024-06-21 19:46:12,Jeddah,Small Business,Organic Search
+10567,2024-06-15 11:47:00,Jeddah,Small Business,Organic Search
+10568,2024-07-01 01:16:13,Dammam,Consumer,Direct
+10569,2025-04-14 01:45:39,Other,Small Business,Referral
+10570,2025-02-20 23:59:45,Jeddah,Consumer,Direct
+10571,2025-11-23 15:41:31,Dammam,Consumer,Social Media
+10572,2024-10-30 20:55:03,Dammam,Consumer,Organic Search
+10573,2024-07-25 01:30:48,Madinah,Consumer,Social Media
+10574,2024-02-05 22:55:55,Riyadh,Consumer,Social Media
+10575,2024-01-06 03:58:11,Dammam,Consumer,Organic Search
+10576,2024-09-29 17:43:10,Jeddah,Small Business,Email
+10577,2025-11-06 20:19:14,Other,Small Business,Social Media
+10578,2025-01-17 08:09:05,Jeddah,Corporate,Referral
+10579,2025-10-14 06:57:15,Jeddah,Consumer,Social Media
+10580,2024-03-15 05:17:30,Other,Corporate,Social Media
+10581,2024-03-09 02:59:02,Jeddah,Consumer,Paid Search
+10582,2025-08-31 10:11:37,Riyadh,Consumer,Direct
+10583,2024-03-18 22:07:13,Riyadh,Small Business,Paid Search
+10584,2024-02-07 22:22:18,Riyadh,Consumer,Organic Search
+10585,2024-10-21 23:42:14,Riyadh,Consumer,Organic Search
+10586,2025-11-06 03:13:46,Jeddah,Consumer,Social Media
+10587,2025-05-18 05:59:48,Madinah,Consumer,Direct
+10588,2024-03-13 08:27:44,Madinah,Small Business,Direct
+10589,2025-09-03 02:32:09,Riyadh,Consumer,Referral
+10590,2025-09-07 19:25:59,Dammam,Consumer,Direct
+10591,2025-08-07 12:12:12,Riyadh,Consumer,Referral
+10592,2025-10-20 22:28:59,Other,Consumer,Paid Search
+10593,2024-06-24 02:39:46,Riyadh,Small Business,Social Media
+10594,2025-12-16 02:04:41,Makkah,Corporate,Organic Search
+10595,2024-08-22 02:35:57,Jeddah,Small Business,Organic Search
+10596,2025-08-08 11:29:36,Makkah,Small Business,Paid Search
+10597,2025-02-26 22:28:01,Jeddah,Consumer,Organic Search
+10598,2025-07-23 00:26:47,Madinah,Small Business,Direct
+10599,2025-04-03 07:23:46,Riyadh,Consumer,Direct
+10600,2025-04-14 00:18:25,Tabuk,Consumer,Paid Search
+10601,2025-03-25 21:17:50,Dammam,Small Business,Referral
+10602,2025-07-22 16:00:58,Madinah,Consumer,Paid Search
+10603,2025-06-23 12:01:57,Abha,Corporate,Organic Search
+10604,2024-04-08 05:21:16,Other,Small Business,Paid Search
+10605,2025-08-26 00:28:53,Riyadh,Corporate,Organic Search
+10606,2025-01-26 07:54:43,Riyadh,Consumer,Paid Search
+10607,2024-08-23 20:25:17,Riyadh,Consumer,Organic Search
+10608,2025-01-10 09:11:04,Riyadh,Small Business,Organic Search
+10609,2025-12-06 21:33:01,Dammam,Consumer,Organic Search
+10610,2025-09-18 00:39:50,Other,Consumer,Direct
+10611,2025-08-31 14:23:52,Other,Small Business,Organic Search
+10612,2024-12-03 20:14:41,Dammam,Corporate,Paid Search
+10613,2025-07-26 10:05:42,Makkah,Small Business,Social Media
+10614,2024-10-08 02:46:04,Abha,Consumer,Paid Search
+10615,2025-05-15 21:37:09,Other,Consumer,Social Media
+10616,2025-04-11 21:08:54,Riyadh,Consumer,Organic Search
+10617,2024-07-01 08:28:23,Dammam,Consumer,Social Media
+10618,2024-07-13 12:26:14,Abha,Consumer,Social Media
+10619,2024-02-14 15:03:09,Jeddah,Consumer,Referral
+10620,2024-04-12 00:44:33,Jeddah,Consumer,Social Media
+10621,2024-11-12 12:59:55,Other,Consumer,Paid Search
+10622,2024-12-14 20:24:35,Other,Consumer,Paid Search
+10623,2024-04-30 12:54:54,Tabuk,Consumer,Organic Search
+10624,2024-10-31 07:54:06,Madinah,Consumer,Social Media
+10625,2025-03-17 01:11:24,Riyadh,Small Business,Organic Search
+10626,2024-06-18 18:37:31,Jeddah,Consumer,Paid Search
+10627,2024-09-03 21:54:37,Dammam,Corporate,Referral
+10628,2024-09-25 06:48:24,Dammam,Consumer,Organic Search
+10629,2025-01-03 16:32:38,Dammam,Consumer,Organic Search
+10630,2024-09-24 11:11:44,Makkah,Consumer,Referral
+10631,2025-06-21 23:16:10,Jeddah,Consumer,Paid Search
+10632,2024-08-27 01:43:20,Madinah,Consumer,Email
+10633,2024-11-12 17:52:16,Jeddah,Small Business,Direct
+10634,2024-10-04 00:12:38,Jeddah,Corporate,Direct
+10635,2024-05-13 12:41:05,Riyadh,Consumer,Paid Search
+10636,2025-05-15 14:13:24,Riyadh,Consumer,Paid Search
+10637,2024-06-20 21:01:00,Abha,Small Business,Social Media
+10638,2025-08-01 17:00:51,Jeddah,Consumer,Social Media
+10639,2025-11-23 15:59:27,Riyadh,Consumer,Social Media
+10640,2025-05-04 17:10:19,Madinah,Small Business,Paid Search
+10641,2025-10-30 22:25:02,Dammam,Consumer,Organic Search
+10642,2025-09-15 13:25:11,Riyadh,Small Business,Organic Search
+10643,2024-12-17 01:33:02,Jeddah,Consumer,Organic Search
+10644,2025-07-16 07:29:02,Riyadh,Consumer,Organic Search
+10645,2024-08-27 16:53:17,Makkah,Consumer,Direct
+10646,2024-12-02 03:54:30,Riyadh,Small Business,Organic Search
+10647,2025-01-25 20:49:03,Riyadh,Consumer,Social Media
+10648,2025-12-02 03:50:15,Riyadh,Small Business,Direct
+10649,2025-09-11 10:46:47,Dammam,Small Business,Paid Search
+10650,2024-12-23 03:42:43,Riyadh,Small Business,Social Media
+10651,2025-04-21 09:19:48,Abha,Consumer,Referral
+10652,2024-05-27 17:17:09,Riyadh,Consumer,Paid Search
+10653,2025-08-10 04:56:41,Dammam,Consumer,Social Media
+10654,2025-02-07 17:13:30,Jeddah,Consumer,Email
+10655,2025-01-23 21:17:39,Jeddah,Corporate,Referral
+10656,2025-07-13 09:17:14,Riyadh,Consumer,Email
+10657,2025-04-07 00:43:00,Abha,Small Business,Direct
+10658,2024-02-22 21:37:23,Tabuk,Consumer,Paid Search
+10659,2024-07-29 08:29:10,Riyadh,Consumer,Referral
+10660,2024-05-09 00:06:58,Riyadh,Consumer,Social Media
+10661,2025-06-20 11:19:41,Tabuk,Small Business,Referral
+10662,2024-01-26 15:46:42,Dammam,Consumer,Referral
+10663,2024-05-27 18:07:42,Riyadh,Consumer,Referral
+10664,2025-03-12 03:14:13,Riyadh,Small Business,Direct
+10665,2025-05-22 04:51:47,Makkah,Consumer,Paid Search
+10666,2025-01-02 09:54:06,Madinah,Consumer,Referral
+10667,2025-09-20 07:47:53,Dammam,Consumer,Paid Search
+10668,2025-11-01 19:49:49,Other,Consumer,Social Media
+10669,2024-04-06 10:26:30,Jeddah,Consumer,Referral
+10670,2025-11-26 07:59:39,Jeddah,Consumer,Email
+10671,2025-03-24 11:55:58,Jeddah,Consumer,Paid Search
+10672,2025-04-09 10:33:34,Jeddah,Consumer,Social Media
+10673,2024-03-10 10:04:39,Riyadh,Consumer,Paid Search
+10674,2025-03-29 23:11:43,Riyadh,Consumer,Organic Search
+10675,2025-06-13 18:32:16,Jeddah,Consumer,Paid Search
+10676,2025-02-27 23:27:38,Makkah,Consumer,Direct
+10677,2024-03-02 16:19:16,Riyadh,Consumer,Paid Search
+10678,2025-01-16 22:56:41,Jeddah,Consumer,Direct
+10679,2025-11-14 05:39:56,Makkah,Consumer,Organic Search
+10680,2025-06-12 02:15:26,Dammam,Corporate,Referral
+10681,2024-04-10 07:23:12,Madinah,Small Business,Social Media
+10682,2025-12-01 18:07:21,Abha,Consumer,Referral
+10683,2025-11-30 23:34:54,Makkah,Consumer,Social Media
+10684,2024-05-03 15:48:34,Riyadh,Consumer,Referral
+10685,2025-08-07 15:29:26,Jeddah,Small Business,Direct
+10686,2024-10-23 21:41:01,Dammam,Consumer,Social Media
+10687,2025-03-09 09:18:31,Riyadh,Consumer,Organic Search
+10688,2024-11-20 23:39:50,Riyadh,Consumer,Paid Search
+10689,2025-07-25 07:34:27,Riyadh,Consumer,Referral
+10690,2025-12-28 13:28:50,Jeddah,Consumer,Social Media
+10691,2025-08-03 10:24:43,Jeddah,Small Business,Social Media
+10692,2025-11-10 21:37:38,Riyadh,Corporate,Social Media
+10693,2025-11-21 14:23:38,Abha,Consumer,Paid Search
+10694,2024-03-06 18:38:49,Other,Consumer,Email
+10695,2024-07-03 23:16:34,Riyadh,Consumer,Referral
+10696,2025-06-10 22:55:37,Other,Consumer,Referral
+10697,2025-03-06 18:07:46,Riyadh,Consumer,Referral
+10698,2024-02-06 14:33:39,Other,Consumer,Direct
+10699,2024-03-10 09:15:42,Other,Small Business,Social Media
+10700,2025-01-14 23:59:25,Riyadh,Corporate,Direct
+10701,2025-03-25 19:13:23,Madinah,Small Business,Organic Search
+10702,2024-05-02 10:26:34,Other,Small Business,Social Media
+10703,2024-05-05 01:01:25,Tabuk,Consumer,Referral
+10704,2024-04-04 10:02:26,Other,Consumer,Social Media
+10705,2025-02-16 09:56:04,Dammam,Consumer,Paid Search
+10706,2024-01-06 17:35:44,Riyadh,Consumer,Social Media
+10707,2025-02-21 20:58:57,Abha,Consumer,Paid Search
+10708,2024-12-13 10:16:12,Dammam,Small Business,Direct
+10709,2024-12-06 04:03:35,Dammam,Consumer,Paid Search
+10710,2025-05-10 20:55:12,Jeddah,Consumer,Organic Search
+10711,2025-01-16 12:30:31,Dammam,Consumer,Social Media
+10712,2025-06-15 06:09:29,Riyadh,Corporate,Paid Search
+10713,2025-07-11 15:56:16,Madinah,Consumer,Organic Search
+10714,2025-11-02 16:27:46,Riyadh,Consumer,Social Media
+10715,2025-08-06 10:46:02,Madinah,Consumer,Social Media
+10716,2025-01-12 22:12:44,Abha,Small Business,Organic Search
+10717,2024-12-25 06:31:27,Jeddah,Corporate,Social Media
+10718,2024-06-21 01:36:52,Dammam,Consumer,Social Media
+10719,2025-03-13 16:52:37,Jeddah,Corporate,Email
+10720,2024-04-11 13:39:10,Other,Consumer,Paid Search
+10721,2025-11-10 19:15:31,Madinah,Small Business,Organic Search
+10722,2025-09-08 21:10:31,Jeddah,Consumer,Direct
+10723,2024-03-28 09:43:56,Riyadh,Consumer,Social Media
+10724,2025-07-27 17:56:49,Riyadh,Small Business,Organic Search
+10725,2024-03-26 11:39:16,Jeddah,Consumer,Email
+10726,2025-06-10 11:51:55,Other,Consumer,Organic Search
+10727,2024-03-05 00:39:42,Madinah,Small Business,Email
+10728,2024-12-22 09:08:55,Riyadh,Corporate,Referral
+10729,2025-04-25 05:45:53,Abha,Consumer,Direct
+10730,2025-06-16 00:45:57,Jeddah,Small Business,Direct
+10731,2024-11-01 14:01:02,Abha,Small Business,Paid Search
+10732,2025-11-03 18:50:35,Riyadh,Consumer,Referral
+10733,2025-07-19 06:06:40,Dammam,Small Business,Paid Search
+10734,2024-06-01 00:47:54,Other,Consumer,Social Media
+10735,2025-05-04 23:58:27,Riyadh,Small Business,Social Media
+10736,2025-06-17 06:57:57,Makkah,Consumer,Organic Search
+10737,2024-08-31 13:20:00,Other,Consumer,Organic Search
+10738,2025-06-22 21:48:45,Riyadh,Consumer,Organic Search
+10739,2025-10-17 19:22:54,Riyadh,Consumer,Organic Search
+10740,2025-08-19 11:50:32,Makkah,Small Business,Paid Search
+10741,2025-07-10 15:33:47,Jeddah,Corporate,Direct
+10742,2025-04-08 04:23:42,Riyadh,Consumer,Social Media
+10743,2024-07-16 11:46:19,Jeddah,Consumer,Email
+10744,2025-08-03 12:18:21,Madinah,Consumer,Email
+10745,2024-09-22 20:38:38,Riyadh,Consumer,Referral
+10746,2025-01-23 12:05:17,Jeddah,Consumer,Paid Search
+10747,2024-08-17 12:59:18,Abha,Small Business,Email
+10748,2024-08-16 12:03:32,Dammam,Small Business,Referral
+10749,2024-04-25 01:21:21,Abha,Consumer,Referral
+10750,2025-12-02 17:56:07,Jeddah,Consumer,Direct
+10751,2024-04-17 21:09:52,Other,Consumer,Social Media
+10752,2024-03-03 23:15:15,Makkah,Consumer,Social Media
+10753,2025-11-14 08:57:11,Riyadh,Consumer,Direct
+10754,2025-02-09 03:49:50,Tabuk,Consumer,Paid Search
+10755,2024-11-15 16:04:43,Jeddah,Consumer,Email
+10756,2025-06-22 08:50:54,Riyadh,Consumer,Organic Search
+10757,2024-10-06 19:45:47,Riyadh,Small Business,Organic Search
+10758,2024-04-03 09:11:12,Makkah,Consumer,Social Media
+10759,2025-06-16 16:05:37,Riyadh,Consumer,Organic Search
+10760,2024-05-08 11:30:40,Riyadh,Consumer,Direct
+10761,2025-02-07 16:26:18,Riyadh,Small Business,Organic Search
+10762,2025-11-23 19:38:19,Jeddah,Consumer,Referral
+10763,2025-11-14 09:10:21,Jeddah,Consumer,Organic Search
+10764,2024-09-20 08:55:04,Dammam,Consumer,Direct
+10765,2025-07-23 14:52:55,Riyadh,Consumer,Paid Search
+10766,2025-03-23 06:04:47,Riyadh,Consumer,Organic Search
+10767,2024-12-15 22:33:17,Dammam,Small Business,Organic Search
+10768,2024-04-12 03:32:26,Jeddah,Consumer,Social Media
+10769,2024-10-01 17:49:04,Makkah,Consumer,Direct
+10770,2025-04-20 21:36:17,Riyadh,Consumer,Direct
+10771,2025-12-21 05:47:04,Riyadh,Small Business,Paid Search
+10772,2024-01-04 13:40:58,Riyadh,Small Business,Social Media
+10773,2025-06-07 23:09:33,Jeddah,Small Business,Organic Search
+10774,2025-09-09 19:49:18,Jeddah,Consumer,Social Media
+10775,2025-11-25 08:55:49,Abha,Small Business,Social Media
+10776,2024-11-05 09:02:26,Jeddah,Small Business,Paid Search
+10777,2024-03-27 11:44:40,Dammam,Consumer,Social Media
+10778,2024-07-16 19:20:42,Dammam,Consumer,Direct
+10779,2025-09-12 21:21:00,Riyadh,Small Business,Organic Search
+10780,2025-10-02 21:25:11,Dammam,Consumer,Organic Search
+10781,2025-04-10 01:32:03,Jeddah,Small Business,Organic Search
+10782,2024-03-30 14:24:48,Jeddah,Consumer,Organic Search
+10783,2024-03-30 00:04:04,Riyadh,Consumer,Organic Search
+10784,2024-12-15 01:34:31,Madinah,Consumer,Social Media
+10785,2025-03-05 10:16:48,Other,Small Business,Organic Search
+10786,2024-01-24 15:16:24,Riyadh,Small Business,Referral
+10787,2025-05-15 20:24:29,Dammam,Consumer,Direct
+10788,2025-02-01 11:48:56,Madinah,Consumer,Direct
+10789,2024-01-09 23:32:34,Riyadh,Consumer,Referral
+10790,2024-03-10 20:16:13,Madinah,Consumer,Organic Search
+10791,2024-11-27 15:39:02,Makkah,Corporate,Organic Search
+10792,2025-06-11 11:41:48,Other,Consumer,Organic Search
+10793,2025-08-25 12:59:57,Other,Consumer,Direct
+10794,2024-11-10 20:24:14,Riyadh,Consumer,Direct
+10795,2024-08-03 14:41:24,Jeddah,Corporate,Paid Search
+10796,2025-12-07 20:47:50,Dammam,Consumer,Paid Search
+10797,2024-11-30 17:45:44,Riyadh,Small Business,Social Media
+10798,2024-08-18 05:37:40,Jeddah,Consumer,Paid Search
+10799,2024-11-18 21:20:36,Other,Consumer,Direct
+10800,2024-01-09 19:50:44,Riyadh,Small Business,Organic Search
+10801,2024-08-08 09:46:04,Jeddah,Consumer,Paid Search
+10802,2025-01-11 08:30:50,Abha,Small Business,Paid Search
+10803,2025-11-01 11:06:07,Jeddah,Consumer,Organic Search
+10804,2025-06-22 21:43:14,Jeddah,Small Business,Paid Search
+10805,2025-07-24 08:16:17,Other,Small Business,Email
+10806,2025-02-01 18:40:40,Jeddah,Small Business,Organic Search
+10807,2024-03-21 17:30:32,Riyadh,Consumer,Social Media
+10808,2024-10-12 09:01:54,Riyadh,Small Business,Paid Search
+10809,2025-12-28 20:02:49,Other,Corporate,Organic Search
+10810,2024-02-02 05:52:33,Riyadh,Consumer,Organic Search
+10811,2025-10-03 19:35:03,Dammam,Consumer,Paid Search
+10812,2025-05-14 16:21:50,Riyadh,Small Business,Organic Search
+10813,2024-07-26 06:04:32,Jeddah,Consumer,Paid Search
+10814,2025-07-21 22:21:41,Other,Small Business,Email
+10815,2025-09-02 22:25:41,Dammam,Small Business,Referral
+10816,2024-02-01 13:11:54,Other,Consumer,Direct
+10817,2024-03-18 16:28:12,Riyadh,Consumer,Paid Search
+10818,2025-04-30 23:55:59,Dammam,Consumer,Referral
+10819,2025-12-30 08:18:53,Abha,Consumer,Referral
+10820,2024-01-18 11:53:37,Jeddah,Small Business,Organic Search
+10821,2025-04-30 22:47:47,Riyadh,Consumer,Paid Search
+10822,2024-04-09 15:54:37,Abha,Consumer,Social Media
+10823,2025-04-19 14:11:24,Jeddah,Small Business,Email
+10824,2025-03-31 00:28:35,Dammam,Consumer,Paid Search
+10825,2024-03-07 00:31:17,Other,Small Business,Organic Search
+10826,2025-05-11 22:21:22,Riyadh,Consumer,Direct
+10827,2025-10-16 20:01:30,Jeddah,Consumer,Organic Search
+10828,2025-09-22 07:31:58,Riyadh,Consumer,Direct
+10829,2024-01-22 04:04:16,Jeddah,Small Business,Email
+10830,2024-06-28 12:27:28,Riyadh,Small Business,Email
+10831,2024-06-24 19:18:27,Makkah,Small Business,Email
+10832,2024-11-26 21:40:53,Riyadh,Corporate,Organic Search
+10833,2024-04-14 09:44:35,Makkah,Small Business,Social Media
+10834,2025-09-15 16:09:11,Riyadh,Small Business,Referral
+10835,2025-07-21 00:58:27,Jeddah,Consumer,Referral
+10836,2025-08-13 02:17:15,Jeddah,Corporate,Paid Search
+10837,2024-05-24 16:32:17,Makkah,Small Business,Organic Search
+10838,2024-01-11 15:18:42,Jeddah,Small Business,Paid Search
+10839,2025-10-26 18:22:54,Jeddah,Consumer,Social Media
+10840,2024-07-29 21:40:31,Abha,Consumer,Social Media
+10841,2025-04-24 01:50:00,Dammam,Small Business,Email
+10842,2025-10-25 21:19:41,Riyadh,Consumer,Referral
+10843,2024-01-27 09:34:14,Tabuk,Consumer,Referral
+10844,2024-01-04 23:53:36,Jeddah,Corporate,Paid Search
+10845,2024-01-04 23:07:50,Riyadh,Consumer,Social Media
+10846,2024-04-24 02:49:37,Jeddah,Consumer,Paid Search
+10847,2024-02-07 17:02:48,Riyadh,Consumer,Organic Search
+10848,2025-08-21 14:03:52,Riyadh,Consumer,Organic Search
+10849,2025-03-18 07:48:32,Madinah,Small Business,Paid Search
+10850,2025-12-16 10:25:08,Riyadh,Corporate,Paid Search
+10851,2025-08-08 01:57:40,Abha,Corporate,Social Media
+10852,2025-12-04 03:03:07,Other,Small Business,Organic Search
+10853,2024-06-23 03:26:43,Dammam,Small Business,Paid Search
+10854,2024-07-29 02:14:56,Makkah,Consumer,Organic Search
+10855,2025-09-12 01:38:34,Makkah,Small Business,Social Media
+10856,2024-06-27 18:20:47,Other,Consumer,Social Media
+10857,2024-02-11 18:42:12,Jeddah,Consumer,Paid Search
+10858,2025-05-03 11:09:35,Riyadh,Corporate,Organic Search
+10859,2025-08-07 16:53:12,Dammam,Small Business,Direct
+10860,2025-12-07 18:47:51,Dammam,Consumer,Social Media
+10861,2025-11-08 06:58:33,Riyadh,Small Business,Referral
+10862,2024-03-28 18:26:22,Dammam,Consumer,Social Media
+10863,2025-07-17 15:20:20,Riyadh,Consumer,Email
+10864,2025-09-09 16:09:39,Other,Consumer,Direct
+10865,2025-05-24 15:04:34,Riyadh,Consumer,Paid Search
+10866,2025-08-21 10:53:26,Riyadh,Consumer,Referral
+10867,2025-09-03 17:24:48,Riyadh,Consumer,Organic Search
+10868,2024-11-21 23:33:33,Riyadh,Consumer,Referral
+10869,2024-01-30 07:27:02,Riyadh,Consumer,Paid Search
+10870,2024-11-29 00:31:30,Riyadh,Corporate,Organic Search
+10871,2024-05-27 07:13:21,Riyadh,Small Business,Direct
+10872,2024-03-24 00:32:21,Riyadh,Corporate,Email
+10873,2024-04-01 04:39:46,Jeddah,Consumer,Paid Search
+10874,2025-05-24 01:59:31,Jeddah,Small Business,Direct
+10875,2025-01-03 07:22:58,Jeddah,Small Business,Paid Search
+10876,2025-01-29 01:58:26,Jeddah,Consumer,Paid Search
+10877,2025-06-27 23:41:45,Riyadh,Consumer,Email
+10878,2025-02-04 05:39:04,Riyadh,Consumer,Paid Search
+10879,2025-04-04 21:48:27,Riyadh,Consumer,Paid Search
+10880,2024-03-03 19:08:55,Madinah,Consumer,Referral
+10881,2025-09-13 07:49:00,Other,Consumer,Organic Search
+10882,2024-11-23 14:38:20,Other,Consumer,Paid Search
+10883,2024-04-23 07:19:53,Dammam,Small Business,Paid Search
+10884,2025-08-16 17:30:53,Dammam,Consumer,Referral
+10885,2025-06-20 06:33:41,Jeddah,Consumer,Organic Search
+10886,2024-02-08 17:00:51,Madinah,Small Business,Organic Search
+10887,2024-05-20 22:05:12,Madinah,Consumer,Referral
+10888,2024-01-12 11:55:48,Abha,Consumer,Organic Search
+10889,2024-07-16 15:41:35,Tabuk,Consumer,Paid Search
+10890,2024-03-13 23:39:22,Jeddah,Consumer,Referral
+10891,2025-06-02 05:31:49,Madinah,Consumer,Referral
+10892,2025-01-16 11:07:51,Abha,Consumer,Organic Search
+10893,2025-12-16 13:11:16,Jeddah,Consumer,Email
+10894,2025-07-01 01:54:34,Other,Corporate,Referral
+10895,2025-03-22 10:14:38,Riyadh,Corporate,Paid Search
+10896,2025-01-06 19:10:11,Other,Consumer,Referral
+10897,2024-02-09 18:50:43,Madinah,Consumer,Referral
+10898,2024-02-21 05:55:32,Riyadh,Consumer,Social Media
+10899,2025-03-25 21:43:59,Makkah,Small Business,Social Media
+10900,2024-01-04 04:43:23,Riyadh,Small Business,Referral
+10901,2024-01-31 21:58:53,Madinah,Consumer,Direct
+10902,2024-06-08 23:15:29,Madinah,Consumer,Social Media
+10903,2025-10-07 10:13:58,Dammam,Consumer,Email
+10904,2024-12-01 00:27:21,Abha,Small Business,Referral
+10905,2025-06-01 23:48:41,Riyadh,Small Business,Email
+10906,2024-10-27 10:34:14,Riyadh,Consumer,Direct
+10907,2024-05-06 09:11:59,Jeddah,Consumer,Organic Search
+10908,2024-09-27 22:39:44,Riyadh,Consumer,Organic Search
+10909,2024-03-07 22:57:07,Jeddah,Small Business,Social Media
+10910,2025-07-16 06:50:05,Riyadh,Corporate,Paid Search
+10911,2024-05-13 23:30:07,Jeddah,Consumer,Social Media
+10912,2024-10-01 18:07:19,Jeddah,Consumer,Email
+10913,2025-12-16 10:04:34,Tabuk,Consumer,Direct
+10914,2025-03-08 03:11:45,Riyadh,Consumer,Paid Search
+10915,2024-11-30 17:58:56,Tabuk,Small Business,Referral
+10916,2025-01-31 09:35:01,Jeddah,Consumer,Organic Search
+10917,2025-07-26 09:05:53,Jeddah,Small Business,Social Media
+10918,2024-07-04 18:31:14,Dammam,Consumer,Organic Search
+10919,2025-04-09 13:52:26,Jeddah,Consumer,Social Media
+10920,2025-09-29 01:33:19,Riyadh,Consumer,Social Media
+10921,2025-02-21 20:40:42,Dammam,Consumer,Referral
+10922,2024-11-21 23:22:53,Riyadh,Consumer,Social Media
+10923,2024-04-15 22:40:55,Jeddah,Small Business,Paid Search
+10924,2024-06-30 06:01:56,Dammam,Consumer,Organic Search
+10925,2025-11-21 14:20:54,Jeddah,Consumer,Organic Search
+10926,2025-01-30 02:52:27,Abha,Consumer,Direct
+10927,2024-08-07 23:31:22,Riyadh,Consumer,Direct
+10928,2024-11-01 09:48:47,Other,Small Business,Paid Search
+10929,2025-02-25 22:51:41,Madinah,Corporate,Paid Search
+10930,2025-01-27 09:49:33,Other,Consumer,Paid Search
+10931,2025-05-25 20:04:28,Abha,Small Business,Referral
+10932,2024-07-06 23:16:15,Riyadh,Small Business,Paid Search
+10933,2025-04-18 22:33:53,Dammam,Corporate,Organic Search
+10934,2024-11-19 03:42:15,Riyadh,Consumer,Paid Search
+10935,2025-11-17 15:12:50,Abha,Consumer,Paid Search
+10936,2024-04-25 06:48:26,Dammam,Consumer,Paid Search
+10937,2024-04-18 08:39:03,Riyadh,Small Business,Organic Search
+10938,2024-12-03 00:15:22,Other,Small Business,Referral
+10939,2025-01-06 02:20:23,Riyadh,Consumer,Social Media
+10940,2025-05-19 08:08:00,Dammam,Consumer,Paid Search
+10941,2024-10-21 22:40:57,Madinah,Small Business,Social Media
+10942,2025-10-29 00:18:08,Riyadh,Small Business,Social Media
+10943,2024-12-12 03:26:10,Dammam,Consumer,Email
+10944,2024-04-04 09:58:25,Abha,Small Business,Direct
+10945,2024-03-28 00:41:27,Riyadh,Consumer,Organic Search
+10946,2025-12-11 14:04:13,Dammam,Consumer,Direct
+10947,2024-04-07 21:20:15,Riyadh,Consumer,Referral
+10948,2025-11-22 22:21:10,Makkah,Small Business,Referral
+10949,2024-07-21 23:53:00,Riyadh,Corporate,Paid Search
+10950,2024-03-09 04:31:47,Other,Consumer,Paid Search
+10951,2024-08-10 10:25:28,Tabuk,Consumer,Organic Search
+10952,2025-03-24 17:30:34,Riyadh,Consumer,Direct
+10953,2024-11-08 08:51:51,Jeddah,Consumer,Social Media
+10954,2025-07-27 11:22:06,Dammam,Consumer,Paid Search
+10955,2025-03-22 00:30:06,Makkah,Consumer,Social Media
+10956,2024-10-19 13:44:05,Jeddah,Consumer,Organic Search
+10957,2025-04-08 06:42:07,Riyadh,Consumer,Organic Search
+10958,2025-12-10 04:01:30,Riyadh,Consumer,Social Media
+10959,2024-10-27 14:55:36,Other,Small Business,Social Media
+10960,2024-04-22 00:20:00,Jeddah,Consumer,Email
+10961,2024-10-25 09:52:48,Tabuk,Consumer,Referral
+10962,2025-09-05 06:48:49,Jeddah,Corporate,Social Media
+10963,2024-06-07 20:51:06,Other,Consumer,Email
+10964,2025-11-23 20:58:47,Riyadh,Consumer,Organic Search
+10965,2025-03-05 11:07:31,Riyadh,Consumer,Referral
+10966,2025-03-15 03:33:53,Other,Consumer,Referral
+10967,2024-08-19 10:33:24,Other,Consumer,Paid Search
+10968,2025-11-02 22:24:30,Jeddah,Consumer,Organic Search
+10969,2024-01-27 07:46:05,Jeddah,Consumer,Organic Search
+10970,2024-08-06 00:43:17,Jeddah,Consumer,Organic Search
+10971,2024-11-01 10:22:07,Jeddah,Consumer,Social Media
+10972,2024-12-14 09:51:55,Riyadh,Consumer,Organic Search
+10973,2024-12-12 02:48:16,Tabuk,Consumer,Referral
+10974,2024-04-17 23:38:10,Riyadh,Consumer,Organic Search
+10975,2024-06-13 16:23:13,Makkah,Small Business,Organic Search
+10976,2024-03-10 12:38:30,Riyadh,Consumer,Paid Search
+10977,2025-02-21 21:27:46,Riyadh,Consumer,Organic Search
+10978,2024-09-13 03:13:11,Makkah,Consumer,Direct
+10979,2025-02-17 00:19:25,Jeddah,Consumer,Paid Search
+10980,2025-03-06 11:47:43,Makkah,Corporate,Organic Search
+10981,2025-05-27 11:04:41,Riyadh,Consumer,Organic Search
+10982,2025-02-03 08:03:45,Other,Consumer,Paid Search
+10983,2025-04-18 00:03:26,Madinah,Corporate,Social Media
+10984,2025-03-04 14:52:11,Tabuk,Small Business,Email
+10985,2025-04-21 06:37:37,Riyadh,Small Business,Paid Search
+10986,2025-03-26 03:36:05,Jeddah,Consumer,Social Media
+10987,2024-08-18 20:04:18,Jeddah,Consumer,Social Media
+10988,2024-06-28 18:54:12,Dammam,Small Business,Email
+10989,2025-07-28 19:48:45,Riyadh,Consumer,Social Media
+10990,2024-09-07 04:08:18,Riyadh,Consumer,Paid Search
+10991,2025-02-04 21:00:34,Jeddah,Small Business,Referral
+10992,2024-05-23 18:58:06,Riyadh,Consumer,Email
+10993,2024-11-10 22:26:48,Jeddah,Consumer,Paid Search
+10994,2025-01-21 15:42:28,Riyadh,Consumer,Direct
+10995,2025-04-01 23:44:19,Riyadh,Consumer,Direct
+10996,2025-01-19 06:07:08,Makkah,Consumer,Organic Search
+10997,2024-09-20 06:42:59,Jeddah,Small Business,Email
+10998,2025-12-03 02:13:59,Jeddah,Consumer,Social Media
+10999,2025-01-09 07:11:29,Dammam,Consumer,Social Media
+11000,2025-08-13 01:25:23,Madinah,Consumer,Social Media
+11001,2025-06-21 19:05:01,Jeddah,Consumer,Email
+11002,2025-02-11 13:43:02,Dammam,Consumer,Social Media
+11003,2025-10-09 01:46:42,Other,Corporate,Social Media
+11004,2024-04-03 15:15:13,Dammam,Consumer,Organic Search
+11005,2025-11-03 08:55:19,Tabuk,Consumer,Paid Search
+11006,2025-09-12 15:57:36,Madinah,Corporate,Direct
+11007,2025-01-02 15:38:55,Riyadh,Consumer,Referral
+11008,2025-06-19 09:01:37,Jeddah,Corporate,Organic Search
+11009,2025-01-14 19:13:12,Makkah,Consumer,Direct
+11010,2024-07-15 04:45:13,Other,Consumer,Email
+11011,2025-08-06 21:43:46,Jeddah,Corporate,Social Media
+11012,2024-06-28 12:33:03,Riyadh,Consumer,Organic Search
+11013,2024-08-17 13:10:34,Dammam,Consumer,Social Media
+11014,2025-01-14 01:59:19,Riyadh,Consumer,Organic Search
+11015,2025-09-03 06:56:20,Madinah,Small Business,Paid Search
+11016,2024-10-07 06:23:06,Dammam,Consumer,Social Media
+11017,2024-12-26 17:21:41,Madinah,Consumer,Direct
+11018,2024-01-31 09:58:35,Abha,Small Business,Paid Search
+11019,2024-03-25 13:48:35,Makkah,Small Business,Email
+11020,2024-02-10 20:11:49,Dammam,Consumer,Direct
+11021,2024-02-22 14:28:34,Madinah,Consumer,Organic Search
+11022,2025-09-26 00:28:46,Abha,Consumer,Organic Search
+11023,2025-09-06 15:43:15,Abha,Consumer,Referral
+11024,2025-08-22 23:26:53,Riyadh,Consumer,Referral
+11025,2024-02-10 13:32:59,Dammam,Consumer,Paid Search
+11026,2024-02-26 16:20:19,Riyadh,Consumer,Referral
+11027,2024-07-23 20:18:44,Abha,Consumer,Social Media
+11028,2025-02-16 15:58:12,Makkah,Small Business,Referral
+11029,2024-08-31 21:57:29,Jeddah,Consumer,Referral
+11030,2024-12-21 22:03:10,Riyadh,Corporate,Organic Search
+11031,2024-05-06 06:51:45,Jeddah,Corporate,Organic Search
+11032,2025-06-17 11:13:51,Makkah,Consumer,Organic Search
+11033,2024-08-17 03:24:42,Riyadh,Corporate,Direct
+11034,2024-02-18 13:47:42,Riyadh,Small Business,Direct
+11035,2025-06-26 03:58:25,Tabuk,Consumer,Email
+11036,2025-10-21 00:51:09,Madinah,Small Business,Organic Search
+11037,2024-01-11 17:14:36,Riyadh,Consumer,Social Media
+11038,2024-11-14 18:30:42,Riyadh,Small Business,Organic Search
+11039,2025-08-26 20:04:42,Other,Consumer,Paid Search
+11040,2025-05-30 12:00:27,Makkah,Consumer,Paid Search
+11041,2025-09-17 06:43:16,Dammam,Consumer,Email
+11042,2024-10-30 02:28:47,Jeddah,Corporate,Organic Search
+11043,2024-09-28 18:01:21,Riyadh,Consumer,Social Media
+11044,2025-06-01 16:45:45,Riyadh,Consumer,Direct
+11045,2024-04-22 03:17:52,Madinah,Consumer,Referral
+11046,2024-06-23 18:39:41,Riyadh,Consumer,Organic Search
+11047,2025-03-14 14:43:26,Riyadh,Small Business,Direct
+11048,2025-05-02 23:19:29,Madinah,Small Business,Social Media
+11049,2024-03-28 08:39:47,Other,Consumer,Paid Search
+11050,2025-01-06 01:35:40,Madinah,Consumer,Referral
+11051,2024-09-23 09:23:13,Jeddah,Consumer,Direct
+11052,2025-01-01 06:33:53,Jeddah,Consumer,Social Media
+11053,2025-11-30 15:40:45,Jeddah,Small Business,Social Media
+11054,2024-02-25 22:12:57,Jeddah,Small Business,Paid Search
+11055,2025-12-27 16:32:15,Dammam,Consumer,Organic Search
+11056,2024-11-24 04:37:07,Jeddah,Consumer,Email
+11057,2025-07-17 15:16:39,Dammam,Consumer,Organic Search
+11058,2024-11-05 20:43:30,Tabuk,Consumer,Paid Search
+11059,2024-08-15 00:02:44,Other,Consumer,Paid Search
+11060,2025-07-16 12:54:26,Riyadh,Small Business,Paid Search
+11061,2025-05-16 23:53:29,Jeddah,Consumer,Paid Search
+11062,2024-04-15 03:53:45,Riyadh,Corporate,Social Media
+11063,2025-05-29 22:43:10,Jeddah,Consumer,Paid Search
+11064,2025-07-03 17:54:56,Riyadh,Consumer,Organic Search
+11065,2024-10-10 02:59:11,Riyadh,Consumer,Email
+11066,2025-11-06 17:22:47,Madinah,Consumer,Direct
+11067,2025-04-12 20:22:07,Jeddah,Consumer,Paid Search
+11068,2024-08-31 13:10:08,Tabuk,Consumer,Paid Search
+11069,2024-01-08 19:56:54,Riyadh,Small Business,Organic Search
+11070,2025-05-07 17:18:21,Riyadh,Consumer,Organic Search
+11071,2024-06-01 14:41:24,Jeddah,Small Business,Paid Search
+11072,2025-07-06 06:20:39,Riyadh,Small Business,Direct
+11073,2025-01-18 07:32:49,Riyadh,Consumer,Referral
+11074,2024-12-06 17:02:59,Other,Consumer,Paid Search
+11075,2024-04-29 12:55:22,Riyadh,Consumer,Direct
+11076,2025-06-03 09:34:21,Riyadh,Consumer,Paid Search
+11077,2024-05-01 02:41:17,Dammam,Small Business,Paid Search
+11078,2024-10-31 23:02:42,Jeddah,Corporate,Paid Search
+11079,2025-09-02 12:03:04,Dammam,Consumer,Organic Search
+11080,2025-11-02 20:48:34,Jeddah,Consumer,Direct
+11081,2025-12-23 01:36:36,Abha,Small Business,Paid Search
+11082,2025-11-30 08:22:11,Riyadh,Small Business,Referral
+11083,2025-02-09 20:35:03,Jeddah,Consumer,Paid Search
+11084,2024-05-26 08:25:08,Makkah,Small Business,Direct
+11085,2025-09-04 12:30:06,Abha,Consumer,Social Media
+11086,2025-08-08 04:34:00,Jeddah,Consumer,Social Media
+11087,2025-04-20 04:36:25,Dammam,Consumer,Organic Search
+11088,2024-04-13 08:45:35,Riyadh,Consumer,Direct
+11089,2025-01-02 02:50:47,Riyadh,Small Business,Social Media
+11090,2024-11-23 05:15:47,Riyadh,Consumer,Paid Search
+11091,2025-09-07 08:26:08,Madinah,Consumer,Direct
+11092,2024-10-13 13:52:26,Riyadh,Consumer,Organic Search
+11093,2024-08-27 20:56:39,Madinah,Consumer,Paid Search
+11094,2024-02-28 10:27:48,Riyadh,Consumer,Social Media
+11095,2025-09-01 21:11:55,Abha,Consumer,Paid Search
+11096,2025-07-05 09:23:04,Abha,Small Business,Social Media
+11097,2024-01-31 02:18:33,Riyadh,Consumer,Paid Search
+11098,2024-11-12 15:48:30,Riyadh,Small Business,Organic Search
+11099,2024-12-16 04:39:42,Riyadh,Consumer,Organic Search
+11100,2024-12-08 14:36:28,Abha,Small Business,Organic Search
+11101,2025-11-01 19:40:30,Riyadh,Small Business,Direct
+11102,2024-04-19 23:47:25,Dammam,Consumer,Social Media
+11103,2024-08-11 15:09:20,Jeddah,Consumer,Social Media
+11104,2024-05-12 01:50:05,Madinah,Corporate,Paid Search
+11105,2024-06-27 04:21:42,Jeddah,Consumer,Referral
+11106,2025-10-24 04:27:19,Dammam,Small Business,Organic Search
+11107,2025-11-17 17:27:06,Other,Consumer,Paid Search
+11108,2024-02-02 14:15:07,Riyadh,Consumer,Referral
+11109,2025-04-06 10:14:57,Abha,Consumer,Social Media
+11110,2024-06-18 23:34:19,Riyadh,Small Business,Email
+11111,2024-05-20 13:40:11,Jeddah,Consumer,Direct
+11112,2024-08-01 04:52:46,Tabuk,Small Business,Email
+11113,2024-05-21 21:39:38,Makkah,Small Business,Organic Search
+11114,2024-12-23 20:15:39,Makkah,Consumer,Organic Search
+11115,2025-12-27 19:05:53,Riyadh,Consumer,Organic Search
+11116,2025-03-04 02:31:09,Jeddah,Consumer,Email
+11117,2025-06-11 23:13:09,Jeddah,Consumer,Direct
+11118,2024-12-26 02:26:25,Dammam,Small Business,Direct
+11119,2024-01-11 03:39:19,Jeddah,Consumer,Paid Search
+11120,2024-03-02 09:42:02,Jeddah,Consumer,Email
+11121,2024-07-15 06:38:52,Jeddah,Small Business,Social Media
+11122,2024-06-26 21:03:13,Riyadh,Consumer,Email
+11123,2025-09-05 14:57:08,Jeddah,Consumer,Social Media
+11124,2025-09-07 19:40:06,Riyadh,Consumer,Organic Search
+11125,2025-09-15 12:12:23,Tabuk,Consumer,Organic Search
+11126,2025-04-10 10:33:14,Dammam,Small Business,Direct
+11127,2025-02-10 00:09:13,Riyadh,Consumer,Paid Search
+11128,2025-04-18 21:05:28,Makkah,Consumer,Paid Search
+11129,2024-10-23 23:15:24,Abha,Consumer,Paid Search
+11130,2025-05-04 05:57:39,Riyadh,Consumer,Paid Search
+11131,2025-08-02 22:38:12,Riyadh,Consumer,Direct
+11132,2025-07-10 22:03:39,Riyadh,Consumer,Organic Search
+11133,2025-03-24 02:18:26,Riyadh,Small Business,Organic Search
+11134,2024-02-12 10:03:38,Madinah,Small Business,Email
+11135,2025-06-13 05:06:50,Other,Consumer,Social Media
+11136,2024-09-24 14:58:44,Riyadh,Small Business,Organic Search
+11137,2025-06-26 21:03:03,Madinah,Consumer,Organic Search
+11138,2025-01-28 20:31:14,Riyadh,Corporate,Organic Search
+11139,2025-10-05 06:22:29,Dammam,Consumer,Paid Search
+11140,2024-09-04 01:45:27,Madinah,Consumer,Organic Search
+11141,2025-11-10 22:01:36,Jeddah,Consumer,Organic Search
+11142,2025-09-08 11:16:11,Riyadh,Consumer,Referral
+11143,2024-08-29 16:59:42,Dammam,Small Business,Email
+11144,2024-12-18 06:40:13,Other,Consumer,Direct
+11145,2025-01-22 21:13:03,Riyadh,Consumer,Paid Search
+11146,2025-07-15 02:21:19,Riyadh,Consumer,Paid Search
+11147,2025-05-18 02:02:01,Riyadh,Small Business,Direct
+11148,2025-09-13 23:18:42,Dammam,Small Business,Referral
+11149,2024-09-27 00:05:01,Dammam,Consumer,Social Media
+11150,2025-01-03 11:56:48,Madinah,Consumer,Paid Search
+11151,2024-11-10 12:45:02,Madinah,Consumer,Paid Search
+11152,2025-10-25 23:21:19,Tabuk,Small Business,Social Media
+11153,2024-08-10 15:15:35,Abha,Small Business,Social Media
+11154,2025-03-04 14:24:41,Riyadh,Consumer,Organic Search
+11155,2024-03-28 17:18:39,Dammam,Small Business,Direct
+11156,2025-09-12 16:48:20,Riyadh,Consumer,Social Media
+11157,2024-10-07 11:29:54,Jeddah,Small Business,Social Media
+11158,2024-09-05 15:09:02,Other,Consumer,Organic Search
+11159,2025-03-01 12:42:34,Makkah,Consumer,Referral
+11160,2024-12-30 03:16:23,Other,Consumer,Referral
+11161,2025-09-11 00:32:41,Jeddah,Consumer,Organic Search
+11162,2025-01-22 22:19:17,Dammam,Corporate,Social Media
+11163,2025-01-12 09:44:47,Jeddah,Consumer,Referral
+11164,2024-03-17 15:14:40,Riyadh,Small Business,Email
+11165,2024-01-17 00:21:22,Riyadh,Small Business,Organic Search
+11166,2024-10-17 22:38:23,Dammam,Small Business,Direct
+11167,2025-12-29 16:34:10,Riyadh,Corporate,Paid Search
+11168,2025-10-31 15:45:21,Other,Consumer,Organic Search
+11169,2025-04-04 03:43:27,Riyadh,Consumer,Organic Search
+11170,2025-04-05 12:10:51,Riyadh,Consumer,Organic Search
+11171,2024-10-12 19:08:39,Madinah,Consumer,Paid Search
+11172,2024-05-09 13:54:55,Riyadh,Small Business,Social Media
+11173,2024-01-07 05:44:19,Tabuk,Consumer,Referral
+11174,2024-09-04 08:45:02,Madinah,Consumer,Organic Search
+11175,2024-08-19 00:31:18,Riyadh,Consumer,Direct
+11176,2024-05-19 20:53:05,Makkah,Consumer,Organic Search
+11177,2024-07-08 04:36:22,Makkah,Small Business,Social Media
+11178,2024-01-19 02:54:04,Madinah,Consumer,Direct
+11179,2025-03-19 19:27:45,Abha,Small Business,Email
+11180,2025-11-08 01:06:26,Makkah,Small Business,Social Media
+11181,2025-05-19 06:48:55,Dammam,Small Business,Referral
+11182,2024-11-23 04:35:32,Jeddah,Consumer,Organic Search
+11183,2024-11-02 19:05:54,Makkah,Small Business,Organic Search
+11184,2024-08-12 12:00:52,Other,Consumer,Paid Search
+11185,2024-04-13 22:57:16,Dammam,Consumer,Organic Search
+11186,2025-03-12 21:19:13,Makkah,Small Business,Paid Search
+11187,2025-02-17 13:30:00,Jeddah,Small Business,Organic Search
+11188,2024-01-06 08:08:57,Madinah,Consumer,Direct
+11189,2024-10-30 07:56:13,Other,Small Business,Direct
+11190,2024-07-21 22:56:50,Riyadh,Consumer,Email
+11191,2024-05-04 07:20:09,Riyadh,Consumer,Referral
+11192,2025-05-28 05:08:46,Dammam,Corporate,Organic Search
+11193,2025-01-18 20:28:27,Jeddah,Consumer,Organic Search
+11194,2025-04-07 15:38:47,Dammam,Small Business,Referral
+11195,2025-06-04 20:11:54,Riyadh,Consumer,Social Media
+11196,2025-12-17 17:14:24,Jeddah,Small Business,Paid Search
+11197,2025-08-09 00:24:06,Dammam,Small Business,Social Media
+11198,2025-03-28 20:40:01,Dammam,Small Business,Social Media
+11199,2025-10-03 16:27:27,Makkah,Consumer,Organic Search
+11200,2024-12-14 13:54:10,Madinah,Small Business,Paid Search
+11201,2025-12-19 21:06:38,Makkah,Consumer,Paid Search
+11202,2025-07-09 20:17:54,Madinah,Corporate,Social Media
+11203,2025-04-20 03:28:34,Makkah,Consumer,Direct
+11204,2025-10-21 10:18:15,Dammam,Consumer,Social Media
+11205,2025-01-11 00:10:56,Dammam,Small Business,Referral
+11206,2025-06-10 02:35:34,Riyadh,Consumer,Email
+11207,2024-07-26 20:29:06,Riyadh,Consumer,Organic Search
+11208,2025-12-04 03:27:38,Dammam,Small Business,Referral
+11209,2025-03-31 01:23:47,Tabuk,Consumer,Social Media
+11210,2025-07-24 20:43:50,Makkah,Consumer,Social Media
+11211,2024-12-02 08:07:25,Riyadh,Consumer,Organic Search
+11212,2025-09-24 18:21:40,Dammam,Consumer,Direct
+11213,2024-02-24 03:35:46,Riyadh,Consumer,Direct
+11214,2024-03-24 07:06:11,Madinah,Consumer,Organic Search
+11215,2025-01-05 04:40:51,Abha,Consumer,Organic Search
+11216,2025-06-18 15:53:04,Dammam,Consumer,Organic Search
+11217,2025-08-13 17:31:07,Dammam,Consumer,Email
+11218,2024-11-17 06:21:14,Jeddah,Small Business,Social Media
+11219,2025-04-19 06:16:28,Jeddah,Small Business,Organic Search
+11220,2025-02-07 18:22:43,Abha,Consumer,Email
+11221,2025-12-02 21:52:55,Madinah,Consumer,Paid Search
+11222,2025-04-22 11:52:27,Dammam,Small Business,Paid Search
+11223,2024-10-31 07:06:20,Jeddah,Consumer,Paid Search
+11224,2025-12-08 23:09:39,Riyadh,Consumer,Social Media
+11225,2024-03-19 07:04:23,Riyadh,Consumer,Social Media
+11226,2025-12-19 17:48:28,Riyadh,Consumer,Paid Search
+11227,2024-04-22 10:18:30,Jeddah,Small Business,Paid Search
+11228,2024-07-29 09:45:31,Other,Corporate,Direct
+11229,2025-08-22 16:09:20,Dammam,Corporate,Social Media
+11230,2025-06-19 15:21:40,Riyadh,Consumer,Direct
+11231,2025-12-09 08:36:22,Riyadh,Consumer,Social Media
+11232,2025-07-01 11:42:41,Jeddah,Consumer,Referral
+11233,2025-04-10 00:23:19,Abha,Consumer,Paid Search
+11234,2024-09-09 22:33:17,Jeddah,Consumer,Email
+11235,2024-01-04 10:33:50,Madinah,Small Business,Paid Search
+11236,2024-03-31 10:11:54,Abha,Consumer,Organic Search
+11237,2024-08-05 09:03:25,Riyadh,Corporate,Organic Search
+11238,2024-01-30 21:23:26,Dammam,Consumer,Organic Search
+11239,2025-01-05 23:18:26,Other,Consumer,Direct
+11240,2025-07-21 11:03:05,Jeddah,Small Business,Direct
+11241,2025-12-04 04:13:23,Riyadh,Small Business,Referral
+11242,2024-12-23 11:32:22,Other,Consumer,Organic Search
+11243,2025-09-30 18:05:23,Tabuk,Consumer,Direct
+11244,2025-12-20 10:39:49,Dammam,Consumer,Referral
+11245,2025-09-19 16:11:41,Dammam,Consumer,Paid Search
+11246,2024-12-05 10:20:05,Riyadh,Consumer,Social Media
+11247,2024-08-25 10:33:43,Abha,Consumer,Referral
+11248,2025-12-14 21:06:19,Jeddah,Consumer,Organic Search
+11249,2024-06-25 14:17:26,Riyadh,Consumer,Social Media
+11250,2024-10-27 10:48:41,Makkah,Small Business,Referral
+11251,2024-02-24 01:00:51,Other,Small Business,Organic Search
+11252,2025-08-02 09:18:40,Abha,Consumer,Paid Search
+11253,2025-04-19 09:08:50,Riyadh,Consumer,Social Media
+11254,2024-03-02 22:02:01,Riyadh,Consumer,Referral
+11255,2024-06-11 00:10:48,Other,Small Business,Direct
+11256,2025-02-09 11:41:20,Other,Small Business,Email
+11257,2025-01-29 12:01:15,Dammam,Small Business,Social Media
+11258,2025-08-08 12:05:14,Makkah,Consumer,Social Media
+11259,2024-07-13 06:01:38,Jeddah,Consumer,Social Media
+11260,2025-11-06 00:46:23,Jeddah,Consumer,Social Media
+11261,2024-11-20 11:10:41,Riyadh,Consumer,Organic Search
+11262,2025-08-23 11:39:20,Riyadh,Small Business,Referral
+11263,2024-06-23 00:26:10,Riyadh,Consumer,Referral
+11264,2024-01-27 23:43:37,Abha,Consumer,Social Media
+11265,2024-02-10 04:32:26,Riyadh,Consumer,Direct
+11266,2024-09-29 01:44:42,Riyadh,Consumer,Referral
+11267,2025-11-26 19:14:28,Dammam,Consumer,Paid Search
+11268,2024-02-05 13:11:50,Riyadh,Consumer,Organic Search
+11269,2024-09-26 08:29:46,Riyadh,Corporate,Organic Search
+11270,2024-03-20 18:37:32,Dammam,Small Business,Paid Search
+11271,2025-11-11 01:00:40,Jeddah,Small Business,Paid Search
+11272,2025-05-07 23:21:16,Makkah,Small Business,Organic Search
+11273,2025-07-10 18:21:24,Tabuk,Small Business,Organic Search
+11274,2025-06-04 16:17:00,Riyadh,Consumer,Organic Search
+11275,2025-04-24 15:06:20,Tabuk,Consumer,Email
+11276,2025-07-18 19:35:10,Tabuk,Consumer,Email
+11277,2024-01-06 22:20:45,Abha,Consumer,Paid Search
+11278,2025-09-23 18:47:55,Makkah,Consumer,Organic Search
+11279,2025-06-24 02:25:59,Makkah,Consumer,Organic Search
+11280,2025-06-23 18:50:21,Makkah,Small Business,Organic Search
+11281,2024-10-14 05:00:32,Makkah,Consumer,Paid Search
+11282,2025-08-07 15:16:13,Riyadh,Consumer,Organic Search
+11283,2024-10-05 17:27:23,Other,Consumer,Paid Search
+11284,2024-02-05 17:50:39,Dammam,Consumer,Direct
+11285,2025-10-24 16:57:40,Madinah,Corporate,Social Media
+11286,2024-06-20 05:03:20,Jeddah,Consumer,Email
+11287,2024-03-15 09:17:24,Riyadh,Small Business,Organic Search
+11288,2025-03-29 23:38:56,Dammam,Small Business,Paid Search
+11289,2024-06-19 13:36:17,Dammam,Consumer,Direct
+11290,2025-09-18 10:21:19,Jeddah,Consumer,Paid Search
+11291,2024-11-19 22:30:17,Jeddah,Consumer,Social Media
+11292,2024-01-04 06:50:31,Riyadh,Consumer,Direct
+11293,2025-11-25 18:06:06,Dammam,Consumer,Social Media
+11294,2025-01-10 16:18:21,Jeddah,Corporate,Paid Search
+11295,2024-07-10 23:21:46,Other,Consumer,Social Media
+11296,2025-05-09 10:04:30,Riyadh,Small Business,Organic Search
+11297,2025-01-22 08:17:44,Jeddah,Consumer,Organic Search
+11298,2024-01-22 14:43:10,Riyadh,Corporate,Organic Search
+11299,2025-07-08 13:01:18,Dammam,Consumer,Direct
+11300,2024-10-19 23:44:57,Jeddah,Consumer,Referral
+11301,2025-05-25 20:48:03,Makkah,Consumer,Paid Search
+11302,2025-10-15 19:31:23,Other,Consumer,Organic Search
+11303,2025-03-21 17:56:11,Riyadh,Small Business,Referral
+11304,2025-05-05 06:39:23,Makkah,Consumer,Direct
+11305,2024-07-04 21:28:16,Riyadh,Consumer,Paid Search
+11306,2024-06-22 11:46:28,Riyadh,Consumer,Paid Search
+11307,2024-10-29 22:49:42,Jeddah,Consumer,Email
+11308,2025-09-14 12:43:31,Riyadh,Consumer,Direct
+11309,2025-01-17 15:51:39,Dammam,Consumer,Direct
+11310,2024-09-11 01:30:37,Makkah,Consumer,Paid Search
+11311,2025-07-23 02:46:38,Madinah,Consumer,Organic Search
+11312,2025-09-14 22:35:55,Dammam,Consumer,Paid Search
+11313,2025-10-20 20:23:04,Dammam,Corporate,Paid Search
+11314,2024-08-06 05:29:33,Jeddah,Consumer,Direct
+11315,2025-06-02 00:53:50,Riyadh,Small Business,Organic Search
+11316,2025-03-06 22:24:38,Riyadh,Consumer,Social Media
+11317,2024-11-23 17:59:12,Makkah,Consumer,Direct
+11318,2024-10-16 18:23:23,Other,Consumer,Direct
+11319,2024-03-24 14:58:25,Riyadh,Consumer,Referral
+11320,2024-07-19 14:56:05,Dammam,Consumer,Direct
+11321,2025-02-05 06:08:03,Madinah,Consumer,Organic Search
+11322,2025-10-09 04:29:18,Abha,Consumer,Paid Search
+11323,2025-09-24 10:18:16,Dammam,Corporate,Organic Search
+11324,2024-05-16 22:38:28,Dammam,Consumer,Direct
+11325,2025-05-10 21:44:03,Makkah,Consumer,Direct
+11326,2024-03-02 21:53:56,Abha,Consumer,Organic Search
+11327,2025-05-07 18:13:44,Riyadh,Consumer,Organic Search
+11328,2024-09-06 14:33:35,Other,Small Business,Paid Search
+11329,2024-11-24 09:20:30,Riyadh,Consumer,Paid Search
+11330,2025-06-07 21:02:16,Abha,Consumer,Email
+11331,2024-11-06 04:02:41,Riyadh,Consumer,Organic Search
+11332,2025-08-12 10:12:06,Riyadh,Consumer,Email
+11333,2025-01-24 12:20:02,Riyadh,Corporate,Social Media
+11334,2025-12-30 01:59:01,Jeddah,Consumer,Paid Search
+11335,2025-04-10 21:58:44,Jeddah,Small Business,Organic Search
+11336,2024-08-04 08:15:47,Riyadh,Consumer,Direct
+11337,2025-07-19 23:02:11,Jeddah,Corporate,Social Media
+11338,2024-10-24 19:08:34,Jeddah,Consumer,Paid Search
+11339,2025-01-24 22:37:52,Madinah,Consumer,Paid Search
+11340,2024-04-09 21:06:31,Tabuk,Small Business,Direct
+11341,2024-03-28 02:53:32,Makkah,Consumer,Email
+11342,2025-02-23 15:45:22,Riyadh,Consumer,Email
+11343,2024-05-16 06:49:30,Riyadh,Corporate,Social Media
+11344,2025-12-29 05:36:08,Tabuk,Consumer,Direct
+11345,2025-09-16 15:24:08,Riyadh,Small Business,Paid Search
+11346,2025-05-26 15:26:07,Jeddah,Small Business,Referral
+11347,2025-06-20 07:55:50,Other,Small Business,Paid Search
+11348,2025-03-10 12:07:44,Other,Small Business,Social Media
+11349,2024-02-14 00:17:20,Jeddah,Consumer,Direct
+11350,2024-10-13 10:18:23,Makkah,Consumer,Direct
+11351,2024-12-27 22:26:33,Jeddah,Consumer,Social Media
+11352,2025-10-30 04:02:03,Madinah,Consumer,Social Media
+11353,2024-06-09 05:29:06,Riyadh,Small Business,Direct
+11354,2024-12-28 17:58:43,Riyadh,Consumer,Direct
+11355,2024-09-08 04:02:41,Dammam,Consumer,Email
+11356,2024-04-08 02:06:29,Riyadh,Consumer,Organic Search
+11357,2024-03-16 04:52:29,Makkah,Consumer,Paid Search
+11358,2024-09-23 17:25:50,Jeddah,Small Business,Direct
+11359,2024-03-01 04:01:15,Tabuk,Consumer,Referral
+11360,2024-02-19 00:45:36,Abha,Consumer,Referral
+11361,2024-09-13 03:12:48,Jeddah,Small Business,Referral
+11362,2024-05-27 10:40:21,Madinah,Corporate,Paid Search
+11363,2025-02-09 00:15:44,Riyadh,Consumer,Paid Search
+11364,2024-01-13 21:33:25,Jeddah,Corporate,Email
+11365,2024-08-08 07:45:32,Riyadh,Consumer,Paid Search
+11366,2024-11-26 21:27:50,Abha,Small Business,Referral
+11367,2025-12-04 02:17:13,Abha,Consumer,Referral
+11368,2025-04-08 05:08:43,Tabuk,Consumer,Email
+11369,2025-10-04 22:12:10,Tabuk,Small Business,Paid Search
+11370,2024-09-07 14:29:02,Other,Consumer,Referral
+11371,2024-11-24 06:55:06,Riyadh,Consumer,Organic Search
+11372,2024-11-02 21:05:19,Other,Consumer,Organic Search
+11373,2025-10-09 19:09:16,Dammam,Consumer,Paid Search
+11374,2025-12-01 05:20:47,Jeddah,Consumer,Organic Search
+11375,2025-12-03 12:05:44,Dammam,Consumer,Direct
+11376,2025-07-02 22:23:37,Jeddah,Consumer,Direct
+11377,2025-01-02 06:30:32,Riyadh,Corporate,Organic Search
+11378,2025-01-29 19:48:29,Riyadh,Corporate,Email
+11379,2025-12-16 18:32:19,Riyadh,Consumer,Social Media
+11380,2024-07-26 17:09:22,Jeddah,Consumer,Referral
+11381,2024-09-10 02:18:56,Tabuk,Consumer,Direct
+11382,2025-10-16 19:23:02,Makkah,Consumer,Social Media
+11383,2024-10-09 00:21:56,Dammam,Small Business,Organic Search
+11384,2024-06-20 14:54:05,Jeddah,Consumer,Organic Search
+11385,2025-02-13 03:25:32,Jeddah,Consumer,Social Media
+11386,2024-08-25 12:00:16,Riyadh,Consumer,Direct
+11387,2025-10-12 08:06:03,Abha,Consumer,Social Media
+11388,2025-10-25 14:48:55,Riyadh,Small Business,Paid Search
+11389,2024-08-11 09:17:50,Makkah,Small Business,Organic Search
+11390,2025-01-21 13:34:36,Madinah,Consumer,Direct
+11391,2025-12-19 07:32:44,Dammam,Consumer,Paid Search
+11392,2025-06-25 21:24:37,Abha,Corporate,Referral
+11393,2024-06-06 09:47:26,Riyadh,Consumer,Referral
+11394,2025-03-07 05:50:55,Tabuk,Small Business,Paid Search
+11395,2025-03-28 12:28:51,Madinah,Corporate,Organic Search
+11396,2025-04-22 00:15:17,Madinah,Consumer,Paid Search
+11397,2024-01-19 06:10:58,Makkah,Corporate,Paid Search
+11398,2024-08-06 13:11:42,Abha,Consumer,Referral
+11399,2025-09-15 20:50:05,Other,Small Business,Email
+11400,2024-06-25 04:50:18,Jeddah,Consumer,Organic Search
+11401,2024-08-06 18:40:03,Abha,Consumer,Social Media
+11402,2024-08-23 10:03:57,Madinah,Consumer,Organic Search
+11403,2024-05-09 11:50:07,Jeddah,Consumer,Organic Search
+11404,2024-04-23 11:20:10,Other,Consumer,Referral
+11405,2024-09-10 07:42:44,Jeddah,Consumer,Email
+11406,2025-09-30 05:59:15,Dammam,Consumer,Email
+11407,2024-01-02 02:53:33,Riyadh,Consumer,Organic Search
+11408,2024-07-25 18:29:10,Riyadh,Consumer,Social Media
+11409,2024-02-14 06:11:05,Abha,Corporate,Paid Search
+11410,2025-02-13 21:17:39,Jeddah,Corporate,Direct
+11411,2024-07-01 22:32:35,Jeddah,Consumer,Referral
+11412,2025-08-01 03:23:30,Riyadh,Consumer,Direct
+11413,2025-03-03 01:29:39,Jeddah,Small Business,Organic Search
+11414,2025-07-26 04:35:54,Abha,Small Business,Paid Search
+11415,2025-04-08 11:35:01,Tabuk,Consumer,Email
+11416,2024-11-16 00:31:38,Riyadh,Small Business,Paid Search
+11417,2025-09-20 12:08:33,Dammam,Consumer,Social Media
+11418,2024-12-13 16:01:40,Jeddah,Consumer,Social Media
+11419,2025-11-24 10:51:09,Dammam,Small Business,Direct
+11420,2025-12-27 03:10:28,Jeddah,Small Business,Organic Search
+11421,2025-03-05 23:39:10,Jeddah,Small Business,Direct
+11422,2025-05-07 10:56:52,Jeddah,Consumer,Paid Search
+11423,2024-07-05 15:12:29,Dammam,Consumer,Paid Search
+11424,2025-08-17 16:27:55,Dammam,Consumer,Social Media
+11425,2025-05-05 06:17:44,Jeddah,Consumer,Paid Search
+11426,2025-10-20 20:44:43,Abha,Consumer,Direct
+11427,2024-07-13 21:59:05,Madinah,Consumer,Direct
+11428,2025-07-28 22:34:26,Jeddah,Consumer,Direct
+11429,2024-12-09 07:13:57,Abha,Small Business,Direct
+11430,2024-05-15 04:20:31,Abha,Consumer,Referral
+11431,2024-05-04 23:21:52,Riyadh,Consumer,Paid Search
+11432,2025-02-14 09:13:52,Dammam,Small Business,Email
+11433,2024-08-21 04:45:24,Riyadh,Consumer,Organic Search
+11434,2024-03-15 09:11:08,Madinah,Small Business,Email
+11435,2024-11-07 19:36:11,Riyadh,Consumer,Social Media
+11436,2025-04-21 15:11:44,Makkah,Consumer,Referral
+11437,2024-08-20 19:59:21,Riyadh,Corporate,Paid Search
+11438,2025-11-28 09:43:19,Dammam,Consumer,Paid Search
+11439,2025-07-23 01:40:13,Other,Consumer,Organic Search
+11440,2025-01-09 07:03:56,Jeddah,Small Business,Paid Search
+11441,2025-11-13 07:07:58,Tabuk,Consumer,Paid Search
+11442,2024-11-12 01:40:41,Other,Small Business,Organic Search
+11443,2024-04-11 22:59:33,Tabuk,Small Business,Organic Search
+11444,2024-01-27 03:57:54,Riyadh,Corporate,Social Media
+11445,2025-11-15 18:10:22,Abha,Consumer,Paid Search
+11446,2025-12-01 15:14:58,Riyadh,Consumer,Email
+11447,2025-06-23 15:39:52,Jeddah,Small Business,Organic Search
+11448,2024-03-16 04:36:25,Tabuk,Consumer,Social Media
+11449,2024-08-02 08:45:24,Makkah,Consumer,Organic Search
+11450,2024-01-30 23:42:20,Dammam,Consumer,Social Media
+11451,2024-02-07 09:52:28,Jeddah,Consumer,Social Media
+11452,2024-06-28 15:05:13,Abha,Consumer,Social Media
+11453,2025-02-21 15:55:24,Makkah,Consumer,Paid Search
+11454,2024-02-17 20:05:35,Jeddah,Consumer,Social Media
+11455,2025-12-19 18:12:40,Tabuk,Consumer,Organic Search
+11456,2024-11-28 05:39:52,Riyadh,Corporate,Paid Search
+11457,2024-07-11 14:34:25,Riyadh,Consumer,Paid Search
+11458,2025-01-11 17:51:29,Makkah,Consumer,Referral
+11459,2025-07-30 19:31:17,Other,Consumer,Paid Search
+11460,2024-08-16 04:13:31,Riyadh,Consumer,Email
+11461,2024-02-04 16:26:22,Riyadh,Corporate,Paid Search
+11462,2024-02-07 04:49:39,Riyadh,Corporate,Organic Search
+11463,2025-09-13 22:47:33,Abha,Consumer,Paid Search
+11464,2024-03-22 11:14:18,Riyadh,Consumer,Organic Search
+11465,2025-04-08 23:04:17,Dammam,Consumer,Social Media
+11466,2024-10-07 16:31:00,Other,Consumer,Email
+11467,2025-07-21 14:06:00,Riyadh,Consumer,Referral
+11468,2024-02-14 04:27:30,Dammam,Consumer,Paid Search
+11469,2025-10-17 09:19:09,Dammam,Consumer,Organic Search
+11470,2025-05-24 16:17:02,Abha,Consumer,Email
+11471,2024-11-23 23:20:44,Jeddah,Consumer,Organic Search
+11472,2024-05-31 02:59:59,Jeddah,Consumer,Paid Search
+11473,2025-12-14 07:31:32,Riyadh,Consumer,Email
+11474,2024-08-08 12:17:37,Madinah,Consumer,Paid Search
+11475,2024-12-24 01:46:19,Madinah,Consumer,Organic Search
+11476,2024-10-14 17:05:01,Riyadh,Consumer,Paid Search
+11477,2024-06-17 07:14:30,Jeddah,Consumer,Social Media
+11478,2024-10-31 03:00:02,Tabuk,Consumer,Organic Search
+11479,2024-04-20 14:00:34,Riyadh,Small Business,Referral
+11480,2024-01-02 05:05:44,Riyadh,Corporate,Paid Search
+11481,2024-07-30 16:40:34,Dammam,Consumer,Paid Search
+11482,2024-03-22 19:28:22,Jeddah,Consumer,Organic Search
+11483,2024-10-29 18:55:35,Riyadh,Small Business,Email
+11484,2025-09-21 19:38:06,Jeddah,Small Business,Paid Search
+11485,2024-04-28 16:12:47,Riyadh,Consumer,Referral
+11486,2024-01-01 21:36:11,Dammam,Consumer,Paid Search
+11487,2024-03-22 02:22:08,Makkah,Consumer,Organic Search
+11488,2025-01-05 23:05:31,Dammam,Consumer,Paid Search
+11489,2024-07-19 15:09:53,Riyadh,Consumer,Social Media
+11490,2024-12-23 08:04:30,Abha,Consumer,Paid Search
+11491,2024-01-22 08:25:21,Riyadh,Consumer,Email
+11492,2024-08-31 03:48:34,Madinah,Consumer,Direct
+11493,2024-10-26 09:33:28,Jeddah,Consumer,Email
+11494,2024-11-10 20:50:57,Madinah,Small Business,Social Media
+11495,2025-02-06 08:17:34,Riyadh,Consumer,Social Media
+11496,2025-07-23 19:46:53,Riyadh,Consumer,Social Media
+11497,2024-12-07 01:52:06,Jeddah,Consumer,Paid Search
+11498,2025-09-06 01:53:20,Riyadh,Small Business,Email
+11499,2025-01-21 16:57:51,Riyadh,Consumer,Email
+11500,2024-07-09 01:18:23,Madinah,Consumer,Paid Search
+11501,2024-06-16 04:23:59,Abha,Consumer,Direct
+11502,2024-08-23 10:01:57,Riyadh,Small Business,Email
+11503,2025-03-12 03:34:06,Tabuk,Small Business,Paid Search
+11504,2024-06-26 00:17:58,Madinah,Small Business,Direct
+11505,2025-10-29 08:19:16,Abha,Consumer,Organic Search
+11506,2024-12-16 07:12:24,Makkah,Consumer,Organic Search
+11507,2025-09-22 04:32:20,Makkah,Consumer,Paid Search
+11508,2025-05-13 18:41:11,Dammam,Consumer,Social Media
+11509,2024-08-31 08:20:07,Makkah,Small Business,Paid Search
+11510,2024-06-15 14:59:25,Tabuk,Consumer,Direct
+11511,2025-06-27 01:54:06,Riyadh,Consumer,Paid Search
+11512,2024-08-29 10:29:24,Jeddah,Small Business,Paid Search
+11513,2024-06-29 05:07:19,Riyadh,Consumer,Social Media
+11514,2025-11-10 04:20:18,Other,Consumer,Organic Search
+11515,2024-12-18 07:40:32,Jeddah,Consumer,Referral
+11516,2024-02-05 10:56:02,Makkah,Small Business,Paid Search
+11517,2024-12-27 04:19:44,Abha,Corporate,Direct
+11518,2024-12-02 08:41:00,Other,Consumer,Referral
+11519,2025-09-22 16:43:40,Riyadh,Corporate,Organic Search
+11520,2025-06-03 10:29:48,Madinah,Small Business,Organic Search
+11521,2024-05-19 16:34:44,Tabuk,Small Business,Organic Search
+11522,2024-04-19 19:57:15,Riyadh,Small Business,Direct
+11523,2025-03-16 14:58:36,Madinah,Consumer,Referral
+11524,2024-02-04 13:59:34,Jeddah,Small Business,Paid Search
+11525,2024-08-20 21:09:34,Makkah,Consumer,Organic Search
+11526,2024-04-10 21:21:29,Dammam,Small Business,Direct
+11527,2024-01-16 00:14:42,Riyadh,Consumer,Organic Search
+11528,2025-11-01 17:46:56,Riyadh,Small Business,Referral
+11529,2024-03-06 13:39:36,Riyadh,Corporate,Referral
+11530,2024-01-07 18:13:52,Riyadh,Consumer,Paid Search
+11531,2025-11-12 00:15:56,Makkah,Corporate,Social Media
+11532,2024-05-17 11:24:03,Jeddah,Consumer,Organic Search
+11533,2025-08-19 02:05:35,Riyadh,Consumer,Paid Search
+11534,2024-01-23 20:05:13,Makkah,Consumer,Direct
+11535,2024-04-22 02:18:09,Makkah,Small Business,Referral
+11536,2024-03-21 18:13:41,Dammam,Consumer,Email
+11537,2025-05-30 13:43:28,Other,Consumer,Social Media
+11538,2025-03-28 17:00:55,Jeddah,Consumer,Organic Search
+11539,2024-12-13 02:47:43,Abha,Consumer,Referral
+11540,2024-06-25 09:30:49,Riyadh,Consumer,Social Media
+11541,2024-03-05 20:49:35,Madinah,Small Business,Organic Search
+11542,2025-02-19 12:35:42,Other,Small Business,Paid Search
+11543,2024-06-17 10:06:51,Abha,Small Business,Social Media
+11544,2025-03-06 20:13:23,Dammam,Consumer,Referral
+11545,2025-05-16 20:26:24,Makkah,Corporate,Organic Search
+11546,2025-09-12 02:06:25,Jeddah,Consumer,Direct
+11547,2024-12-26 14:37:01,Makkah,Consumer,Paid Search
+11548,2024-01-04 11:04:09,Madinah,Consumer,Paid Search
+11549,2024-07-23 21:16:59,Other,Consumer,Organic Search
+11550,2025-09-14 23:01:58,Jeddah,Consumer,Email
+11551,2025-01-24 06:33:25,Riyadh,Small Business,Paid Search
+11552,2025-03-27 22:57:59,Dammam,Consumer,Social Media
+11553,2024-11-30 05:03:51,Riyadh,Consumer,Organic Search
+11554,2024-04-28 19:15:57,Riyadh,Small Business,Referral
+11555,2025-10-16 14:14:56,Jeddah,Corporate,Email
+11556,2025-07-18 05:51:46,Madinah,Consumer,Paid Search
+11557,2025-12-27 11:36:48,Riyadh,Consumer,Direct
+11558,2025-09-16 12:12:42,Riyadh,Consumer,Organic Search
+11559,2024-07-31 12:39:18,Riyadh,Consumer,Organic Search
+11560,2024-07-04 14:41:46,Tabuk,Consumer,Social Media
+11561,2024-06-30 09:16:19,Makkah,Consumer,Referral
+11562,2025-11-01 17:15:55,Riyadh,Small Business,Paid Search
+11563,2025-02-10 13:30:22,Riyadh,Consumer,Social Media
+11564,2024-11-27 18:05:39,Dammam,Consumer,Paid Search
+11565,2025-12-07 19:56:23,Riyadh,Consumer,Social Media
+11566,2025-03-16 11:59:47,Dammam,Corporate,Referral
+11567,2025-10-25 21:14:53,Jeddah,Consumer,Direct
+11568,2025-12-19 19:03:35,Other,Consumer,Paid Search
+11569,2024-02-27 23:53:14,Riyadh,Consumer,Social Media
+11570,2024-09-20 22:06:43,Makkah,Small Business,Social Media
+11571,2025-06-19 22:07:14,Riyadh,Small Business,Paid Search
+11572,2025-08-16 14:33:06,Other,Consumer,Paid Search
+11573,2024-04-18 09:27:24,Other,Consumer,Direct
+11574,2024-08-20 10:21:09,Madinah,Consumer,Organic Search
+11575,2025-02-04 03:59:18,Jeddah,Consumer,Email
+11576,2025-08-06 10:13:15,Riyadh,Corporate,Organic Search
+11577,2024-03-23 11:11:10,Abha,Consumer,Email
+11578,2025-03-14 12:51:29,Madinah,Consumer,Organic Search
+11579,2024-08-04 09:40:46,Riyadh,Small Business,Direct
+11580,2024-06-06 22:33:06,Jeddah,Small Business,Referral
+11581,2025-01-11 05:47:34,Jeddah,Consumer,Organic Search
+11582,2024-10-29 05:44:13,Abha,Consumer,Referral
+11583,2025-04-09 01:39:45,Makkah,Consumer,Social Media
+11584,2024-08-19 20:58:34,Makkah,Small Business,Paid Search
+11585,2025-08-23 23:47:39,Makkah,Small Business,Paid Search
+11586,2024-02-27 00:27:32,Riyadh,Small Business,Referral
+11587,2025-09-21 04:07:35,Jeddah,Small Business,Referral
+11588,2024-01-22 18:42:18,Riyadh,Consumer,Paid Search
+11589,2025-06-21 04:53:36,Madinah,Consumer,Direct
+11590,2024-09-09 22:18:21,Jeddah,Consumer,Paid Search
+11591,2024-10-06 20:01:29,Jeddah,Small Business,Organic Search
+11592,2024-01-14 21:28:41,Riyadh,Consumer,Social Media
+11593,2025-05-27 12:47:32,Riyadh,Consumer,Organic Search
+11594,2024-04-30 19:20:43,Dammam,Consumer,Paid Search
+11595,2025-04-26 04:25:35,Riyadh,Small Business,Social Media
+11596,2025-06-13 09:12:42,Riyadh,Small Business,Paid Search
+11597,2025-09-09 00:34:50,Madinah,Small Business,Organic Search
+11598,2025-05-31 21:45:30,Jeddah,Consumer,Referral
+11599,2024-08-08 02:17:03,Jeddah,Corporate,Social Media
+11600,2025-06-23 03:55:42,Jeddah,Small Business,Email
+11601,2025-08-25 22:38:58,Abha,Small Business,Social Media
+11602,2024-08-19 12:31:24,Jeddah,Small Business,Social Media
+11603,2024-03-31 15:34:45,Madinah,Corporate,Paid Search
+11604,2025-10-11 17:08:27,Other,Corporate,Email
+11605,2024-04-17 23:54:29,Makkah,Consumer,Organic Search
+11606,2025-03-09 11:54:40,Jeddah,Consumer,Organic Search
+11607,2024-06-21 11:38:01,Madinah,Consumer,Email
+11608,2024-04-01 23:58:53,Jeddah,Small Business,Referral
+11609,2025-07-20 18:47:35,Jeddah,Small Business,Social Media
+11610,2024-04-14 21:57:03,Dammam,Consumer,Organic Search
+11611,2025-05-04 06:21:24,Jeddah,Consumer,Organic Search
+11612,2025-05-20 23:01:54,Riyadh,Corporate,Social Media
+11613,2024-02-13 23:11:40,Jeddah,Small Business,Referral
+11614,2024-05-06 05:58:39,Riyadh,Corporate,Paid Search
+11615,2025-08-02 21:14:55,Jeddah,Consumer,Organic Search
+11616,2025-01-05 07:46:05,Dammam,Small Business,Organic Search
+11617,2024-03-29 14:05:08,Other,Small Business,Social Media
+11618,2025-12-24 23:53:19,Riyadh,Consumer,Referral
+11619,2024-07-12 10:35:32,Makkah,Consumer,Organic Search
+11620,2024-01-03 22:12:47,Jeddah,Corporate,Organic Search
+11621,2025-11-05 15:23:19,Riyadh,Consumer,Paid Search
+11622,2024-01-13 02:28:41,Riyadh,Consumer,Organic Search
+11623,2025-02-07 22:50:18,Riyadh,Small Business,Social Media
+11624,2025-12-25 22:50:30,Riyadh,Small Business,Organic Search
+11625,2025-02-25 19:13:11,Riyadh,Consumer,Social Media
+11626,2025-03-02 18:52:20,Jeddah,Small Business,Email
+11627,2024-10-10 08:49:27,Dammam,Consumer,Direct
+11628,2024-04-02 15:27:45,Riyadh,Small Business,Direct
+11629,2025-02-22 01:33:38,Riyadh,Consumer,Paid Search
+11630,2025-10-17 00:44:04,Riyadh,Small Business,Organic Search
+11631,2024-03-07 12:07:19,Dammam,Small Business,Paid Search
+11632,2025-10-04 16:15:46,Jeddah,Consumer,Referral
+11633,2024-10-29 23:36:53,Dammam,Consumer,Organic Search
+11634,2025-01-26 10:13:52,Riyadh,Small Business,Paid Search
+11635,2024-04-30 17:53:36,Riyadh,Consumer,Paid Search
+11636,2025-03-29 21:47:46,Other,Consumer,Organic Search
+11637,2024-05-13 02:49:33,Riyadh,Consumer,Referral
+11638,2024-07-18 10:14:22,Riyadh,Corporate,Referral
+11639,2025-06-10 18:38:44,Riyadh,Consumer,Social Media
+11640,2024-02-06 21:06:18,Other,Consumer,Direct
+11641,2024-11-22 10:37:15,Dammam,Corporate,Organic Search
+11642,2025-03-10 00:49:28,Dammam,Consumer,Organic Search
+11643,2024-04-06 09:08:28,Other,Consumer,Paid Search
+11644,2024-08-03 04:06:39,Riyadh,Consumer,Referral
+11645,2024-09-07 18:08:52,Other,Consumer,Social Media
+11646,2025-04-29 10:38:26,Riyadh,Consumer,Organic Search
+11647,2025-12-13 23:56:30,Makkah,Small Business,Direct
+11648,2025-09-02 11:00:55,Jeddah,Consumer,Paid Search
+11649,2024-05-18 12:41:45,Jeddah,Small Business,Paid Search
+11650,2024-01-14 06:10:21,Other,Consumer,Social Media
+11651,2024-02-07 21:29:59,Riyadh,Consumer,Direct
+11652,2025-03-10 20:54:19,Other,Consumer,Referral
+11653,2024-04-24 01:41:02,Jeddah,Consumer,Direct
+11654,2024-06-17 20:02:06,Makkah,Small Business,Organic Search
+11655,2025-09-10 14:18:04,Other,Consumer,Social Media
+11656,2025-09-29 22:31:35,Riyadh,Consumer,Email
+11657,2025-09-04 11:49:08,Other,Consumer,Social Media
+11658,2024-07-04 04:12:07,Dammam,Small Business,Paid Search
+11659,2025-03-28 08:52:30,Makkah,Consumer,Direct
+11660,2025-03-21 20:41:33,Riyadh,Small Business,Organic Search
+11661,2024-05-15 05:32:05,Dammam,Consumer,Paid Search
+11662,2025-02-08 02:02:07,Makkah,Consumer,Direct
+11663,2025-01-18 10:29:41,Jeddah,Small Business,Direct
+11664,2024-10-16 04:50:13,Riyadh,Consumer,Direct
+11665,2025-07-02 17:08:07,Riyadh,Consumer,Direct
+11666,2025-05-09 15:54:56,Abha,Corporate,Organic Search
+11667,2025-01-23 20:06:43,Riyadh,Consumer,Direct
+11668,2025-06-13 19:29:02,Makkah,Consumer,Paid Search
+11669,2025-07-11 01:39:41,Other,Consumer,Referral
+11670,2025-02-17 20:45:00,Riyadh,Consumer,Paid Search
+11671,2024-07-14 09:39:06,Riyadh,Small Business,Email
+11672,2025-07-07 15:33:27,Makkah,Consumer,Social Media
+11673,2025-06-07 20:35:44,Riyadh,Corporate,Email
+11674,2025-12-18 21:28:01,Dammam,Small Business,Organic Search
+11675,2024-04-19 08:13:28,Makkah,Corporate,Organic Search
+11676,2024-11-02 01:39:08,Dammam,Small Business,Paid Search
+11677,2025-11-05 16:27:05,Jeddah,Corporate,Organic Search
+11678,2025-01-10 15:29:42,Makkah,Consumer,Referral
+11679,2025-11-19 02:45:10,Dammam,Consumer,Paid Search
+11680,2024-01-10 02:28:20,Riyadh,Consumer,Social Media
+11681,2024-01-26 16:10:30,Dammam,Small Business,Organic Search
+11682,2025-08-04 02:25:13,Tabuk,Consumer,Organic Search
+11683,2024-09-18 15:42:48,Makkah,Small Business,Social Media
+11684,2025-01-14 18:25:50,Jeddah,Consumer,Paid Search
+11685,2024-11-08 10:43:34,Jeddah,Small Business,Organic Search
+11686,2024-10-24 19:29:03,Riyadh,Consumer,Organic Search
+11687,2025-11-16 19:35:22,Riyadh,Corporate,Organic Search
+11688,2024-03-09 16:08:26,Riyadh,Consumer,Social Media
+11689,2025-07-17 17:14:28,Other,Consumer,Organic Search
+11690,2025-10-11 10:46:49,Riyadh,Small Business,Paid Search
+11691,2025-04-24 21:51:17,Abha,Small Business,Referral
+11692,2024-10-15 08:31:36,Riyadh,Small Business,Social Media
+11693,2024-04-26 19:26:30,Riyadh,Corporate,Social Media
+11694,2025-05-13 06:49:46,Jeddah,Consumer,Paid Search
+11695,2024-12-08 05:20:16,Jeddah,Small Business,Direct
+11696,2024-04-19 01:02:06,Madinah,Consumer,Paid Search
+11697,2024-09-19 13:04:26,Other,Consumer,Paid Search
+11698,2025-12-02 22:20:58,Tabuk,Consumer,Direct
+11699,2024-07-12 17:33:19,Riyadh,Consumer,Referral
+11700,2024-05-10 06:17:58,Madinah,Consumer,Social Media
+11701,2025-05-12 20:12:33,Riyadh,Small Business,Direct
+11702,2024-05-25 15:58:32,Tabuk,Consumer,Organic Search
+11703,2025-11-02 12:48:20,Dammam,Corporate,Email
+11704,2025-09-19 01:22:46,Jeddah,Consumer,Referral
+11705,2025-12-18 23:26:55,Riyadh,Consumer,Paid Search
+11706,2025-10-28 04:26:58,Riyadh,Small Business,Paid Search
+11707,2024-06-26 22:44:59,Riyadh,Consumer,Organic Search
+11708,2024-06-03 20:49:21,Tabuk,Consumer,Direct
+11709,2024-09-07 03:02:34,Madinah,Small Business,Organic Search
+11710,2024-12-08 22:54:41,Other,Consumer,Paid Search
+11711,2025-10-04 09:31:28,Riyadh,Consumer,Referral
+11712,2025-06-19 10:49:50,Dammam,Small Business,Referral
+11713,2025-04-15 10:29:45,Riyadh,Consumer,Organic Search
+11714,2025-10-03 04:58:03,Dammam,Small Business,Email
+11715,2025-04-16 11:56:49,Jeddah,Small Business,Social Media
+11716,2024-10-03 17:00:11,Riyadh,Consumer,Email
+11717,2024-10-28 11:46:32,Dammam,Consumer,Organic Search
+11718,2025-01-12 10:10:53,Riyadh,Consumer,Organic Search
+11719,2024-03-05 19:17:20,Jeddah,Small Business,Social Media
+11720,2025-06-25 10:52:17,Makkah,Consumer,Organic Search
+11721,2025-04-21 12:38:00,Riyadh,Corporate,Social Media
+11722,2025-06-17 17:30:08,Other,Consumer,Organic Search
+11723,2025-01-24 18:40:20,Dammam,Small Business,Email
+11724,2025-07-25 13:27:41,Abha,Consumer,Direct
+11725,2025-11-24 07:38:12,Makkah,Consumer,Email
+11726,2025-02-20 01:14:25,Makkah,Consumer,Direct
+11727,2024-11-20 09:36:16,Makkah,Consumer,Direct
+11728,2024-03-17 08:51:23,Tabuk,Corporate,Paid Search
+11729,2025-07-22 10:25:35,Dammam,Consumer,Paid Search
+11730,2025-10-21 21:36:43,Riyadh,Consumer,Direct
+11731,2025-05-25 15:04:01,Riyadh,Consumer,Direct
+11732,2025-09-23 20:49:51,Dammam,Consumer,Direct
+11733,2025-09-20 16:12:54,Riyadh,Small Business,Referral
+11734,2025-08-05 14:40:01,Riyadh,Corporate,Organic Search
+11735,2025-01-02 02:27:59,Riyadh,Small Business,Direct
+11736,2024-03-13 21:35:26,Dammam,Consumer,Direct
+11737,2024-01-03 08:51:56,Riyadh,Consumer,Referral
+11738,2024-05-29 05:02:30,Dammam,Small Business,Email
+11739,2024-11-10 15:33:03,Madinah,Consumer,Social Media
+11740,2025-06-26 19:52:42,Abha,Small Business,Direct
+11741,2024-11-28 17:44:23,Jeddah,Consumer,Organic Search
+11742,2024-01-17 21:24:52,Dammam,Consumer,Email
+11743,2024-06-02 13:15:14,Dammam,Small Business,Organic Search
+11744,2025-12-15 20:00:56,Jeddah,Consumer,Paid Search
+11745,2025-12-22 06:09:07,Makkah,Corporate,Organic Search
+11746,2024-10-02 07:34:29,Riyadh,Consumer,Social Media
+11747,2025-08-10 15:20:50,Other,Consumer,Organic Search
+11748,2025-06-09 02:21:20,Riyadh,Consumer,Direct
+11749,2025-11-10 19:49:28,Abha,Consumer,Social Media
+11750,2025-10-09 22:14:43,Dammam,Consumer,Direct
+11751,2025-04-03 23:33:12,Riyadh,Consumer,Paid Search
+11752,2024-10-15 01:54:56,Madinah,Small Business,Organic Search
+11753,2025-04-02 11:03:43,Riyadh,Small Business,Email
+11754,2024-08-20 23:12:04,Madinah,Consumer,Referral
+11755,2024-09-11 02:32:49,Dammam,Consumer,Social Media
+11756,2025-03-20 09:08:40,Riyadh,Consumer,Email
+11757,2025-02-21 02:54:22,Riyadh,Small Business,Email
+11758,2025-02-28 02:56:01,Madinah,Consumer,Social Media
+11759,2024-10-07 19:31:08,Riyadh,Consumer,Direct
+11760,2024-10-25 16:07:56,Tabuk,Consumer,Referral
+11761,2024-01-08 10:33:53,Madinah,Consumer,Referral
+11762,2025-03-15 07:05:37,Makkah,Consumer,Paid Search
+11763,2025-02-24 07:45:18,Riyadh,Consumer,Organic Search
+11764,2025-11-13 19:52:53,Makkah,Corporate,Organic Search
+11765,2025-01-03 02:58:40,Other,Consumer,Referral
+11766,2024-12-07 09:03:26,Riyadh,Consumer,Referral
+11767,2024-02-19 09:47:45,Jeddah,Consumer,Paid Search
+11768,2024-05-23 14:55:22,Riyadh,Consumer,Social Media
+11769,2024-09-03 18:25:02,Jeddah,Consumer,Organic Search
+11770,2024-10-02 08:38:55,Madinah,Consumer,Paid Search
+11771,2024-09-21 18:15:21,Jeddah,Consumer,Direct
+11772,2024-10-14 16:45:15,Dammam,Small Business,Paid Search
+11773,2025-07-15 07:26:23,Jeddah,Consumer,Organic Search
+11774,2024-04-05 17:01:27,Riyadh,Corporate,Social Media
+11775,2024-08-30 13:11:14,Riyadh,Consumer,Paid Search
+11776,2024-04-28 21:30:31,Abha,Consumer,Referral
+11777,2024-08-12 16:34:39,Dammam,Corporate,Direct
+11778,2025-05-14 17:31:39,Jeddah,Small Business,Social Media
+11779,2024-02-04 03:18:04,Madinah,Consumer,Social Media
+11780,2024-09-04 19:39:00,Riyadh,Small Business,Paid Search
+11781,2024-01-18 06:59:10,Riyadh,Consumer,Social Media
+11782,2025-11-28 01:49:11,Riyadh,Consumer,Paid Search
+11783,2025-06-14 21:34:39,Other,Small Business,Organic Search
+11784,2024-06-26 19:48:53,Makkah,Small Business,Email
+11785,2024-05-24 16:24:55,Dammam,Consumer,Paid Search
+11786,2024-03-13 05:09:26,Riyadh,Consumer,Social Media
+11787,2024-12-11 04:51:19,Riyadh,Consumer,Organic Search
+11788,2025-07-04 01:23:59,Makkah,Consumer,Email
+11789,2025-03-02 11:21:45,Jeddah,Corporate,Organic Search
+11790,2025-10-05 03:45:05,Other,Consumer,Paid Search
+11791,2024-09-07 23:41:10,Madinah,Consumer,Email
+11792,2024-07-22 00:32:45,Jeddah,Consumer,Paid Search
+11793,2024-12-14 23:27:55,Madinah,Consumer,Direct
+11794,2024-05-27 12:35:00,Other,Consumer,Organic Search
+11795,2025-12-13 05:17:50,Jeddah,Corporate,Referral
+11796,2024-05-15 14:37:21,Makkah,Small Business,Direct
+11797,2024-12-15 13:44:39,Tabuk,Small Business,Social Media
+11798,2025-01-16 01:39:19,Riyadh,Consumer,Referral
+11799,2024-02-11 15:27:08,Tabuk,Consumer,Paid Search
+11800,2024-12-07 22:39:34,Riyadh,Consumer,Referral
+11801,2024-11-27 22:23:04,Makkah,Consumer,Direct
+11802,2024-07-08 09:23:09,Madinah,Consumer,Referral
+11803,2024-04-03 10:00:17,Dammam,Small Business,Direct
+11804,2024-02-02 23:25:58,Jeddah,Small Business,Social Media
+11805,2024-01-07 06:21:05,Dammam,Consumer,Social Media
+11806,2024-12-17 11:43:41,Riyadh,Consumer,Paid Search
+11807,2024-03-06 14:01:00,Riyadh,Small Business,Referral
+11808,2025-12-01 07:30:09,Riyadh,Consumer,Direct
+11809,2024-06-27 15:58:13,Dammam,Corporate,Social Media
+11810,2025-04-21 08:08:11,Jeddah,Consumer,Organic Search
+11811,2025-05-06 15:30:50,Riyadh,Consumer,Social Media
+11812,2024-12-27 17:16:29,Tabuk,Consumer,Referral
+11813,2025-10-07 00:53:35,Jeddah,Corporate,Direct
+11814,2024-03-21 19:19:30,Jeddah,Consumer,Organic Search
+11815,2024-06-19 20:14:02,Jeddah,Small Business,Organic Search
+11816,2024-07-03 06:41:01,Riyadh,Consumer,Paid Search
+11817,2024-04-08 20:27:38,Madinah,Consumer,Organic Search
+11818,2024-08-03 04:26:22,Jeddah,Small Business,Direct
+11819,2024-08-16 06:16:48,Riyadh,Consumer,Paid Search
+11820,2025-07-12 07:21:29,Other,Consumer,Social Media
+11821,2024-08-08 04:29:49,Abha,Consumer,Organic Search
+11822,2025-10-01 23:58:23,Madinah,Small Business,Paid Search
+11823,2025-07-18 01:15:00,Abha,Consumer,Direct
+11824,2025-10-20 04:45:54,Tabuk,Consumer,Social Media
+11825,2024-03-17 19:32:07,Jeddah,Corporate,Organic Search
+11826,2025-12-19 17:38:31,Dammam,Small Business,Organic Search
+11827,2025-03-24 04:37:44,Dammam,Small Business,Direct
+11828,2025-12-18 03:03:51,Riyadh,Small Business,Direct
+11829,2024-09-16 00:50:12,Riyadh,Small Business,Organic Search
+11830,2025-11-26 16:32:41,Riyadh,Consumer,Social Media
+11831,2025-03-05 16:22:13,Makkah,Consumer,Organic Search
+11832,2024-02-22 10:19:26,Madinah,Small Business,Social Media
+11833,2024-10-26 09:22:51,Madinah,Small Business,Organic Search
+11834,2024-04-10 14:08:33,Jeddah,Corporate,Email
+11835,2025-11-18 03:13:13,Riyadh,Consumer,Direct
+11836,2024-08-10 06:15:12,Jeddah,Consumer,Organic Search
+11837,2024-06-11 07:46:03,Dammam,Consumer,Paid Search
+11838,2025-02-07 14:46:38,Tabuk,Consumer,Organic Search
+11839,2024-11-06 08:49:44,Tabuk,Consumer,Paid Search
+11840,2024-03-11 19:03:09,Tabuk,Small Business,Organic Search
+11841,2025-08-19 00:58:35,Abha,Consumer,Paid Search
+11842,2025-09-09 10:21:45,Other,Consumer,Direct
+11843,2025-06-26 08:41:51,Jeddah,Consumer,Organic Search
+11844,2025-03-26 05:34:05,Riyadh,Small Business,Email
+11845,2024-10-20 20:48:39,Riyadh,Corporate,Organic Search
+11846,2025-01-30 22:13:27,Jeddah,Consumer,Social Media
+11847,2025-01-15 07:51:25,Riyadh,Consumer,Paid Search
+11848,2024-04-30 16:15:15,Riyadh,Consumer,Direct
+11849,2024-02-29 17:22:04,Other,Consumer,Organic Search
+11850,2024-07-03 21:02:09,Riyadh,Consumer,Organic Search
+11851,2024-11-27 15:55:22,Other,Corporate,Referral
+11852,2024-04-27 00:40:00,Madinah,Corporate,Referral
+11853,2024-03-18 20:48:55,Makkah,Consumer,Referral
+11854,2025-09-13 21:52:08,Makkah,Consumer,Organic Search
+11855,2024-09-30 17:56:33,Jeddah,Consumer,Paid Search
+11856,2025-03-02 11:40:19,Makkah,Consumer,Email
+11857,2025-01-17 12:58:29,Riyadh,Consumer,Social Media
+11858,2025-06-20 15:28:03,Other,Small Business,Social Media
+11859,2025-06-24 01:30:32,Jeddah,Consumer,Paid Search
+11860,2024-08-04 02:29:44,Riyadh,Small Business,Paid Search
+11861,2025-09-10 23:20:15,Makkah,Consumer,Direct
+11862,2024-09-28 00:20:46,Makkah,Small Business,Referral
+11863,2025-09-01 16:48:51,Jeddah,Small Business,Organic Search
+11864,2024-10-22 13:03:32,Makkah,Consumer,Direct
+11865,2024-03-22 00:37:01,Riyadh,Consumer,Social Media
+11866,2025-07-08 19:27:44,Makkah,Small Business,Paid Search
+11867,2024-01-23 00:25:35,Riyadh,Consumer,Paid Search
+11868,2025-07-17 19:37:27,Riyadh,Consumer,Referral
+11869,2024-02-01 12:12:33,Riyadh,Consumer,Paid Search
+11870,2024-05-30 23:22:22,Jeddah,Consumer,Social Media
+11871,2025-03-16 10:56:56,Jeddah,Small Business,Referral
+11872,2025-11-18 07:45:38,Jeddah,Consumer,Organic Search
+11873,2024-10-25 04:31:46,Riyadh,Consumer,Direct
+11874,2024-03-29 01:52:53,Riyadh,Consumer,Paid Search
+11875,2024-06-19 00:33:59,Dammam,Small Business,Paid Search
+11876,2025-10-16 04:03:31,Riyadh,Small Business,Referral
+11877,2025-06-14 12:24:40,Makkah,Consumer,Social Media
+11878,2024-03-14 06:55:54,Other,Consumer,Paid Search
+11879,2024-10-07 23:23:58,Jeddah,Consumer,Social Media
+11880,2024-07-12 02:44:14,Tabuk,Consumer,Direct
+11881,2024-05-09 19:36:58,Riyadh,Consumer,Email
+11882,2025-09-09 22:18:14,Riyadh,Consumer,Email
+11883,2025-03-26 22:18:28,Madinah,Consumer,Paid Search
+11884,2024-05-11 00:42:03,Madinah,Small Business,Paid Search
+11885,2025-04-20 00:10:41,Abha,Consumer,Social Media
+11886,2024-10-28 21:42:36,Riyadh,Small Business,Organic Search
+11887,2024-02-14 21:04:19,Madinah,Consumer,Referral
+11888,2024-11-24 09:32:05,Jeddah,Consumer,Paid Search
+11889,2024-05-15 05:15:44,Jeddah,Consumer,Paid Search
+11890,2024-06-28 00:56:13,Riyadh,Small Business,Paid Search
+11891,2025-10-03 16:02:38,Other,Small Business,Paid Search
+11892,2025-06-02 11:29:45,Riyadh,Consumer,Paid Search
+11893,2024-04-07 21:16:52,Abha,Small Business,Social Media
+11894,2025-09-13 11:22:59,Makkah,Consumer,Social Media
+11895,2025-02-23 05:51:53,Madinah,Consumer,Paid Search
+11896,2025-09-30 10:33:23,Makkah,Consumer,Organic Search
+11897,2025-06-29 08:45:39,Abha,Consumer,Email
+11898,2024-09-04 16:55:26,Riyadh,Consumer,Organic Search
+11899,2025-01-25 10:53:40,Riyadh,Small Business,Social Media
+11900,2025-01-22 12:29:56,Dammam,Consumer,Social Media
+11901,2025-06-09 13:22:31,Jeddah,Consumer,Social Media
+11902,2024-06-30 08:04:48,Riyadh,Consumer,Direct
+11903,2024-08-31 03:42:30,Riyadh,Consumer,Social Media
+11904,2024-06-27 16:50:04,Jeddah,Consumer,Direct
+11905,2024-08-04 04:25:24,Riyadh,Corporate,Direct
+11906,2024-04-27 17:10:16,Riyadh,Small Business,Organic Search
+11907,2024-01-27 16:17:37,Tabuk,Consumer,Organic Search
+11908,2025-11-17 05:07:59,Jeddah,Small Business,Paid Search
+11909,2024-02-24 06:00:23,Other,Consumer,Paid Search
+11910,2025-10-10 05:33:51,Other,Consumer,Social Media
+11911,2024-01-03 05:55:26,Riyadh,Consumer,Organic Search
+11912,2025-07-21 11:19:28,Makkah,Consumer,Organic Search
+11913,2024-08-27 17:38:26,Dammam,Consumer,Paid Search
+11914,2025-01-12 21:25:47,Makkah,Small Business,Referral
+11915,2024-07-25 00:30:35,Riyadh,Consumer,Referral
+11916,2024-12-24 03:27:02,Riyadh,Corporate,Direct
+11917,2024-11-25 15:21:57,Riyadh,Small Business,Organic Search
+11918,2025-01-21 17:08:38,Dammam,Small Business,Paid Search
+11919,2024-10-14 02:18:52,Other,Consumer,Direct
+11920,2025-01-26 16:40:17,Makkah,Small Business,Referral
+11921,2025-08-25 14:01:49,Makkah,Consumer,Social Media
+11922,2024-11-13 05:32:42,Other,Consumer,Social Media
+11923,2024-09-20 19:17:38,Makkah,Consumer,Organic Search
+11924,2024-04-06 04:20:40,Riyadh,Corporate,Direct
+11925,2024-09-19 14:15:24,Abha,Consumer,Social Media
+11926,2024-04-01 17:37:50,Jeddah,Consumer,Social Media
+11927,2024-05-13 05:26:53,Riyadh,Small Business,Social Media
+11928,2025-11-26 03:24:54,Dammam,Consumer,Paid Search
+11929,2024-03-06 06:32:31,Other,Small Business,Paid Search
+11930,2024-12-17 21:10:44,Riyadh,Consumer,Referral
+11931,2025-09-01 00:56:30,Jeddah,Consumer,Social Media
+11932,2025-11-26 20:09:38,Riyadh,Consumer,Organic Search
+11933,2024-04-17 02:25:36,Riyadh,Consumer,Paid Search
+11934,2024-04-29 09:52:00,Riyadh,Consumer,Direct
+11935,2024-09-28 23:53:50,Madinah,Consumer,Paid Search
+11936,2025-02-08 17:22:40,Abha,Consumer,Paid Search
+11937,2025-12-01 15:49:45,Riyadh,Small Business,Social Media
+11938,2024-05-31 15:12:22,Riyadh,Corporate,Email
+11939,2024-04-30 00:12:07,Riyadh,Consumer,Referral
+11940,2024-07-03 19:47:39,Riyadh,Consumer,Email
+11941,2025-09-30 06:04:35,Dammam,Consumer,Organic Search
+11942,2024-01-22 22:33:22,Makkah,Small Business,Direct
+11943,2024-10-04 11:56:21,Makkah,Small Business,Direct
+11944,2024-03-27 20:03:43,Jeddah,Consumer,Social Media
+11945,2024-04-24 15:55:02,Dammam,Consumer,Social Media
+11946,2025-10-31 07:11:02,Riyadh,Corporate,Organic Search
+11947,2024-01-02 05:06:38,Riyadh,Small Business,Paid Search
+11948,2024-08-22 17:15:28,Other,Consumer,Organic Search
+11949,2025-10-30 06:14:12,Madinah,Small Business,Organic Search
+11950,2025-03-19 22:25:25,Other,Consumer,Direct
+11951,2024-02-22 09:09:04,Tabuk,Consumer,Paid Search
+11952,2024-12-05 11:02:51,Makkah,Small Business,Social Media
+11953,2025-12-09 18:58:24,Other,Consumer,Paid Search
+11954,2024-10-19 07:54:20,Jeddah,Consumer,Paid Search
+11955,2025-01-20 21:37:13,Riyadh,Corporate,Paid Search
+11956,2025-01-23 06:38:39,Riyadh,Small Business,Paid Search
+11957,2025-04-27 03:02:01,Riyadh,Consumer,Social Media
+11958,2024-05-16 16:25:34,Riyadh,Consumer,Direct
+11959,2025-09-04 23:16:19,Jeddah,Small Business,Paid Search
+11960,2025-12-22 16:20:25,Makkah,Consumer,Direct
+11961,2024-04-14 01:32:11,Madinah,Corporate,Referral
+11962,2025-08-20 08:45:13,Dammam,Small Business,Social Media
+11963,2025-08-19 08:15:22,Riyadh,Consumer,Organic Search
+11964,2025-06-25 09:05:18,Madinah,Consumer,Organic Search
+11965,2024-09-27 17:45:32,Jeddah,Small Business,Email
+11966,2024-12-08 04:39:46,Riyadh,Corporate,Social Media
+11967,2025-09-04 14:59:00,Riyadh,Consumer,Paid Search
+11968,2024-04-21 14:24:25,Jeddah,Consumer,Email
+11969,2025-08-27 23:36:46,Riyadh,Small Business,Paid Search
+11970,2025-05-12 18:20:26,Abha,Consumer,Email
+11971,2024-09-06 05:06:05,Madinah,Consumer,Paid Search
+11972,2025-02-12 04:19:33,Makkah,Small Business,Direct
+11973,2024-02-06 13:52:09,Riyadh,Small Business,Paid Search
+11974,2025-11-11 05:12:05,Abha,Small Business,Organic Search
+11975,2024-09-06 22:54:44,Makkah,Small Business,Referral
+11976,2024-02-11 16:21:47,Riyadh,Consumer,Organic Search
+11977,2025-08-02 22:53:13,Makkah,Corporate,Direct
+11978,2025-04-25 00:25:14,Jeddah,Consumer,Referral
+11979,2025-03-30 13:51:25,Jeddah,Consumer,Organic Search
+11980,2024-02-09 11:46:30,Riyadh,Small Business,Organic Search
+11981,2025-07-02 02:41:31,Dammam,Small Business,Direct
+11982,2025-04-10 05:48:05,Riyadh,Corporate,Social Media
+11983,2025-08-02 08:29:30,Riyadh,Consumer,Direct
+11984,2025-08-26 22:49:20,Riyadh,Corporate,Organic Search
+11985,2024-06-03 17:26:41,Other,Consumer,Direct
+11986,2024-06-02 18:24:28,Riyadh,Small Business,Social Media
+11987,2025-11-05 08:41:01,Jeddah,Corporate,Referral
+11988,2025-01-22 15:35:16,Jeddah,Consumer,Paid Search
+11989,2024-11-15 17:34:40,Tabuk,Small Business,Organic Search
+11990,2024-07-28 15:46:26,Dammam,Small Business,Direct
+11991,2025-04-11 11:31:08,Tabuk,Small Business,Direct
+11992,2025-07-04 09:21:14,Riyadh,Corporate,Paid Search
+11993,2024-01-02 16:26:58,Riyadh,Small Business,Direct
+11994,2025-02-07 10:13:05,Dammam,Consumer,Organic Search
+11995,2025-12-26 03:48:57,Jeddah,Consumer,Organic Search
+11996,2024-07-23 20:48:51,Abha,Corporate,Organic Search
+11997,2024-07-24 01:18:16,Tabuk,Corporate,Paid Search
+11998,2025-10-03 00:50:48,Jeddah,Corporate,Organic Search
+11999,2024-02-15 07:20:44,Other,Consumer,Paid Search
+12000,2024-10-17 04:34:14,Dammam,Consumer,Organic Search
+12001,2024-11-30 12:45:03,Riyadh,Small Business,Referral
+12002,2025-08-05 10:50:46,Jeddah,Small Business,Email
+12003,2024-04-04 04:36:23,Riyadh,Consumer,Referral
+12004,2024-11-12 20:42:40,Abha,Consumer,Organic Search
+12005,2024-04-21 04:45:50,Riyadh,Consumer,Referral
+12006,2025-07-28 23:22:21,Jeddah,Consumer,Organic Search
+12007,2025-04-06 13:35:41,Dammam,Consumer,Referral
+12008,2024-12-28 14:51:05,Riyadh,Consumer,Social Media
+12009,2024-10-13 20:05:16,Riyadh,Consumer,Paid Search
+12010,2024-04-21 19:36:50,Makkah,Corporate,Organic Search
+12011,2025-11-03 22:51:17,Riyadh,Small Business,Email
+12012,2025-04-17 19:01:41,Jeddah,Corporate,Direct
+12013,2024-08-20 23:37:18,Jeddah,Consumer,Referral
+12014,2024-10-29 04:10:37,Riyadh,Consumer,Direct
+12015,2025-06-14 02:40:33,Riyadh,Consumer,Direct
+12016,2025-06-09 06:46:25,Madinah,Consumer,Organic Search
+12017,2024-12-02 14:27:43,Other,Consumer,Referral
+12018,2024-08-09 02:48:54,Riyadh,Small Business,Paid Search
+12019,2025-04-26 18:20:48,Other,Small Business,Social Media
+12020,2025-04-25 12:14:25,Dammam,Small Business,Organic Search
+12021,2025-03-13 18:39:45,Makkah,Consumer,Direct
+12022,2024-02-23 04:22:10,Makkah,Consumer,Referral
+12023,2024-12-11 03:10:30,Makkah,Consumer,Paid Search
+12024,2025-03-24 03:51:48,Abha,Consumer,Paid Search
+12025,2025-11-24 13:04:13,Jeddah,Small Business,Paid Search
+12026,2025-01-18 15:51:56,Dammam,Consumer,Referral
+12027,2024-09-07 04:20:34,Jeddah,Small Business,Direct
+12028,2025-02-09 17:29:39,Riyadh,Consumer,Paid Search
+12029,2024-05-09 09:09:57,Makkah,Corporate,Social Media
+12030,2024-03-07 04:59:01,Riyadh,Corporate,Social Media
+12031,2025-05-10 00:12:28,Riyadh,Consumer,Paid Search
+12032,2025-12-20 21:56:07,Riyadh,Small Business,Social Media
+12033,2025-09-09 14:03:08,Riyadh,Consumer,Organic Search
+12034,2025-03-02 01:45:19,Makkah,Small Business,Organic Search
+12035,2024-01-30 09:14:43,Makkah,Small Business,Paid Search
+12036,2025-12-22 05:15:10,Jeddah,Small Business,Direct
+12037,2024-11-24 05:33:52,Riyadh,Small Business,Paid Search
+12038,2024-07-30 10:54:00,Jeddah,Consumer,Organic Search
+12039,2025-10-13 12:23:03,Jeddah,Small Business,Referral
+12040,2025-06-28 20:58:36,Madinah,Small Business,Direct
+12041,2025-07-01 05:19:05,Dammam,Consumer,Paid Search
+12042,2024-07-21 18:14:04,Jeddah,Consumer,Organic Search
+12043,2025-12-25 00:28:16,Jeddah,Small Business,Referral
+12044,2024-11-26 14:14:24,Other,Small Business,Paid Search
+12045,2025-01-22 22:22:11,Madinah,Consumer,Referral
+12046,2025-07-02 04:46:29,Jeddah,Corporate,Paid Search
+12047,2025-04-26 19:07:29,Jeddah,Small Business,Organic Search
+12048,2024-05-05 18:28:07,Riyadh,Consumer,Paid Search
+12049,2024-08-08 19:27:16,Other,Consumer,Referral
+12050,2024-09-20 15:58:18,Jeddah,Consumer,Paid Search
+12051,2025-11-22 16:49:25,Riyadh,Small Business,Organic Search
+12052,2025-06-05 14:08:39,Other,Consumer,Paid Search
+12053,2024-09-24 10:11:51,Makkah,Consumer,Referral
+12054,2025-06-20 08:20:11,Riyadh,Small Business,Organic Search
+12055,2025-06-23 02:42:27,Riyadh,Small Business,Referral
+12056,2024-10-14 18:45:45,Riyadh,Small Business,Referral
+12057,2024-10-21 07:00:58,Dammam,Consumer,Paid Search
+12058,2025-10-14 20:01:30,Riyadh,Small Business,Direct
+12059,2025-02-14 03:04:03,Other,Consumer,Direct
+12060,2024-04-19 03:30:50,Other,Consumer,Paid Search
+12061,2025-06-09 10:35:24,Dammam,Small Business,Organic Search
+12062,2025-03-06 09:13:56,Dammam,Small Business,Paid Search
+12063,2025-01-06 12:31:34,Riyadh,Consumer,Organic Search
+12064,2025-06-13 07:49:33,Riyadh,Small Business,Social Media
+12065,2025-10-24 04:09:08,Madinah,Consumer,Direct
+12066,2024-08-29 05:14:29,Riyadh,Consumer,Direct
+12067,2024-11-02 02:09:11,Riyadh,Consumer,Paid Search
+12068,2024-05-18 07:57:17,Jeddah,Consumer,Paid Search
+12069,2025-04-17 08:41:52,Riyadh,Small Business,Organic Search
+12070,2024-10-20 23:32:47,Jeddah,Small Business,Social Media
+12071,2024-09-06 22:11:23,Makkah,Small Business,Organic Search
+12072,2025-05-23 11:05:16,Abha,Consumer,Direct
+12073,2024-10-24 22:54:17,Dammam,Consumer,Email
+12074,2024-12-04 23:43:31,Abha,Consumer,Organic Search
+12075,2024-11-17 05:40:40,Jeddah,Small Business,Referral
+12076,2024-07-07 17:35:24,Abha,Consumer,Social Media
+12077,2024-04-01 20:08:20,Dammam,Consumer,Email
+12078,2025-08-26 21:08:09,Riyadh,Small Business,Social Media
+12079,2024-03-07 22:59:55,Other,Small Business,Organic Search
+12080,2024-08-25 03:52:39,Riyadh,Consumer,Social Media
+12081,2025-05-02 06:25:24,Riyadh,Consumer,Organic Search
+12082,2024-04-05 20:17:14,Riyadh,Small Business,Social Media
+12083,2025-04-23 12:40:14,Jeddah,Consumer,Organic Search
+12084,2025-06-19 03:18:59,Jeddah,Consumer,Referral
+12085,2025-04-28 22:10:41,Dammam,Small Business,Email
+12086,2024-08-10 16:10:20,Tabuk,Consumer,Organic Search
+12087,2024-01-15 10:18:29,Riyadh,Consumer,Paid Search
+12088,2025-10-09 18:24:38,Dammam,Consumer,Referral
+12089,2024-08-26 09:06:02,Jeddah,Consumer,Organic Search
+12090,2025-08-10 15:42:31,Abha,Consumer,Social Media
+12091,2024-05-24 09:37:42,Riyadh,Consumer,Referral
+12092,2024-04-28 13:25:54,Riyadh,Consumer,Paid Search
+12093,2025-07-22 01:12:46,Dammam,Consumer,Email
+12094,2025-11-17 00:06:12,Makkah,Small Business,Social Media
+12095,2025-09-20 06:14:40,Madinah,Corporate,Social Media
+12096,2025-07-02 09:49:58,Dammam,Consumer,Organic Search
+12097,2024-06-29 01:50:24,Madinah,Consumer,Organic Search
+12098,2025-10-28 15:26:53,Jeddah,Small Business,Organic Search
+12099,2025-05-02 12:43:02,Riyadh,Corporate,Direct
+12100,2024-05-05 16:19:17,Riyadh,Small Business,Direct
+12101,2024-04-04 10:26:10,Riyadh,Consumer,Email
+12102,2025-09-27 22:45:15,Jeddah,Consumer,Organic Search
+12103,2024-07-19 20:40:20,Jeddah,Consumer,Social Media
+12104,2025-07-13 02:26:04,Jeddah,Small Business,Email
+12105,2024-04-11 05:13:36,Dammam,Consumer,Referral
+12106,2024-07-23 19:02:33,Jeddah,Consumer,Organic Search
+12107,2024-07-25 23:17:01,Makkah,Consumer,Direct
+12108,2024-07-24 04:56:45,Makkah,Consumer,Organic Search
+12109,2025-05-07 13:23:03,Jeddah,Consumer,Organic Search
+12110,2025-10-29 12:05:37,Jeddah,Consumer,Direct
+12111,2025-10-26 12:55:38,Dammam,Small Business,Social Media
+12112,2025-06-25 07:57:42,Dammam,Small Business,Paid Search
+12113,2024-05-27 20:11:33,Jeddah,Small Business,Social Media
+12114,2025-12-02 05:21:43,Jeddah,Consumer,Direct
+12115,2025-01-30 17:13:28,Makkah,Small Business,Organic Search
+12116,2025-02-02 13:20:29,Makkah,Small Business,Referral
+12117,2025-05-27 00:22:19,Riyadh,Consumer,Paid Search
+12118,2025-07-15 10:33:10,Jeddah,Consumer,Organic Search
+12119,2025-11-26 15:12:05,Tabuk,Small Business,Paid Search
+12120,2025-03-01 03:17:24,Riyadh,Consumer,Social Media
+12121,2025-03-21 08:15:34,Abha,Consumer,Organic Search
+12122,2025-06-28 05:38:53,Riyadh,Consumer,Paid Search
+12123,2024-07-05 05:28:24,Dammam,Consumer,Social Media
+12124,2024-08-12 15:07:46,Jeddah,Consumer,Social Media
+12125,2025-04-01 14:22:38,Riyadh,Consumer,Referral
+12126,2024-02-16 19:31:41,Tabuk,Consumer,Email
+12127,2024-08-21 23:00:18,Jeddah,Small Business,Paid Search
+12128,2025-06-08 03:17:10,Other,Consumer,Paid Search
+12129,2025-12-13 13:46:09,Riyadh,Consumer,Social Media
+12130,2025-01-14 05:34:32,Abha,Consumer,Social Media
+12131,2024-10-18 18:19:33,Other,Small Business,Organic Search
+12132,2024-11-17 11:23:44,Dammam,Corporate,Paid Search
+12133,2025-05-15 08:41:37,Riyadh,Consumer,Organic Search
+12134,2025-02-01 11:12:08,Makkah,Consumer,Paid Search
+12135,2024-01-17 22:56:50,Dammam,Consumer,Direct
+12136,2025-01-28 15:29:05,Other,Consumer,Social Media
+12137,2024-10-19 01:04:35,Jeddah,Small Business,Paid Search
+12138,2025-05-26 14:02:45,Riyadh,Consumer,Social Media
+12139,2025-09-30 19:53:07,Riyadh,Corporate,Referral
+12140,2025-12-03 14:05:51,Makkah,Consumer,Paid Search
+12141,2025-03-21 11:11:05,Other,Consumer,Paid Search
+12142,2024-09-21 16:05:18,Riyadh,Small Business,Referral
+12143,2024-11-20 01:52:45,Madinah,Consumer,Organic Search
+12144,2024-05-08 19:36:26,Other,Small Business,Social Media
+12145,2025-11-14 05:37:29,Riyadh,Consumer,Social Media
+12146,2025-09-10 12:53:58,Riyadh,Small Business,Referral
+12147,2025-09-15 09:48:22,Makkah,Consumer,Direct
+12148,2024-08-27 12:43:20,Makkah,Consumer,Email
+12149,2024-08-23 05:13:06,Riyadh,Small Business,Social Media
+12150,2025-09-17 07:51:56,Abha,Consumer,Organic Search
+12151,2025-02-01 12:29:16,Dammam,Consumer,Social Media
+12152,2025-05-29 09:34:31,Tabuk,Small Business,Email
+12153,2024-12-23 13:43:15,Tabuk,Consumer,Direct
+12154,2024-11-19 05:19:59,Abha,Small Business,Email
+12155,2025-04-06 12:11:16,Dammam,Small Business,Organic Search
+12156,2025-08-16 11:25:43,Riyadh,Small Business,Referral
+12157,2024-08-31 21:37:45,Dammam,Consumer,Direct
+12158,2025-08-13 16:13:23,Riyadh,Consumer,Referral
+12159,2024-06-27 06:28:17,Makkah,Corporate,Referral
+12160,2024-10-21 01:32:22,Riyadh,Consumer,Social Media
+12161,2025-10-28 06:00:37,Dammam,Consumer,Social Media
+12162,2025-11-27 18:01:08,Riyadh,Consumer,Paid Search
+12163,2025-11-05 10:16:52,Riyadh,Consumer,Organic Search
+12164,2024-08-18 17:05:30,Riyadh,Consumer,Email
+12165,2025-09-07 15:01:01,Makkah,Small Business,Direct
+12166,2025-11-14 08:14:55,Madinah,Small Business,Email
+12167,2025-12-15 02:08:29,Riyadh,Small Business,Paid Search
+12168,2024-01-16 06:13:41,Abha,Consumer,Organic Search
+12169,2025-06-27 20:15:05,Abha,Consumer,Paid Search
+12170,2025-12-28 14:59:03,Jeddah,Consumer,Email
+12171,2025-07-12 04:58:11,Makkah,Small Business,Referral
+12172,2024-06-19 05:12:59,Jeddah,Consumer,Direct
+12173,2025-07-10 16:34:42,Riyadh,Consumer,Paid Search
+12174,2024-03-17 19:52:43,Dammam,Consumer,Social Media
+12175,2024-12-16 20:14:44,Riyadh,Small Business,Email
+12176,2025-04-02 03:30:27,Tabuk,Small Business,Organic Search
+12177,2024-11-29 05:02:32,Other,Small Business,Direct
+12178,2025-05-25 21:05:01,Abha,Consumer,Social Media
+12179,2024-06-24 08:45:51,Dammam,Corporate,Organic Search
+12180,2025-03-18 12:59:06,Dammam,Consumer,Organic Search
+12181,2025-04-15 17:13:56,Other,Consumer,Direct
+12182,2025-04-07 16:06:28,Riyadh,Consumer,Social Media
+12183,2024-07-30 04:53:19,Riyadh,Consumer,Referral
+12184,2024-08-10 22:17:14,Dammam,Consumer,Email
+12185,2024-07-07 04:48:12,Jeddah,Consumer,Paid Search
+12186,2024-12-03 02:20:04,Jeddah,Consumer,Email
+12187,2025-03-03 18:02:35,Riyadh,Small Business,Direct
+12188,2024-09-21 15:37:51,Dammam,Small Business,Organic Search
+12189,2024-10-26 06:53:29,Riyadh,Small Business,Referral
+12190,2024-07-28 01:55:42,Riyadh,Consumer,Paid Search
+12191,2024-06-08 18:22:04,Riyadh,Consumer,Paid Search
+12192,2025-04-24 22:19:03,Jeddah,Small Business,Paid Search
+12193,2025-08-18 17:18:05,Tabuk,Consumer,Email
+12194,2024-07-31 05:08:27,Jeddah,Consumer,Organic Search
+12195,2025-09-20 05:11:05,Makkah,Consumer,Paid Search
+12196,2025-02-20 19:32:13,Madinah,Small Business,Referral
+12197,2024-05-02 10:05:44,Jeddah,Consumer,Organic Search
+12198,2024-09-24 04:18:12,Abha,Small Business,Email
+12199,2024-01-06 11:31:23,Makkah,Consumer,Direct
+12200,2024-01-29 14:15:00,Dammam,Consumer,Organic Search
+12201,2024-09-02 08:59:49,Riyadh,Consumer,Organic Search
+12202,2024-11-27 18:10:54,Riyadh,Consumer,Direct
+12203,2025-08-05 04:23:23,Other,Consumer,Organic Search
+12204,2024-04-08 00:58:42,Madinah,Small Business,Organic Search
+12205,2025-09-04 14:19:34,Other,Consumer,Direct
+12206,2024-06-20 04:50:19,Tabuk,Consumer,Direct
+12207,2024-04-10 23:31:31,Riyadh,Small Business,Referral
+12208,2025-05-25 22:07:13,Madinah,Consumer,Social Media
+12209,2025-07-19 06:21:53,Jeddah,Consumer,Direct
+12210,2025-03-17 14:03:44,Madinah,Consumer,Referral
+12211,2024-03-25 11:08:13,Riyadh,Consumer,Referral
+12212,2024-03-25 04:50:23,Riyadh,Consumer,Email
+12213,2024-10-11 17:53:47,Madinah,Small Business,Referral
+12214,2024-11-24 22:30:50,Madinah,Consumer,Social Media
+12215,2025-12-29 23:38:19,Dammam,Small Business,Paid Search
+12216,2024-07-28 03:02:33,Jeddah,Consumer,Social Media
+12217,2024-05-20 14:11:28,Jeddah,Small Business,Social Media
+12218,2025-11-21 12:11:25,Other,Small Business,Paid Search
+12219,2024-04-22 09:26:31,Jeddah,Consumer,Paid Search
+12220,2024-01-20 06:34:20,Jeddah,Consumer,Email
+12221,2024-11-04 15:27:42,Dammam,Consumer,Paid Search
+12222,2024-10-19 18:57:07,Jeddah,Corporate,Organic Search
+12223,2025-03-28 08:35:33,Dammam,Corporate,Paid Search
+12224,2025-10-02 17:54:45,Jeddah,Consumer,Organic Search
+12225,2025-11-12 00:25:18,Abha,Small Business,Email
+12226,2024-07-30 10:28:25,Tabuk,Consumer,Paid Search
+12227,2025-12-16 23:59:11,Other,Consumer,Paid Search
+12228,2025-04-06 20:13:21,Dammam,Small Business,Email
+12229,2024-02-20 20:06:14,Jeddah,Consumer,Organic Search
+12230,2025-11-16 01:34:56,Makkah,Consumer,Organic Search
+12231,2024-04-10 17:42:59,Abha,Small Business,Email
+12232,2025-03-05 16:11:44,Dammam,Consumer,Social Media
+12233,2025-07-31 05:43:45,Makkah,Small Business,Email
+12234,2024-07-01 02:09:24,Madinah,Consumer,Email
+12235,2024-07-16 13:28:31,Makkah,Consumer,Direct
+12236,2024-12-13 14:37:23,Madinah,Consumer,Organic Search
+12237,2025-10-07 22:33:19,Riyadh,Corporate,Email
+12238,2024-06-12 05:31:49,Jeddah,Consumer,Referral
+12239,2025-04-29 07:42:03,Dammam,Consumer,Organic Search
+12240,2024-11-26 09:24:19,Riyadh,Small Business,Direct
+12241,2024-03-22 15:31:15,Abha,Corporate,Paid Search
+12242,2025-06-02 22:33:42,Dammam,Corporate,Direct
+12243,2025-08-30 17:54:47,Riyadh,Consumer,Social Media
+12244,2025-02-24 05:06:29,Abha,Consumer,Social Media
+12245,2024-05-08 17:45:49,Makkah,Consumer,Organic Search
+12246,2024-04-23 16:18:49,Madinah,Small Business,Direct
+12247,2024-11-05 03:38:21,Jeddah,Small Business,Social Media
+12248,2025-01-04 16:27:25,Abha,Small Business,Organic Search
+12249,2025-02-07 02:16:47,Jeddah,Consumer,Organic Search
+12250,2024-06-26 20:51:07,Dammam,Consumer,Email
+12251,2024-12-31 13:25:22,Riyadh,Consumer,Organic Search
+12252,2024-08-03 09:47:04,Makkah,Consumer,Social Media
+12253,2025-05-15 21:34:27,Makkah,Consumer,Referral
+12254,2025-08-04 10:13:34,Dammam,Consumer,Paid Search
+12255,2025-04-21 11:04:17,Jeddah,Small Business,Social Media
+12256,2024-01-01 21:51:12,Abha,Small Business,Organic Search
+12257,2025-12-25 04:34:33,Makkah,Small Business,Direct
+12258,2024-01-18 08:24:30,Riyadh,Small Business,Email
+12259,2025-12-30 13:52:18,Other,Small Business,Paid Search
+12260,2024-01-24 04:41:18,Makkah,Small Business,Social Media
+12261,2025-01-12 00:22:07,Other,Consumer,Social Media
+12262,2024-03-18 08:36:36,Other,Small Business,Direct
+12263,2024-03-10 11:53:16,Tabuk,Consumer,Paid Search
+12264,2025-05-13 21:05:44,Madinah,Consumer,Social Media
+12265,2025-06-15 07:48:52,Dammam,Consumer,Direct
+12266,2024-03-27 07:30:23,Riyadh,Small Business,Organic Search
+12267,2025-12-13 23:09:16,Dammam,Small Business,Social Media
+12268,2024-08-21 22:29:04,Madinah,Corporate,Organic Search
+12269,2024-08-20 09:04:41,Dammam,Corporate,Social Media
+12270,2024-08-04 19:02:33,Abha,Corporate,Paid Search
+12271,2024-12-02 16:22:46,Riyadh,Consumer,Direct
+12272,2024-05-09 19:39:17,Jeddah,Small Business,Paid Search
+12273,2024-11-06 02:05:30,Dammam,Small Business,Organic Search
+12274,2024-06-02 06:52:23,Jeddah,Small Business,Email
+12275,2024-02-07 12:51:48,Riyadh,Consumer,Email
+12276,2024-09-26 04:16:05,Riyadh,Consumer,Referral
+12277,2025-05-05 18:04:22,Abha,Corporate,Referral
+12278,2025-07-11 01:20:03,Jeddah,Consumer,Paid Search
+12279,2024-09-14 22:28:35,Riyadh,Consumer,Social Media
+12280,2024-08-24 08:02:03,Riyadh,Consumer,Organic Search
+12281,2025-07-28 20:22:01,Jeddah,Consumer,Organic Search
+12282,2025-05-12 06:25:10,Riyadh,Consumer,Direct
+12283,2025-08-30 10:44:37,Makkah,Corporate,Referral
+12284,2025-10-23 10:53:49,Madinah,Small Business,Organic Search
+12285,2025-08-22 11:57:48,Riyadh,Corporate,Organic Search
+12286,2025-11-14 15:13:42,Dammam,Consumer,Direct
+12287,2024-10-31 03:59:17,Riyadh,Consumer,Organic Search
+12288,2024-10-15 02:39:01,Jeddah,Consumer,Paid Search
+12289,2024-08-22 17:28:49,Tabuk,Consumer,Organic Search
+12290,2024-06-20 17:06:00,Dammam,Consumer,Organic Search
+12291,2025-06-30 15:20:24,Tabuk,Small Business,Paid Search
+12292,2025-06-05 13:11:09,Riyadh,Corporate,Direct
+12293,2025-08-08 00:20:34,Jeddah,Consumer,Paid Search
+12294,2024-05-02 04:41:19,Jeddah,Consumer,Social Media
+12295,2024-12-24 14:49:49,Jeddah,Consumer,Referral
+12296,2024-06-11 00:43:16,Other,Consumer,Social Media
+12297,2025-10-13 21:54:12,Riyadh,Consumer,Referral
+12298,2024-07-14 05:02:41,Abha,Consumer,Referral
+12299,2024-04-15 01:16:49,Abha,Consumer,Social Media
+12300,2025-02-20 00:01:15,Dammam,Consumer,Social Media
+12301,2025-10-03 17:17:06,Jeddah,Small Business,Email
+12302,2025-10-30 11:36:31,Dammam,Consumer,Referral
+12303,2024-03-11 03:35:18,Riyadh,Consumer,Email
+12304,2024-08-25 21:39:14,Madinah,Consumer,Organic Search
+12305,2024-04-22 01:46:01,Jeddah,Consumer,Referral
+12306,2024-08-12 17:48:29,Other,Consumer,Referral
+12307,2025-01-24 16:52:37,Makkah,Small Business,Paid Search
+12308,2024-07-23 19:37:04,Dammam,Small Business,Direct
+12309,2024-02-19 06:55:25,Makkah,Small Business,Paid Search
+12310,2025-01-07 07:43:19,Dammam,Consumer,Organic Search
+12311,2024-02-08 13:10:49,Tabuk,Consumer,Email
+12312,2024-06-14 11:42:51,Riyadh,Consumer,Organic Search
+12313,2024-01-01 09:05:18,Other,Consumer,Paid Search
+12314,2024-03-04 09:06:54,Abha,Small Business,Paid Search
+12315,2024-11-14 12:16:04,Abha,Consumer,Direct
+12316,2025-09-13 00:30:06,Jeddah,Consumer,Paid Search
+12317,2025-07-19 11:24:37,Abha,Consumer,Referral
+12318,2024-03-13 03:30:46,Jeddah,Consumer,Email
+12319,2024-01-26 10:22:04,Madinah,Corporate,Social Media
+12320,2024-09-03 19:17:20,Riyadh,Consumer,Direct
+12321,2025-04-21 03:33:11,Jeddah,Consumer,Email
+12322,2025-06-29 02:45:14,Jeddah,Consumer,Paid Search
+12323,2025-08-23 21:11:26,Jeddah,Small Business,Direct
+12324,2024-09-06 19:25:37,Jeddah,Consumer,Social Media
+12325,2024-05-02 15:22:29,Abha,Small Business,Organic Search
+12326,2024-01-20 05:36:58,Riyadh,Consumer,Paid Search
+12327,2024-04-17 05:03:09,Madinah,Consumer,Social Media
+12328,2024-02-17 13:37:58,Riyadh,Small Business,Organic Search
+12329,2025-09-20 09:13:59,Madinah,Consumer,Social Media
+12330,2024-07-14 22:36:02,Madinah,Consumer,Paid Search
+12331,2025-08-23 21:08:35,Jeddah,Consumer,Social Media
+12332,2025-02-07 19:20:41,Madinah,Consumer,Organic Search
+12333,2025-01-28 10:15:35,Tabuk,Consumer,Email
+12334,2024-11-27 23:58:42,Abha,Small Business,Paid Search
+12335,2025-08-21 00:22:54,Jeddah,Consumer,Organic Search
+12336,2024-02-01 17:13:40,Jeddah,Consumer,Paid Search
+12337,2024-03-08 17:05:11,Madinah,Consumer,Social Media
+12338,2024-11-05 01:45:25,Riyadh,Small Business,Social Media
+12339,2024-10-14 23:18:58,Abha,Consumer,Social Media
+12340,2025-02-02 06:51:25,Jeddah,Consumer,Organic Search
+12341,2025-06-22 14:12:47,Abha,Consumer,Direct
+12342,2025-03-04 21:47:28,Riyadh,Consumer,Paid Search
+12343,2024-07-06 22:33:29,Riyadh,Corporate,Organic Search
+12344,2024-08-26 22:08:51,Other,Consumer,Email
+12345,2025-07-03 04:48:09,Abha,Consumer,Referral
+12346,2024-05-27 01:42:53,Tabuk,Consumer,Social Media
+12347,2025-01-03 01:12:32,Other,Small Business,Paid Search
+12348,2025-01-28 07:37:34,Jeddah,Consumer,Paid Search
+12349,2025-07-01 16:39:36,Riyadh,Consumer,Social Media
+12350,2025-06-05 11:29:23,Riyadh,Consumer,Organic Search
+12351,2024-12-05 05:11:14,Dammam,Small Business,Paid Search
+12352,2024-08-13 16:33:44,Riyadh,Small Business,Direct
+12353,2024-09-25 13:41:02,Other,Consumer,Referral
+12354,2024-10-27 11:03:37,Riyadh,Corporate,Paid Search
+12355,2024-06-09 00:11:42,Riyadh,Corporate,Organic Search
+12356,2025-04-01 13:08:15,Riyadh,Consumer,Referral
+12357,2024-06-01 02:48:21,Riyadh,Consumer,Paid Search
+12358,2025-04-18 12:49:23,Riyadh,Consumer,Organic Search
+12359,2025-07-02 14:07:08,Makkah,Consumer,Organic Search
+12360,2025-12-03 03:24:37,Jeddah,Consumer,Referral
+12361,2024-03-27 19:18:33,Dammam,Consumer,Social Media
+12362,2025-07-08 14:29:32,Tabuk,Corporate,Organic Search
+12363,2024-03-03 18:24:38,Dammam,Consumer,Organic Search
+12364,2024-09-03 04:34:38,Makkah,Small Business,Social Media
+12365,2024-05-08 16:37:28,Jeddah,Consumer,Social Media
+12366,2024-04-28 11:13:08,Riyadh,Consumer,Referral
+12367,2024-05-08 00:04:15,Jeddah,Small Business,Organic Search
+12368,2024-02-02 01:47:49,Other,Consumer,Referral
+12369,2025-08-23 20:50:43,Makkah,Consumer,Direct
+12370,2024-02-14 14:58:17,Riyadh,Consumer,Social Media
+12371,2024-10-17 21:50:09,Jeddah,Small Business,Organic Search
+12372,2025-05-25 09:19:44,Abha,Consumer,Referral
+12373,2025-12-23 23:36:20,Makkah,Consumer,Paid Search
+12374,2025-09-15 04:55:10,Dammam,Consumer,Organic Search
+12375,2024-04-10 03:56:28,Tabuk,Consumer,Paid Search
+12376,2025-12-22 01:10:56,Makkah,Consumer,Direct
+12377,2025-04-22 02:01:03,Makkah,Consumer,Paid Search
+12378,2024-05-11 02:02:04,Riyadh,Consumer,Email
+12379,2024-11-23 13:44:27,Riyadh,Consumer,Social Media
+12380,2025-11-01 01:17:46,Other,Small Business,Social Media
+12381,2024-10-13 19:55:35,Dammam,Small Business,Organic Search
+12382,2024-05-14 01:20:02,Jeddah,Consumer,Social Media
+12383,2025-09-30 19:28:30,Dammam,Consumer,Organic Search
+12384,2025-11-26 16:08:01,Riyadh,Consumer,Social Media
+12385,2025-12-13 04:26:08,Abha,Corporate,Paid Search
+12386,2025-11-28 16:02:31,Riyadh,Consumer,Paid Search
+12387,2025-09-29 04:29:20,Abha,Consumer,Social Media
+12388,2024-11-27 18:39:19,Dammam,Consumer,Organic Search
+12389,2024-05-20 09:06:28,Riyadh,Consumer,Paid Search
+12390,2025-03-26 12:35:00,Riyadh,Consumer,Direct
+12391,2024-06-10 04:22:46,Abha,Consumer,Organic Search
+12392,2024-12-11 09:41:01,Riyadh,Small Business,Paid Search
+12393,2025-04-23 22:24:51,Riyadh,Consumer,Paid Search
+12394,2025-11-22 00:04:46,Madinah,Small Business,Paid Search
+12395,2024-07-30 00:44:39,Jeddah,Small Business,Referral
+12396,2024-07-02 21:31:52,Jeddah,Consumer,Organic Search
+12397,2025-06-20 08:23:03,Riyadh,Corporate,Paid Search
+12398,2024-01-05 17:10:40,Abha,Small Business,Social Media
+12399,2025-02-17 11:41:23,Riyadh,Small Business,Paid Search
+12400,2025-06-28 12:27:01,Riyadh,Small Business,Direct
+12401,2025-02-06 03:55:17,Jeddah,Consumer,Direct
+12402,2024-10-07 06:53:29,Riyadh,Consumer,Organic Search
+12403,2025-08-27 20:08:31,Jeddah,Consumer,Paid Search
+12404,2024-09-27 20:31:31,Riyadh,Consumer,Organic Search
+12405,2025-06-02 16:32:02,Riyadh,Consumer,Organic Search
+12406,2024-12-04 19:45:45,Jeddah,Consumer,Social Media
+12407,2024-01-20 09:38:32,Tabuk,Consumer,Social Media
+12408,2025-01-22 06:39:01,Riyadh,Corporate,Paid Search
+12409,2024-02-06 02:31:26,Riyadh,Small Business,Paid Search
+12410,2025-11-10 14:23:25,Tabuk,Consumer,Paid Search
+12411,2025-03-15 03:18:14,Tabuk,Consumer,Direct
+12412,2024-09-28 14:00:19,Makkah,Consumer,Direct
+12413,2024-12-20 22:05:06,Riyadh,Corporate,Organic Search
+12414,2025-03-28 00:01:49,Jeddah,Small Business,Referral
+12415,2024-07-08 22:26:06,Riyadh,Consumer,Paid Search
+12416,2024-07-29 12:39:37,Riyadh,Consumer,Referral
+12417,2024-11-01 14:51:16,Jeddah,Consumer,Social Media
+12418,2024-07-07 18:11:04,Dammam,Small Business,Direct
+12419,2025-07-07 06:35:19,Jeddah,Corporate,Organic Search
+12420,2024-03-16 18:50:46,Dammam,Consumer,Paid Search
+12421,2025-08-26 10:13:59,Riyadh,Consumer,Direct
+12422,2024-09-11 10:12:07,Jeddah,Consumer,Organic Search
+12423,2025-02-13 16:37:41,Madinah,Consumer,Organic Search
+12424,2024-04-25 03:52:44,Tabuk,Corporate,Referral
+12425,2024-10-08 07:40:23,Jeddah,Small Business,Email
+12426,2025-07-04 20:32:21,Dammam,Consumer,Referral
+12427,2024-07-16 14:36:26,Riyadh,Consumer,Email
+12428,2024-04-06 13:28:23,Riyadh,Consumer,Referral
+12429,2025-01-16 00:00:41,Madinah,Consumer,Organic Search
+12430,2024-04-28 14:50:29,Riyadh,Consumer,Social Media
+12431,2024-08-17 18:24:47,Jeddah,Small Business,Email
+12432,2024-11-24 20:04:25,Jeddah,Small Business,Email
+12433,2025-02-15 18:56:48,Riyadh,Consumer,Organic Search
+12434,2025-04-11 17:52:42,Riyadh,Small Business,Organic Search
+12435,2025-05-08 22:56:59,Jeddah,Small Business,Email
+12436,2025-09-08 07:54:33,Other,Consumer,Paid Search
+12437,2024-02-18 05:42:27,Dammam,Small Business,Organic Search
+12438,2024-09-21 11:54:41,Jeddah,Consumer,Email
+12439,2024-01-01 18:42:07,Riyadh,Small Business,Social Media
+12440,2024-01-07 21:26:08,Dammam,Consumer,Paid Search
+12441,2024-06-03 23:05:43,Riyadh,Consumer,Organic Search
+12442,2025-03-12 15:28:08,Dammam,Consumer,Organic Search
+12443,2025-10-14 23:50:29,Madinah,Consumer,Email
+12444,2025-07-18 16:26:34,Jeddah,Consumer,Social Media
+12445,2025-04-16 19:00:51,Riyadh,Small Business,Organic Search
+12446,2025-07-22 01:25:48,Riyadh,Consumer,Paid Search
+12447,2024-05-05 12:44:43,Riyadh,Consumer,Organic Search
+12448,2025-09-05 01:54:48,Jeddah,Corporate,Organic Search
+12449,2025-10-11 21:25:28,Tabuk,Consumer,Paid Search
+12450,2024-03-10 09:21:13,Riyadh,Consumer,Social Media
+12451,2024-12-09 01:37:41,Dammam,Consumer,Organic Search
+12452,2025-08-28 22:15:09,Makkah,Consumer,Paid Search
+12453,2024-12-13 13:07:39,Riyadh,Consumer,Social Media
+12454,2025-09-05 13:04:50,Riyadh,Small Business,Paid Search
+12455,2025-11-13 22:41:41,Jeddah,Consumer,Organic Search
+12456,2024-12-12 12:07:10,Makkah,Consumer,Organic Search
+12457,2024-02-13 10:12:24,Jeddah,Consumer,Organic Search
+12458,2024-09-05 05:43:21,Madinah,Small Business,Paid Search
+12459,2024-06-06 01:55:24,Abha,Consumer,Referral
+12460,2024-12-12 02:29:45,Madinah,Small Business,Organic Search
+12461,2025-03-03 14:42:49,Other,Consumer,Email
+12462,2024-12-04 15:30:00,Madinah,Consumer,Referral
+12463,2024-05-22 16:55:25,Abha,Consumer,Organic Search
+12464,2024-08-07 20:24:37,Abha,Consumer,Organic Search
+12465,2025-05-11 01:18:47,Madinah,Consumer,Organic Search
+12466,2024-01-20 16:44:36,Abha,Small Business,Organic Search
+12467,2024-06-05 06:53:48,Other,Consumer,Social Media
+12468,2025-10-13 09:49:20,Jeddah,Consumer,Organic Search
+12469,2024-03-13 09:13:48,Makkah,Consumer,Email
+12470,2024-10-29 18:20:54,Dammam,Consumer,Social Media
+12471,2024-05-31 02:22:47,Abha,Consumer,Referral
+12472,2024-03-17 09:28:56,Jeddah,Consumer,Referral
+12473,2024-11-04 14:18:01,Abha,Consumer,Social Media
+12474,2025-01-15 15:39:54,Madinah,Consumer,Direct
+12475,2024-05-08 13:56:34,Other,Consumer,Direct
+12476,2024-02-26 18:57:05,Riyadh,Consumer,Paid Search
+12477,2024-04-08 07:48:15,Makkah,Consumer,Organic Search
+12478,2025-04-20 15:03:20,Madinah,Consumer,Paid Search
+12479,2025-09-20 00:08:19,Other,Corporate,Organic Search
+12480,2024-05-11 14:42:02,Tabuk,Consumer,Social Media
+12481,2024-08-21 21:21:32,Dammam,Small Business,Paid Search
+12482,2024-09-07 23:38:52,Dammam,Consumer,Social Media
+12483,2024-09-20 08:29:31,Riyadh,Consumer,Referral
+12484,2024-06-27 08:08:39,Other,Consumer,Paid Search
+12485,2024-02-10 08:20:15,Riyadh,Consumer,Social Media
+12486,2025-01-18 08:43:41,Madinah,Small Business,Paid Search
+12487,2024-09-17 21:06:56,Madinah,Small Business,Email
+12488,2024-09-06 20:21:23,Jeddah,Consumer,Social Media
+12489,2024-07-12 07:25:18,Riyadh,Small Business,Organic Search
+12490,2025-11-09 10:01:43,Riyadh,Consumer,Referral
+12491,2025-03-21 15:41:54,Abha,Consumer,Organic Search
+12492,2024-11-01 15:28:50,Dammam,Small Business,Referral
+12493,2024-05-29 22:26:16,Riyadh,Consumer,Social Media
+12494,2025-08-07 19:41:07,Makkah,Consumer,Paid Search
+12495,2025-10-10 12:09:45,Riyadh,Corporate,Referral
+12496,2024-01-24 14:13:31,Tabuk,Corporate,Email
+12497,2025-11-09 15:45:33,Jeddah,Consumer,Email
+12498,2025-05-25 13:50:24,Riyadh,Consumer,Social Media
+12499,2024-03-13 21:02:24,Riyadh,Small Business,Referral
+12500,2025-07-03 19:18:22,Dammam,Consumer,Paid Search

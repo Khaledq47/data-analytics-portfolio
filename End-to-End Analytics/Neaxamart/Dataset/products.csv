@@ -1,0 +1,161 @@
+product_id,category,subcategory,brand,unit_cost,list_price
+2001,Electronics,Headphones,Nova,1645.41,2423.39
+2002,Electronics,Headphones,Vertex,245.35,456.78
+2003,Electronics,Headphones,Aster,312.17,543.65
+2004,Electronics,Headphones,Nova,389.32,624.98
+2005,Electronics,Headphones,Nova,548.23,856.98
+2006,Electronics,Headphones,Nova,723.6,1245.11
+2007,Electronics,Headphones,Pulse,1855.01,3013.26
+2008,Electronics,Headphones,Aster,141.86,281.09
+2009,Electronics,Headphones,UrbanX,1382.02,2092.09
+2010,Electronics,Headphones,Orbit,1088.91,2081.62
+2011,Electronics,Smartphones,Mira,1685.91,2450.71
+2012,Electronics,Smartphones,Mira,472.67,758.66
+2013,Electronics,Smartphones,Vertex,1585.97,2934.1
+2014,Electronics,Smartphones,Vertex,1196.83,2235.12
+2015,Electronics,Smartphones,Orbit,1135.43,2031.83
+2016,Electronics,Smartphones,Vertex,1740.45,2513.33
+2017,Electronics,Smartphones,Pulse,685.44,1040.68
+2018,Electronics,Smartphones,Mira,1076.93,1730.76
+2019,Electronics,Smartphones,Mira,950.17,1853.79
+2020,Electronics,Smartphones,UrbanX,666.99,1276.2
+2021,Electronics,Laptops,Aster,227.36,428.18
+2022,Electronics,Laptops,Pulse,1469.91,2401.97
+2023,Electronics,Laptops,Nova,1691.13,2421.87
+2024,Electronics,Laptops,Mira,1828.77,2699.2
+2025,Electronics,Laptops,UrbanX,1288.35,1811.97
+2026,Electronics,Laptops,Orbit,1613.14,2905.64
+2027,Electronics,Laptops,Pulse,1621.37,2433.79
+2028,Electronics,Laptops,Nova,1571.86,2747.03
+2029,Electronics,Laptops,Mira,1296.97,1973.86
+2030,Electronics,Laptops,Nova,1861.55,2697.11
+2031,Electronics,Accessories,Luma,1531.97,2929.92
+2032,Electronics,Accessories,Luma,1441.71,2910.15
+2033,Electronics,Accessories,Orbit,193.94,314.67
+2034,Electronics,Accessories,Orbit,609.32,1219.66
+2035,Electronics,Accessories,Luma,1173.48,2248.89
+2036,Electronics,Accessories,Mira,1118.09,2137.96
+2037,Electronics,Accessories,Vertex,303.89,487.17
+2038,Electronics,Accessories,Luma,1491.14,2392.5
+2039,Electronics,Accessories,Pulse,1226.76,1827.28
+2040,Electronics,Accessories,Vertex,1715.27,2989.16
+2041,Home,Kitchen,Vertex,165.4,265.33
+2042,Home,Kitchen,Aster,522.18,996.11
+2043,Home,Kitchen,UrbanX,931.87,1723.23
+2044,Home,Kitchen,Pulse,208.4,392.22
+2045,Home,Kitchen,Mira,959.14,1539.48
+2046,Home,Kitchen,Mira,86.0,144.91
+2047,Home,Kitchen,Nova,430.34,746.03
+2048,Home,Kitchen,Vertex,719.45,1175.83
+2049,Home,Kitchen,Pulse,35.88,53.89
+2050,Home,Kitchen,UrbanX,36.07,65.22
+2051,Home,Furniture,UrbanX,651.85,1250.49
+2052,Home,Furniture,Aster,585.41,896.14
+2053,Home,Furniture,UrbanX,559.26,1150.92
+2054,Home,Furniture,Luma,471.23,911.97
+2055,Home,Furniture,Nova,724.68,1087.36
+2056,Home,Furniture,Nova,59.46,89.01
+2057,Home,Furniture,Luma,732.56,1359.78
+2058,Home,Furniture,Orbit,368.14,723.63
+2059,Home,Furniture,Vertex,313.1,562.45
+2060,Home,Furniture,Mira,176.34,335.7
+2061,Home,Storage,UrbanX,796.98,1416.41
+2062,Home,Storage,UrbanX,917.28,1707.07
+2063,Home,Storage,Mira,861.27,1469.01
+2064,Home,Storage,Aster,250.95,441.46
+2065,Home,Storage,Orbit,650.46,1126.64
+2066,Home,Storage,Luma,429.55,790.57
+2067,Home,Storage,Orbit,285.29,414.53
+2068,Home,Storage,Luma,781.84,1351.58
+2069,Home,Storage,Luma,21.05,37.42
+2070,Home,Storage,Aster,478.07,806.53
+2071,Home,Home Decor,Luma,990.45,1733.98
+2072,Home,Home Decor,Pulse,405.56,647.31
+2073,Home,Home Decor,Aster,196.1,275.9
+2074,Home,Home Decor,UrbanX,1038.02,1461.92
+2075,Home,Home Decor,Vertex,33.11,56.61
+2076,Home,Home Decor,Vertex,863.28,1682.16
+2077,Home,Home Decor,Nova,97.81,147.39
+2078,Home,Home Decor,UrbanX,918.6,1420.02
+2079,Home,Home Decor,Nova,769.17,1308.84
+2080,Home,Home Decor,Nova,168.15,305.26
+2081,Beauty,Skincare,Orbit,195.69,274.56
+2082,Beauty,Skincare,Vertex,222.29,390.45
+2083,Beauty,Skincare,Luma,255.13,530.87
+2084,Beauty,Skincare,UrbanX,272.08,505.26
+2085,Beauty,Skincare,Mira,353.19,575.45
+2086,Beauty,Skincare,UrbanX,159.03,305.71
+2087,Beauty,Skincare,Orbit,186.2,266.34
+2088,Beauty,Skincare,Pulse,301.31,438.06
+2089,Beauty,Skincare,Mira,331.76,672.17
+2090,Beauty,Skincare,Nova,124.38,249.37
+2091,Beauty,Haircare,Nova,485.9,745.19
+2092,Beauty,Haircare,Pulse,310.32,510.56
+2093,Beauty,Haircare,Orbit,353.71,521.4
+2094,Beauty,Haircare,Orbit,321.92,488.01
+2095,Beauty,Haircare,Aster,385.95,791.44
+2096,Beauty,Haircare,UrbanX,221.36,320.03
+2097,Beauty,Haircare,Vertex,70.48,124.14
+2098,Beauty,Haircare,Nova,248.71,353.27
+2099,Beauty,Haircare,Pulse,272.52,381.94
+2100,Beauty,Haircare,Vertex,361.58,524.27
+2101,Beauty,Fragrance,Vertex,195.73,401.81
+2102,Beauty,Fragrance,Pulse,11.91,18.34
+2103,Beauty,Fragrance,Nova,290.4,448.81
+2104,Beauty,Fragrance,Pulse,21.74,37.0
+2105,Beauty,Fragrance,Luma,398.37,721.92
+2106,Beauty,Fragrance,Vertex,538.92,789.41
+2107,Beauty,Fragrance,Luma,211.01,324.3
+2108,Beauty,Fragrance,Aster,366.6,663.18
+2109,Beauty,Fragrance,UrbanX,439.64,737.01
+2110,Beauty,Fragrance,Vertex,356.56,588.61
+2111,Beauty,Personal Care,Pulse,326.21,671.8
+2112,Beauty,Personal Care,Orbit,41.75,74.46
+2113,Beauty,Personal Care,UrbanX,228.26,329.37
+2114,Beauty,Personal Care,Orbit,209.08,380.62
+2115,Beauty,Personal Care,UrbanX,260.08,459.09
+2116,Beauty,Personal Care,Vertex,23.67,46.72
+2117,Beauty,Personal Care,Vertex,189.39,302.66
+2118,Beauty,Personal Care,Mira,127.37,256.94
+2119,Beauty,Personal Care,Aster,242.51,337.68
+2120,Beauty,Personal Care,Mira,163.03,325.15
+2121,Sports,Fitness,Orbit,775.92,1160.15
+2122,Sports,Fitness,Orbit,742.48,1056.5
+2123,Sports,Fitness,Luma,611.79,1253.69
+2124,Sports,Fitness,Orbit,723.25,1054.79
+2125,Sports,Fitness,UrbanX,409.22,611.63
+2126,Sports,Fitness,Aster,162.36,259.89
+2127,Sports,Fitness,Aster,486.9,758.25
+2128,Sports,Fitness,Nova,238.68,448.73
+2129,Sports,Fitness,Aster,541.24,842.47
+2130,Sports,Fitness,Aster,479.03,938.59
+2131,Sports,Outdoor,Pulse,425.2,872.52
+2132,Sports,Outdoor,Orbit,257.22,434.48
+2133,Sports,Outdoor,Aster,86.56,163.39
+2134,Sports,Outdoor,Orbit,24.12,48.02
+2135,Sports,Outdoor,Aster,628.41,1036.31
+2136,Sports,Outdoor,Nova,348.17,544.94
+2137,Sports,Outdoor,Orbit,96.5,180.91
+2138,Sports,Outdoor,Pulse,183.44,293.98
+2139,Sports,Outdoor,Mira,306.23,499.07
+2140,Sports,Outdoor,UrbanX,679.19,1222.87
+2141,Sports,Team Sports,Orbit,400.56,614.36
+2142,Sports,Team Sports,Aster,605.78,924.89
+2143,Sports,Team Sports,Vertex,388.28,575.5
+2144,Sports,Team Sports,Nova,352.06,491.55
+2145,Sports,Team Sports,Aster,377.62,635.85
+2146,Sports,Team Sports,Vertex,379.94,556.33
+2147,Sports,Team Sports,Vertex,454.27,722.82
+2148,Sports,Team Sports,Vertex,673.26,1075.14
+2149,Sports,Team Sports,UrbanX,620.73,1101.17
+2150,Sports,Team Sports,Luma,771.05,1085.93
+2151,Sports,Running,Aster,424.79,775.68
+2152,Sports,Running,Nova,414.33,824.59
+2153,Sports,Running,Luma,334.77,539.13
+2154,Sports,Running,Nova,32.11,49.63
+2155,Sports,Running,Mira,441.48,794.37
+2156,Sports,Running,Nova,116.13,198.68
+2157,Sports,Running,UrbanX,193.0,300.53
+2158,Sports,Running,Mira,51.82,79.43
+2159,Sports,Running,Vertex,328.74,578.51
+2160,Sports,Running,Mira,88.78,157.7
