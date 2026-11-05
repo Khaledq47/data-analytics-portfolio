@@ -74,6 +74,8 @@ The Power BI dashboard tracks the following metrics:
 The report contains three pages designed to support interactive sales analysis.
 
 ### 1. Sales Performance Dashboard
+<img width="1496" height="807" alt="Screenshot 2026-11-04 152746" src="https://github.com/user-attachments/assets/83f4a083-816d-4fb4-afaf-5cd4824ff6ff" />
+
 
 Provides an overview of the company's overall performance through:
 
@@ -85,6 +87,8 @@ Provides an overview of the company's overall performance through:
 - Interactive slicers for exploring the data.
 
 ### 2. Category Details
+<img width="1800" height="792" alt="Screenshot 2026-11-05 210555" src="https://github.com/user-attachments/assets/b61fed85-1ed5-4e47-bf73-61ecb6706681" />
+
 
 Provides a deeper view of product category performance through:
 
@@ -95,6 +99,8 @@ Provides a deeper view of product category performance through:
 - Category-based drill-through navigation.
 
 ### 3. Customer Details
+<img width="1810" height="792" alt="Screenshot 2026-11-05 210621" src="https://github.com/user-attachments/assets/bdddb267-14e6-4847-ab18-b0830b61801b" />
+
 
 Provides insights into customer performance through:
 
